@@ -1,0 +1,19 @@
+{
+    "extends": "@tsconfig/node16/tsconfig.json",
+    "compilerOptions": {
+        "outDir": "./build",
+        "declaration": true,
+        "declarationDir": "./build/types",
+        "module": "ES2020",
+        "moduleResolution": "node"
+    },
+    "main": "build/index.js",
+    "types": "build/types/index.d.ts",
+    "include": [
+        "index.ts",
+        "./src/**/*"
+    ],
+    "exclude": [
+        "node_modules",
+    ]
+}
