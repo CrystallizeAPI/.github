@@ -8,7 +8,10 @@
         "moduleResolution": "node"
     },
     "main": "build/index.js",
-    "types": "build/types/index.d.ts",
+    "types": [
+        "node",
+        "build/types/index.d.ts",
+    ],
     "include": [
         "index.ts",
         "./src/**/*"

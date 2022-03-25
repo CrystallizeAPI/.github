@@ -12,13 +12,7 @@ if (major < minVersion) {
     process.exit(1);
 }
 const cli = meow(`Usage
-$ @crystallize/oss-releaser <command>
-
-Arguments:
-  sync - Synchronize the current branch accross all the repositories
-  release - Release the current branch accross all the repositories
-  help - Show this help message
-`, { importMeta: import.meta });
+$ @crystallizeapi/github-profile-generator`, { importMeta: import.meta });
 
 
 run(cli.input, cli.flags).then((code) => {
