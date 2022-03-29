@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/22/3/28/1/product-content.png" alt="Product is Content" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/product-is-content" target="_blank">Product is Content</a></h3>
+                <p>It was 2006 and eCommerce was the wild west. You don&#039;t need much of a history lesson to remember how Shopify entered the market.</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/3/16/20/how-to-use-graphql-api-with-generated-typescript-types.jpg" alt="GraphQL Type Code Generators" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/graphql-type-code-generators" target="_blank">GraphQL Type Code Generators</a></h3>
                 <p>Using GraphQL types in a frontend application avoids unexpected bugs and errors. There are code generators to automatically generate GraphQL types from a given API.</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/3/9/1/event-driven-http-caching-for-ecommerce.jpg" alt="Event-Driven HTTP Caching" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/event-driven-http-caching" target="_blank">Event-Driven HTTP Caching</a></h3>
                 <p>Let us dive into the topic typically described as the most complicated topic to learn for developers. Or better, the hardest to master.</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/22/3/7/1/pim-vs-ecommerce.jpg" alt="PIM vs. eCommerce" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/pim-vs-ecommerce" target="_blank">PIM vs. eCommerce</a></h3>
-                <p>Product Information Management (PIM) is the key to eCommerce success.</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/3/7/1/pim-vs-ecommerce.jpg" alt="PIM vs. eCommerce" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/pim-vs-ecommerce" target="_blank">PIM vs. eCommerce</a></h3>
+                    <p>Product Information Management (PIM) is the key to eCommerce success.</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/3/4/2/using-avif-in-react.jpg" alt="Using AVIF in React" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/using-avif-in-react" target="_blank">Using AVIF in React</a></h3>
                     <p>With online shopping becoming the new normal, the performance of your store is of utmost importance. One of the biggest contributors to overall page size (and thus page load speed) is the images used for products (their formats, their size).</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/2/19/1/blog_illustrations_ecommerce_seo_checklist.jpg" alt="ECommerce SEO Checklist" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/ecommerce-seo-checklist" target="_blank">ECommerce SEO Checklist</a></h3>
                     <p>Not your average list but a comprehensive 16-point eCommerce SEO checklist with everything you need to know to optimize your store and successfully grow organic traffic and revenue.</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/2/3/2/subscription-ecommerce-guide.png" alt="Subscription eCommerce Guide" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/subscription-ecommerce-guide" target="_blank">Subscription eCommerce Guide</a></h3>
-                    <p>Subscription ecommerce business models have seen fantastic growth in recent years. With <strong>Crystallize </strong>being at the forefront of it, now is the time to dive into the ins and outs of starting, running, and scaling an eCommerce subscription business.</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -58,7 +58,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/images/281_developer_comics_recurring_nightmare.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/images/281_developer_comics_recurring_nightmare.jpg" height="250" alt="Recurring Nightmare"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/images/488_developer_comics_less_is_more.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/images/488_developer_comics_less_is_more.jpg" height="250" alt="Less Is More"/></a><br />
             <h2>🎁 Open Source Boilerplates</h2>
 
 |  |  |  |  |
@@ -74,6 +74,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2022--03--27 01:05:06-green?style=flat-square&labelColor=black' alt='Generated on 2022--03--27 01:05:06'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2022--03--29 01:02:40-green?style=flat-square&labelColor=black' alt='Generated on 2022--03--29 01:02:40'/>
 
 
