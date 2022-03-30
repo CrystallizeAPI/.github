@@ -58,7 +58,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/images/488_developer_comics_less_is_more.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/images/488_developer_comics_less_is_more.jpg" height="250" alt="Less Is More"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/20/11/19/4/developer_comics_clean_design.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/20/11/19/4/developer_comics_clean_design.jpg" height="250" alt="Clean Design"/></a><br />
             <h2>🎁 Open Source Boilerplates</h2>
 
 |  |  |  |  |
@@ -74,6 +74,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2022--03--29 01:02:40-green?style=flat-square&labelColor=black' alt='Generated on 2022--03--29 01:02:40'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2022--03--30 01:02:27-green?style=flat-square&labelColor=black' alt='Generated on 2022--03--30 01:02:27'/>
 
 
