@@ -58,7 +58,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/20/9/28/1/developer_comics_its_not_just_a_phase.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/20/9/28/1/developer_comics_its_not_just_a_phase.jpg" height="250" alt="It&#39;s Not A Phase!"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/21/11/12/1/developer_comics_killer_skills.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/21/11/12/1/developer_comics_killer_skills.jpg" height="250" alt="Killer Skills"/></a><br />
             <h2>🎁 Open Source Boilerplates</h2>
 
 |  |  |  |  |
@@ -74,6 +74,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2022--03--31 01:02:39-green?style=flat-square&labelColor=black' alt='Generated on 2022--03--31 01:02:39'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2022--04--01 01:03:24-green?style=flat-square&labelColor=black' alt='Generated on 2022--04--01 01:03:24'/>
 
 
