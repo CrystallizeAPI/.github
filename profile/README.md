@@ -47,8 +47,6 @@
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
-                <li><a href="https://crystallize.com//careers/head-of-people" target="_blank">Head of people</a></li>
-                <li><a href="https://crystallize.com//careers/developer-relations-lead" target="_blank">Developer Relations Lead</a></li>
                 <li><a href="https://crystallize.com//careers/partner-sales-manager-nordic" target="_blank">Partner Sales Manager Nordic (remote)</a></li>
                 <li><a href="https://crystallize.com//careers/uiux-designer" target="_blank">UI&#x2F;UX Designer</a></li>
                 <li><a href="https://crystallize.com//careers/front-end-developer" target="_blank">Frontend Developer</a></li>
@@ -58,7 +56,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/images/631_developer_comics_make_some_noise.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/images/631_developer_comics_make_some_noise.jpg" height="250" alt="MAKE SOME NOISE"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/images/329_developer_comics_estimate_time.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/images/329_developer_comics_estimate_time.jpg" height="250" alt="Time to Estimate"/></a><br />
             <h2>🎁 Open Source Boilerplates</h2>
 
 |  |  |  |  |
@@ -74,6 +72,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2022--04--04 01:02:49-green?style=flat-square&labelColor=black' alt='Generated on 2022--04--04 01:02:49'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2022--04--05 01:02:22-green?style=flat-square&labelColor=black' alt='Generated on 2022--04--05 01:02:22'/>
 
 
