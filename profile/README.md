@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/22/4/5/1/composable-commerce.png" alt="Composable Commerce" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/composable-commerce" target="_blank">Composable Commerce</a></h3>
+                <p>Composable commerce refers to a new type of eCommerce architecture where you’re free to pick and choose each segment, allowing for better performance. And it makes sense, right?</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/3/30/1/remix-run-ecommerce-starter.png" alt="Remix Run eCommerce Starter" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/remix-run-ecommerce-starter" target="_blank">Remix Run eCommerce Starter</a></h3>
                 <p><strong>Remix</strong> is getting quite some attention lately, and being in the eCommerce space, it has caught our eye.</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/3/16/20/how-to-use-graphql-api-with-generated-typescript-types.jpg" alt="GraphQL Type Code Generators" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/graphql-type-code-generators" target="_blank">GraphQL Type Code Generators</a></h3>
                 <p>Using GraphQL types in a frontend application avoids unexpected bugs and errors. There are code generators to automatically generate GraphQL types from a given API.</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/22/3/16/11/ecommerce-seo-utimate-guide-for-2022-crystallize.jpg" alt="eCommerce SEO Guide" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/ecommerce-seo-guide" target="_blank">eCommerce SEO Guide</a></h3>
-                <p>Keeping that #1 place in search results is becoming more and more complicated, especially for online stores and eCommerce businesses. To help you stay on top of the best practices, we&#039;ve made the most comprehensive guide to <strong>eCommerce SEO</strong> you&#039;ll find online.</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/3/16/11/ecommerce-seo-utimate-guide-for-2022-crystallize.jpg" alt="eCommerce SEO Guide" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/ecommerce-seo-guide" target="_blank">eCommerce SEO Guide</a></h3>
+                    <p>Keeping that #1 place in search results is becoming more and more complicated, especially for online stores and eCommerce businesses. To help you stay on top of the best practices, we&#039;ve made the most comprehensive guide to <strong>eCommerce SEO</strong> you&#039;ll find online.</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/3/9/1/event-driven-http-caching-for-ecommerce.jpg" alt="Event-Driven HTTP Caching" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/event-driven-http-caching" target="_blank">Event-Driven HTTP Caching</a></h3>
                     <p>Let us dive into the topic typically described as the most complicated topic to learn for developers. Or better, the hardest to master.</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/2/21/1/b-commerce.jpg" alt="Rise of B-commerce" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/rise-of-b-commerce" target="_blank">Rise of B-commerce</a></h3>
                     <p>Why does only B2C eCommerce tech have all the shiny toys? Well, this is about to change.</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/2/17/2/screen-shot-2022-02-16-at-12-14-35.png" alt="Making the Switch From Shopify To Crystallize" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/making-the-switch-from-shopify-to-crystallize" target="_blank">Making the Switch From Shopify To Crystallize</a></h3>
-                    <p>Migrating from one service to another can be tricky. This is especially the case for a service such as <strong>Shopify</strong>. If you have been using it for a while, you likely have a large catalog of products and a long history of orders that make even the thought of migrating to a new service overwhelming. At <strong>Crystallize</strong>, we understand this pain and our team works hard to make moving to Crystallize a fast and seamless experience. With our newly released Shopify migration tool, switching from Shopify to Crystallize has never been easier!</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -56,7 +56,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/images/329_developer_comics_estimate_time.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/images/329_developer_comics_estimate_time.jpg" height="250" alt="Time to Estimate"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/images/646_developer_comics_oh_yeah_i_totally_get_it.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/images/646_developer_comics_oh_yeah_i_totally_get_it.jpg" height="250" alt="Oh Yeah, I Totally Get It!"/></a><br />
             <h2>🎁 Open Source Boilerplates</h2>
 
 |  |  |  |  |
@@ -72,6 +72,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2022--04--05 01:02:22-green?style=flat-square&labelColor=black' alt='Generated on 2022--04--05 01:02:22'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2022--04--06 01:02:45-green?style=flat-square&labelColor=black' alt='Generated on 2022--04--06 01:02:45'/>
 
 
