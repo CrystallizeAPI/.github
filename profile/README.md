@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/22/4/7/1/native-ecommerce-app.png" alt="Build a React Native eCommerce App with Crystallize" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/build-a-react-native-ecommerce-app-with-crystallize" target="_blank">Build a React Native eCommerce App with Crystallize</a></h3>
+                <p>React Native is a popular framework for building cross-platform mobile apps. With this in mind, we&#039;ve built <strong>React Native ecommerce app boilerplate</strong> from scratch, and in this short tutorial, I will explain how to use it.</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/4/5/1/composable-commerce.png" alt="Composable Commerce" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/composable-commerce" target="_blank">Composable Commerce</a></h3>
                 <p>Composable commerce refers to a new type of eCommerce architecture where you’re free to pick and choose each segment, allowing for better performance. And it makes sense, right?</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/3/28/1/product-content.png" alt="Product is Content" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/product-is-content" target="_blank">Product is Content</a></h3>
                 <p>It was 2006 and eCommerce was the wild west. You don&#039;t need much of a history lesson to remember how Shopify entered the market.</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/22/3/16/20/how-to-use-graphql-api-with-generated-typescript-types.jpg" alt="GraphQL Type Code Generators" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/graphql-type-code-generators" target="_blank">GraphQL Type Code Generators</a></h3>
-                <p>Using GraphQL types in a frontend application avoids unexpected bugs and errors. There are code generators to automatically generate GraphQL types from a given API.</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/3/16/20/how-to-use-graphql-api-with-generated-typescript-types.jpg" alt="GraphQL Type Code Generators" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/graphql-type-code-generators" target="_blank">GraphQL Type Code Generators</a></h3>
+                    <p>Using GraphQL types in a frontend application avoids unexpected bugs and errors. There are code generators to automatically generate GraphQL types from a given API.</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/3/16/11/ecommerce-seo-utimate-guide-for-2022-crystallize.jpg" alt="eCommerce SEO Guide" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/ecommerce-seo-guide" target="_blank">eCommerce SEO Guide</a></h3>
                     <p>Keeping that #1 place in search results is becoming more and more complicated, especially for online stores and eCommerce businesses. To help you stay on top of the best practices, we&#039;ve made the most comprehensive guide to <strong>eCommerce SEO</strong> you&#039;ll find online.</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/2/24/2/static-website-hosting-platforms.jpg" alt="Static Hosting" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/static-hosting" target="_blank">Static Hosting</a></h3>
                     <p>The static website hosting landscape has changed significantly in the past few years and is only getting better.</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/2/21/1/b-commerce.jpg" alt="Rise of B-commerce" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/rise-of-b-commerce" target="_blank">Rise of B-commerce</a></h3>
-                    <p>Why does only B2C eCommerce tech have all the shiny toys? Well, this is about to change.</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -56,7 +56,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/21/8/19/2/developer_comics_it_is_all_relative.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/21/8/19/2/developer_comics_it_is_all_relative.jpg" height="250" alt="It&#39;s All Relative"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/images/268_developer_comics_developer_vs_designer.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/images/268_developer_comics_developer_vs_designer.jpg" height="250" alt="Developer vs Designer"/></a><br />
             <h2>🎁 Open Source Boilerplates</h2>
 
 |  |  |  |  |
@@ -72,6 +72,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2022--04--07 01:03:11-green?style=flat-square&labelColor=black' alt='Generated on 2022--04--07 01:03:11'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2022--04--08 01:02:26-green?style=flat-square&labelColor=black' alt='Generated on 2022--04--08 01:02:26'/>
 
 
