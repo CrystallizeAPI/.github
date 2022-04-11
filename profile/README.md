@@ -56,7 +56,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/22/2/4/1/crystallize_strip_168.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/22/2/4/1/crystallize_strip_168.jpg" height="250" alt="Recursion"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/20/1/31/1/developer_comics_forewarned_is_forearmed.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/20/1/31/1/developer_comics_forewarned_is_forearmed.jpg" height="250" alt="Forewarned Is Forearmed"/></a><br />
             <h2>🎁 Open Source Boilerplates</h2>
 
 |  |  |  |  |
@@ -72,6 +72,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2022--04--10 01:02:33-green?style=flat-square&labelColor=black' alt='Generated on 2022--04--10 01:02:33'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2022--04--11 01:02:39-green?style=flat-square&labelColor=black' alt='Generated on 2022--04--11 01:02:39'/>
 
 
