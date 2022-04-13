@@ -4,6 +4,7 @@ import { fetchComics } from './UseCases/FetchComics.js';
 import { fetchBlogPosts } from './UseCases/FetchBlogPost.js';
 import { fetchBoilerplates } from './UseCases/FetchBoilerplates.js';
 import { fetchJobOffers } from './UseCases/FetchJobOffers.js';
+import { fetchLibraries } from './UseCases/FetchLibraries.js';
 
 export async function run(args: string[], flags: any): Promise<number> {
     const template = './templates/README.md';
@@ -29,12 +30,16 @@ export async function run(args: string[], flags: any): Promise<number> {
         //Job Offers
         const jobOffers = await fetchJobOffers(10);
 
+        //Libraries
+        const libraries = fetchLibraries();
+
         const context = {
             comic,
             jobOffers,
             mainBlogPosts,
             secondaryBlogPosts,
             boilerplates,
+            libraries,
             generatedAt: (now.split('T')[0] + ' ' + now.split('T')[1].split('.')[0]).replace(/-/g, '--'),
         };
         console.log(mustache.render(content, context));
