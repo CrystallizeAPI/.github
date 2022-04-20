@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/22/4/13/2/gatsby-vs-nextjs.jpg" alt="Gatsby Vs Next" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/gatsby-vs-next" target="_blank">Gatsby Vs Next</a></h3>
+                <p>Next.js vs Gatsby, what to choose? This is an age-old question many developers have to ask whenever they start a new React application.</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/4/7/1/native-ecommerce-app.png" alt="Build a React Native eCommerce App with Crystallize" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/build-a-react-native-ecommerce-app-with-crystallize" target="_blank">Build a React Native eCommerce App with Crystallize</a></h3>
                 <p>React Native is a popular framework for building cross-platform mobile apps. With this in mind, we&#039;ve built <strong>React Native ecommerce app boilerplate</strong> from scratch, and in this short tutorial, I will explain how to use it.</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/3/30/1/remix-run-ecommerce-starter.png" alt="Remix Run eCommerce Starter" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/remix-run-ecommerce-starter" target="_blank">Remix Run eCommerce Starter</a></h3>
                 <p><strong>Remix</strong> is getting quite some attention lately, and being in the eCommerce space, it has caught our eye.</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/22/3/28/1/product-content.png" alt="Product is Content" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/product-is-content" target="_blank">Product is Content</a></h3>
-                <p>It was 2006 and eCommerce was the wild west. You don&#039;t need much of a history lesson to remember how Shopify entered the market.</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/3/28/1/product-content.png" alt="Product is Content" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/product-is-content" target="_blank">Product is Content</a></h3>
+                    <p>It was 2006 and eCommerce was the wild west. You don&#039;t need much of a history lesson to remember how Shopify entered the market.</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/3/16/20/how-to-use-graphql-api-with-generated-typescript-types.jpg" alt="GraphQL Type Code Generators" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/graphql-type-code-generators" target="_blank">GraphQL Type Code Generators</a></h3>
                     <p>Using GraphQL types in a frontend application avoids unexpected bugs and errors. There are code generators to automatically generate GraphQL types from a given API.</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/2/28/2/free-conference-website-template.jpg" alt="Free Conference Website Template " width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/free-conference-website-template" target="_blank">Free Conference Website Template </a></h3>
                     <p>Hosting a conference? You’re already in talks with speakers, sponsors, venues, etc. while planning marketing activities, and you need an awesome-looking website, but don&#039;t have too much time for it. Enter the <strong>Intergalactic Conference</strong> boilerplate.</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/2/24/2/static-website-hosting-platforms.jpg" alt="Static Hosting" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/static-hosting" target="_blank">Static Hosting</a></h3>
-                    <p>The static website hosting landscape has changed significantly in the past few years and is only getting better.</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -56,7 +56,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/19/11/1/1/developer_comics_proportions.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/19/11/1/1/developer_comics_proportions.jpg" height="250" alt="Simple Logic"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/22/3/25/1/crystallize_strip_two_rules_175.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/22/3/25/1/crystallize_strip_two_rules_175.jpg" height="250" alt="Two Rules"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -81,6 +81,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2022--04--19 01:03:11-green?style=flat-square&labelColor=black' alt='Generated on 2022--04--19 01:03:11'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2022--04--20 01:03:29-green?style=flat-square&labelColor=black' alt='Generated on 2022--04--20 01:03:29'/>
 
 
