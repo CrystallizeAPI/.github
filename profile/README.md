@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/22/4/21/1/working-locally-with-https.jpg" alt="Production Like Local Dev Environment" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/production-like-local-dev-environment" target="_blank">Production Like Local Dev Environment</a></h3>
+                <p>Working as a team on a professional setup that implies many “micro/macro” services is challenging and can lead to invisible and unexpected errors if not set up well. Time to market, first time to success, and reducing the feedback loop are important topics for all your teams. This article is about setting up your project for a successful production workflow.</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/4/13/2/gatsby-vs-nextjs.jpg" alt="Gatsby Vs Next" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/gatsby-vs-next" target="_blank">Gatsby Vs Next</a></h3>
                 <p>Next.js vs Gatsby, what to choose? This is an age-old question many developers have to ask whenever they start a new React application.</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/4/5/1/composable-commerce.png" alt="Composable Commerce" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/composable-commerce" target="_blank">Composable Commerce</a></h3>
                 <p>Composable commerce refers to a new type of eCommerce architecture where you’re free to pick and choose each segment, allowing for better performance. And it makes sense, right?</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/22/3/30/1/remix-run-ecommerce-starter.png" alt="Remix Run eCommerce Starter" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/remix-run-ecommerce-starter" target="_blank">Remix Run eCommerce Starter</a></h3>
-                <p><strong>Remix</strong> is getting quite some attention lately, and being in the eCommerce space, it has caught our eye.</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/3/30/1/remix-run-ecommerce-starter.png" alt="Remix Run eCommerce Starter" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/remix-run-ecommerce-starter" target="_blank">Remix Run eCommerce Starter</a></h3>
+                    <p><strong>Remix</strong> is getting quite some attention lately, and being in the eCommerce space, it has caught our eye.</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/3/28/1/product-content.png" alt="Product is Content" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/product-is-content" target="_blank">Product is Content</a></h3>
                     <p>It was 2006 and eCommerce was the wild west. You don&#039;t need much of a history lesson to remember how Shopify entered the market.</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/3/4/2/using-avif-in-react.jpg" alt="Using AVIF in React" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/using-avif-in-react" target="_blank">Using AVIF in React</a></h3>
                     <p>With online shopping becoming the new normal, the performance of your store is of utmost importance. One of the biggest contributors to overall page size (and thus page load speed) is the images used for products (their formats, their size).</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/2/28/2/free-conference-website-template.jpg" alt="Free Conference Website Template " width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/free-conference-website-template" target="_blank">Free Conference Website Template </a></h3>
-                    <p>Hosting a conference? You’re already in talks with speakers, sponsors, venues, etc. while planning marketing activities, and you need an awesome-looking website, but don&#039;t have too much time for it. Enter the <strong>Intergalactic Conference</strong> boilerplate.</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -56,7 +56,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/images/583_developer_comics_how_to_accept_criticism_with_grace.png" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/images/583_developer_comics_how_to_accept_criticism_with_grace.png" height="250" alt="I Respect Your Criticism But..."/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/20/4/2/1/developer_comics_busted.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/20/4/2/1/developer_comics_busted.jpg" height="250" alt="Busted"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -81,6 +81,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2022--04--21 01:02:55-green?style=flat-square&labelColor=black' alt='Generated on 2022--04--21 01:02:55'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2022--04--22 01:03:06-green?style=flat-square&labelColor=black' alt='Generated on 2022--04--22 01:03:06'/>
 
 
