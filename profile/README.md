@@ -47,6 +47,7 @@
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
+                <li><a href="https://crystallize.com//careers/developer-experience-engineer" target="_blank">Developer Experience Engineer</a></li>
                 <li><a href="https://crystallize.com//careers/partner-sales-manager-nordic" target="_blank">Partner Sales Manager Nordic (remote)</a></li>
                 <li><a href="https://crystallize.com//careers/uiux-designer" target="_blank">UI&#x2F;UX Designer</a></li>
                 <li><a href="https://crystallize.com//careers/front-end-developer" target="_blank">Frontend Developer</a></li>
@@ -56,7 +57,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/21/4/23/15/developer_comics_the_twist.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/21/4/23/15/developer_comics_the_twist.jpg" height="250" alt="The Twist"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/21/6/11/1/developer_comics_cant_have_everything.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/21/6/11/1/developer_comics_cant_have_everything.jpg" height="250" alt="Can&#39;t Have Everything"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -81,6 +82,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2022--04--25 01:03:31-green?style=flat-square&labelColor=black' alt='Generated on 2022--04--25 01:03:31'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2022--04--26 01:03:38-green?style=flat-square&labelColor=black' alt='Generated on 2022--04--26 01:03:38'/>
 
 
