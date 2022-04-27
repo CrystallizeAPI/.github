@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/22/4/26/1/dam.png" alt="Digital Asset Management" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/digital-asset-management" target="_blank">Digital Asset Management</a></h3>
+                <p>The more your business and your store grow, the harder your digital asset management (DAM) will become.</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/4/21/1/working-locally-with-https.jpg" alt="Production Like Local Dev Environment" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/production-like-local-dev-environment" target="_blank">Production Like Local Dev Environment</a></h3>
                 <p>Working as a team on a professional setup that implies many “micro/macro” services is challenging and can lead to invisible and unexpected errors if not set up well. Time to market, first time to success, and reducing the feedback loop are important topics for all your teams. This article is about setting up your project for a successful production workflow.</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/4/7/1/native-ecommerce-app.png" alt="Build a React Native eCommerce App with Crystallize" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/build-a-react-native-ecommerce-app-with-crystallize" target="_blank">Build a React Native eCommerce App with Crystallize</a></h3>
                 <p>React Native is a popular framework for building cross-platform mobile apps. With this in mind, we&#039;ve built <strong>React Native ecommerce app boilerplate</strong> from scratch, and in this short tutorial, I will explain how to use it.</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/22/4/5/1/composable-commerce.png" alt="Composable Commerce" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/composable-commerce" target="_blank">Composable Commerce</a></h3>
-                <p>Composable commerce refers to a new type of eCommerce architecture where you’re free to pick and choose each segment, allowing for better performance. And it makes sense, right?</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/4/5/1/composable-commerce.png" alt="Composable Commerce" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/composable-commerce" target="_blank">Composable Commerce</a></h3>
+                    <p>Composable commerce refers to a new type of eCommerce architecture where you’re free to pick and choose each segment, allowing for better performance. And it makes sense, right?</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/3/30/1/remix-run-ecommerce-starter.png" alt="Remix Run eCommerce Starter" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/remix-run-ecommerce-starter" target="_blank">Remix Run eCommerce Starter</a></h3>
                     <p><strong>Remix</strong> is getting quite some attention lately, and being in the eCommerce space, it has caught our eye.</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/3/7/1/pim-vs-ecommerce.jpg" alt="PIM vs. eCommerce" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/pim-vs-ecommerce" target="_blank">PIM vs. eCommerce</a></h3>
                     <p>Product Information Management (PIM) is the key to eCommerce success.</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/3/4/2/using-avif-in-react.jpg" alt="Using AVIF in React" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/using-avif-in-react" target="_blank">Using AVIF in React</a></h3>
-                    <p>With online shopping becoming the new normal, the performance of your store is of utmost importance. One of the biggest contributors to overall page size (and thus page load speed) is the images used for products (their formats, their size).</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -57,7 +57,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/21/6/11/1/developer_comics_cant_have_everything.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/21/6/11/1/developer_comics_cant_have_everything.jpg" height="250" alt="Can&#39;t Have Everything"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/22/3/25/1/crystallize_strip_two_rules_175.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/22/3/25/1/crystallize_strip_two_rules_175.jpg" height="250" alt="Two Rules"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -82,6 +82,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2022--04--26 01:03:38-green?style=flat-square&labelColor=black' alt='Generated on 2022--04--26 01:03:38'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2022--04--27 01:04:00-green?style=flat-square&labelColor=black' alt='Generated on 2022--04--27 01:04:00'/>
 
 
