@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/22/5/5/1/product-page-seo.png" alt="Product Page SEO" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/product-page-seo" target="_blank">Product Page SEO</a></h3>
+                <p>For any and all eCommerce businesses, the product pages are crucial pages no matter the shape and size of their online store. With that being the case, how do you optimize your product pages for SEO and high conversions?</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/5/3/1/migrating-our-frontend-to-typescript.jpg" alt="Migrating Frontend TypeScript" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/migrating-frontend-typescript" target="_blank">Migrating Frontend TypeScript</a></h3>
                 <p>TypeScript is developed with the idea to help teams avoid common mistakes early through a type system and to make JavaScript development more efficient. An awesome tool to have in your toolset.</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/4/21/1/working-locally-with-https.jpg" alt="Production Like Local Dev Environment" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/production-like-local-dev-environment" target="_blank">Production Like Local Dev Environment</a></h3>
                 <p>Working as a team on a professional setup that implies many “micro/macro” services is challenging and can lead to invisible and unexpected errors if not set up well. Time to market, first time to success, and reducing the feedback loop are important topics for all your teams. This article is about setting up your project for a successful production workflow.</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/22/4/13/2/gatsby-vs-nextjs.jpg" alt="Gatsby Vs Next" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/gatsby-vs-next" target="_blank">Gatsby Vs Next</a></h3>
-                <p>Next.js vs Gatsby, what to choose? This is an age-old question many developers have to ask whenever they start a new React application.</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/4/13/2/gatsby-vs-nextjs.jpg" alt="Gatsby Vs Next" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/gatsby-vs-next" target="_blank">Gatsby Vs Next</a></h3>
+                    <p>Next.js vs Gatsby, what to choose? This is an age-old question many developers have to ask whenever they start a new React application.</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/4/7/1/native-ecommerce-app.png" alt="Build a React Native eCommerce App with Crystallize" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/build-a-react-native-ecommerce-app-with-crystallize" target="_blank">Build a React Native eCommerce App with Crystallize</a></h3>
                     <p>React Native is a popular framework for building cross-platform mobile apps. With this in mind, we&#039;ve built <strong>React Native ecommerce app boilerplate</strong> from scratch, and in this short tutorial, I will explain how to use it.</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/3/16/11/ecommerce-seo-utimate-guide-for-2022-crystallize.jpg" alt="eCommerce SEO Guide" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/ecommerce-seo-guide" target="_blank">eCommerce SEO Guide</a></h3>
                     <p>Keeping that #1 place in search results is becoming more and more complicated, especially for online stores and eCommerce businesses. To help you stay on top of the best practices, we&#039;ve made the most comprehensive guide to <strong>eCommerce SEO</strong> you&#039;ll find online.</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/3/9/1/event-driven-http-caching-for-ecommerce.jpg" alt="Event-Driven HTTP Caching" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/event-driven-http-caching" target="_blank">Event-Driven HTTP Caching</a></h3>
-                    <p>Let us dive into the topic typically described as the most complicated topic to learn for developers. Or better, the hardest to master.</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -57,7 +57,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/images/578_developer_comics_the_usual_price.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/images/578_developer_comics_the_usual_price.jpg" height="250" alt="High Hopes"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/images/412_crystallize_strip_06.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/images/412_crystallize_strip_06.jpg" height="250" alt="Old School vs Serverless Deployment"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -82,6 +82,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2022--05--05 01:03:22-green?style=flat-square&labelColor=black' alt='Generated on 2022--05--05 01:03:22'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2022--05--06 01:02:38-green?style=flat-square&labelColor=black' alt='Generated on 2022--05--06 01:02:38'/>
 
 
