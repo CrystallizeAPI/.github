@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/22/5/10/1/omnichannel-commerce.png" alt="Omnichannel Commerce" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/omnichannel-commerce" target="_blank">Omnichannel Commerce</a></h3>
+                <p>Omnichannel commerce is all about meeting your customers where they feel comfortable shopping - and with just the right information.</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/5/5/1/product-page-seo.png" alt="Product Page SEO" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/product-page-seo" target="_blank">Product Page SEO</a></h3>
                 <p>For any and all eCommerce businesses, the product pages are crucial pages no matter the shape and size of their online store. With that being the case, how do you optimize your product pages for SEO and high conversions?</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/4/26/1/dam.png" alt="Digital Asset Management" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/digital-asset-management" target="_blank">Digital Asset Management</a></h3>
                 <p>The more your business and your store grow, the harder your digital asset management (DAM) will become.</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/22/4/21/1/working-locally-with-https.jpg" alt="Production Like Local Dev Environment" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/production-like-local-dev-environment" target="_blank">Production Like Local Dev Environment</a></h3>
-                <p>Working as a team on a professional setup that implies many “micro/macro” services is challenging and can lead to invisible and unexpected errors if not set up well. Time to market, first time to success, and reducing the feedback loop are important topics for all your teams. This article is about setting up your project for a successful production workflow.</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/4/21/1/working-locally-with-https.jpg" alt="Production Like Local Dev Environment" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/production-like-local-dev-environment" target="_blank">Production Like Local Dev Environment</a></h3>
+                    <p>Working as a team on a professional setup that implies many “micro/macro” services is challenging and can lead to invisible and unexpected errors if not set up well. Time to market, first time to success, and reducing the feedback loop are important topics for all your teams. This article is about setting up your project for a successful production workflow.</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/4/13/2/gatsby-vs-nextjs.jpg" alt="Gatsby Vs Next" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/gatsby-vs-next" target="_blank">Gatsby Vs Next</a></h3>
                     <p>Next.js vs Gatsby, what to choose? This is an age-old question many developers have to ask whenever they start a new React application.</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/3/16/20/how-to-use-graphql-api-with-generated-typescript-types.jpg" alt="GraphQL Type Code Generators" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/graphql-type-code-generators" target="_blank">GraphQL Type Code Generators</a></h3>
                     <p>Using GraphQL types in a frontend application avoids unexpected bugs and errors. There are code generators to automatically generate GraphQL types from a given API.</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/3/16/11/ecommerce-seo-utimate-guide-for-2022-crystallize.jpg" alt="eCommerce SEO Guide" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/ecommerce-seo-guide" target="_blank">eCommerce SEO Guide</a></h3>
-                    <p>Keeping that #1 place in search results is becoming more and more complicated, especially for online stores and eCommerce businesses. To help you stay on top of the best practices, we&#039;ve made the most comprehensive guide to <strong>eCommerce SEO</strong> you&#039;ll find online.</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -57,7 +57,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/images/418_developer_comics_a_helping_hand.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/images/418_developer_comics_a_helping_hand.jpg" height="250" alt="A Helping Hand"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/images/314_developer_comics_make_it_pop.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/images/314_developer_comics_make_it_pop.jpg" height="250" alt="Make It POP"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -82,6 +82,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2022--05--10 01:02:36-green?style=flat-square&labelColor=black' alt='Generated on 2022--05--10 01:02:36'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2022--05--11 01:03:52-green?style=flat-square&labelColor=black' alt='Generated on 2022--05--11 01:03:52'/>
 
 
