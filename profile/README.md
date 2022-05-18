@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/22/5/17/1/fast-loading-google-tag-manager.png" alt="Fast Loading Google Tag Manager" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/fast-loading-google-tag-manager" target="_blank">Fast Loading Google Tag Manager</a></h3>
+                <p>Google Tag Manager can influence your overall website performance just as any other external 3rd party script. Luckily, there are a couple of things that you can do in that regard.</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/5/10/1/omnichannel-commerce.png" alt="Omnichannel Commerce" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/omnichannel-commerce" target="_blank">Omnichannel Commerce</a></h3>
                 <p>Omnichannel commerce is all about meeting your customers where they feel comfortable shopping - and with just the right information.</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/5/3/1/migrating-our-frontend-to-typescript.jpg" alt="Migrating Frontend TypeScript" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/migrating-frontend-typescript" target="_blank">Migrating Frontend TypeScript</a></h3>
                 <p>TypeScript is developed with the idea to help teams avoid common mistakes early through a type system and to make JavaScript development more efficient. An awesome tool to have in your toolset.</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/22/4/26/1/dam.png" alt="Digital Asset Management" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/digital-asset-management" target="_blank">Digital Asset Management</a></h3>
-                <p>The more your business and your store grow, the harder your digital asset management (DAM) will become.</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/4/26/1/dam.png" alt="Digital Asset Management" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/digital-asset-management" target="_blank">Digital Asset Management</a></h3>
+                    <p>The more your business and your store grow, the harder your digital asset management (DAM) will become.</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/4/21/1/working-locally-with-https.jpg" alt="Production Like Local Dev Environment" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/production-like-local-dev-environment" target="_blank">Production Like Local Dev Environment</a></h3>
                     <p>Working as a team on a professional setup that implies many “micro/macro” services is challenging and can lead to invisible and unexpected errors if not set up well. Time to market, first time to success, and reducing the feedback loop are important topics for all your teams. This article is about setting up your project for a successful production workflow.</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/3/28/1/product-content.png" alt="Product is Content" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/product-is-content" target="_blank">Product is Content</a></h3>
                     <p>It was 2006 and eCommerce was the wild west. You don&#039;t need much of a history lesson to remember how Shopify entered the market.</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/3/16/20/how-to-use-graphql-api-with-generated-typescript-types.jpg" alt="GraphQL Type Code Generators" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/graphql-type-code-generators" target="_blank">GraphQL Type Code Generators</a></h3>
-                    <p>Using GraphQL types in a frontend application avoids unexpected bugs and errors. There are code generators to automatically generate GraphQL types from a given API.</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -57,7 +57,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/21/8/13/1/developer_comics_head_in_the_clouds.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/21/8/13/1/developer_comics_head_in_the_clouds.jpg" height="250" alt="Head In The Clouds"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/21/8/19/2/developer_comics_it_is_all_relative.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/21/8/19/2/developer_comics_it_is_all_relative.jpg" height="250" alt="It&#39;s All Relative"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -82,6 +82,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2022--05--17 01:03:17-green?style=flat-square&labelColor=black' alt='Generated on 2022--05--17 01:03:17'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2022--05--18 01:03:42-green?style=flat-square&labelColor=black' alt='Generated on 2022--05--18 01:03:42'/>
 
 
