@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/22/5/23/1/content-modeling-101.jpg" alt="Content Modeling 101" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/content-modeling-101" target="_blank">Content Modeling 101</a></h3>
+                <p>Content modeling is an interesting topic and lays the foundation for a great eCommerce architecture. When done correctly, of course.</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/5/17/1/fast-loading-google-tag-manager.png" alt="Fast Loading Google Tag Manager" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/fast-loading-google-tag-manager" target="_blank">Fast Loading Google Tag Manager</a></h3>
                 <p>Google Tag Manager can influence your overall website performance just as any other external 3rd party script. Luckily, there are a couple of things that you can do in that regard.</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/5/5/1/product-page-seo.png" alt="Product Page SEO" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/product-page-seo" target="_blank">Product Page SEO</a></h3>
                 <p>For any and all eCommerce businesses, the product pages are crucial pages no matter the shape and size of their online store. With that being the case, how do you optimize your product pages for SEO and high conversions?</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/22/5/3/1/migrating-our-frontend-to-typescript.jpg" alt="Migrating Frontend TypeScript" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/migrating-frontend-typescript" target="_blank">Migrating Frontend TypeScript</a></h3>
-                <p>TypeScript is developed with the idea to help teams avoid common mistakes early through a type system and to make JavaScript development more efficient. An awesome tool to have in your toolset.</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/5/3/1/migrating-our-frontend-to-typescript.jpg" alt="Migrating Frontend TypeScript" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/migrating-frontend-typescript" target="_blank">Migrating Frontend TypeScript</a></h3>
+                    <p>TypeScript is developed with the idea to help teams avoid common mistakes early through a type system and to make JavaScript development more efficient. An awesome tool to have in your toolset.</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/4/26/1/dam.png" alt="Digital Asset Management" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/digital-asset-management" target="_blank">Digital Asset Management</a></h3>
                     <p>The more your business and your store grow, the harder your digital asset management (DAM) will become.</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/3/30/1/remix-run-ecommerce-starter.png" alt="Remix Run eCommerce Starter" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/remix-run-ecommerce-starter" target="_blank">Remix Run eCommerce Starter</a></h3>
                     <p><strong>Remix</strong> is getting quite some attention lately, and being in the eCommerce space, it has caught our eye.</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/3/28/1/product-content.png" alt="Product is Content" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/product-is-content" target="_blank">Product is Content</a></h3>
-                    <p>It was 2006 and eCommerce was the wild west. You don&#039;t need much of a history lesson to remember how Shopify entered the market.</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -57,7 +57,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/20/6/2/1/crystallize_strip_86.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/20/6/2/1/crystallize_strip_86.jpg" height="250" alt="Unstructured vs Structured"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/20/5/8/6/developer_comics_right_in_the_spot.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/20/5/8/6/developer_comics_right_in_the_spot.jpg" height="250" alt="Right In The Spot"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -82,6 +82,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2022--05--25 01:03:01-green?style=flat-square&labelColor=black' alt='Generated on 2022--05--25 01:03:01'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2022--05--26 01:03:15-green?style=flat-square&labelColor=black' alt='Generated on 2022--05--26 01:03:15'/>
 
 
