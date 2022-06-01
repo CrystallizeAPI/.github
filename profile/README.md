@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/22/5/31/1/frontend-web-development-tools.png" alt="Web Development Tools" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/web-development-tools" target="_blank">Web Development Tools</a></h3>
+                <p>Developing web applications has never been easier and more enjoyable. The open-source communities are building more and more tools that enable us, developers, to become more efficient and improve the overall developer experience (DX). Now the question becomes: which are the essential web development tools to pick in 2022?</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/5/23/1/content-modeling-101.jpg" alt="Content Modeling 101" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/content-modeling-101" target="_blank">Content Modeling 101</a></h3>
                 <p>Content modeling is an interesting topic and lays the foundation for a great eCommerce architecture. When done correctly, of course.</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/5/10/1/omnichannel-commerce.png" alt="Omnichannel Commerce" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/omnichannel-commerce" target="_blank">Omnichannel Commerce</a></h3>
                 <p>Omnichannel commerce is all about meeting your customers where they feel comfortable shopping - and with just the right information.</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/22/5/5/1/product-page-seo.png" alt="Product Page SEO" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/product-page-seo" target="_blank">Product Page SEO</a></h3>
-                <p>For any and all eCommerce businesses, the product pages are crucial pages no matter the shape and size of their online store. With that being the case, how do you optimize your product pages for SEO and high conversions?</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/5/5/1/product-page-seo.png" alt="Product Page SEO" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/product-page-seo" target="_blank">Product Page SEO</a></h3>
+                    <p>For any and all eCommerce businesses, the product pages are crucial pages no matter the shape and size of their online store. With that being the case, how do you optimize your product pages for SEO and high conversions?</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/5/3/1/migrating-our-frontend-to-typescript.jpg" alt="Migrating Frontend TypeScript" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/migrating-frontend-typescript" target="_blank">Migrating Frontend TypeScript</a></h3>
                     <p>TypeScript is developed with the idea to help teams avoid common mistakes early through a type system and to make JavaScript development more efficient. An awesome tool to have in your toolset.</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/4/5/1/composable-commerce.png" alt="Composable Commerce" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/composable-commerce" target="_blank">Composable Commerce</a></h3>
                     <p>Composable commerce refers to a new type of eCommerce architecture where you’re free to pick and choose each segment, allowing for better performance. And it makes sense, right?</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/3/30/1/remix-run-ecommerce-starter.png" alt="Remix Run eCommerce Starter" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/remix-run-ecommerce-starter" target="_blank">Remix Run eCommerce Starter</a></h3>
-                    <p><strong>Remix</strong> is getting quite some attention lately, and being in the eCommerce space, it has caught our eye.</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -57,7 +57,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/20/2/24/6/developer_comics_they_see_me_rollin_they_hatin.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/20/2/24/6/developer_comics_they_see_me_rollin_they_hatin.jpg" height="250" alt="They See Me Rollin&#39;, They Hatin&#39;"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/22/2/11/1/crystallize_strip_let_me_call_you_169.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/22/2/11/1/crystallize_strip_let_me_call_you_169.jpg" height="250" alt=" Let Me Call You"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -82,6 +82,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2022--05--31 01:03:45-green?style=flat-square&labelColor=black' alt='Generated on 2022--05--31 01:03:45'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2022--06--01 01:04:39-green?style=flat-square&labelColor=black' alt='Generated on 2022--06--01 01:04:39'/>
 
 
