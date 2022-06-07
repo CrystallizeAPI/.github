@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/22/6/6/1/remix-conf-2022.png" alt="Remix Conf 2022" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/remix-conf-2022" target="_blank">Remix Conf 2022</a></h3>
+                <p>So <strong>RemixConf2022</strong> happened last month. Remix Run is on fire. This tool/framework is the key to Frontend performance with its progressive unique approach. During the conference we’ve learned a lot about Remix, from its core concepts to navigation through the state machine, forms, HTTP cache, and more, and all transparently degraded when Javascript is off!</p>,<p>But let’s start from the beginning.</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/5/31/1/frontend-web-development-tools.png" alt="Web Development Tools" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/web-development-tools" target="_blank">Web Development Tools</a></h3>
                 <p>Developing web applications has never been easier and more enjoyable. The open-source communities are building more and more tools that enable us, developers, to become more efficient and improve the overall developer experience (DX). Now the question becomes: which are the essential web development tools to pick in 2022?</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/5/17/1/fast-loading-google-tag-manager.png" alt="Fast Loading Google Tag Manager" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/fast-loading-google-tag-manager" target="_blank">Fast Loading Google Tag Manager</a></h3>
                 <p>Google Tag Manager can influence your overall website performance just as any other external 3rd party script. Luckily, there are a couple of things that you can do in that regard.</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/22/5/10/1/omnichannel-commerce.png" alt="Omnichannel Commerce" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/omnichannel-commerce" target="_blank">Omnichannel Commerce</a></h3>
-                <p>Omnichannel commerce is all about meeting your customers where they feel comfortable shopping - and with just the right information.</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/5/10/1/omnichannel-commerce.png" alt="Omnichannel Commerce" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/omnichannel-commerce" target="_blank">Omnichannel Commerce</a></h3>
+                    <p>Omnichannel commerce is all about meeting your customers where they feel comfortable shopping - and with just the right information.</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/5/5/1/product-page-seo.png" alt="Product Page SEO" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/product-page-seo" target="_blank">Product Page SEO</a></h3>
                     <p>For any and all eCommerce businesses, the product pages are crucial pages no matter the shape and size of their online store. With that being the case, how do you optimize your product pages for SEO and high conversions?</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/4/7/1/native-ecommerce-app.png" alt="Build a React Native eCommerce App with Crystallize" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/build-a-react-native-ecommerce-app-with-crystallize" target="_blank">Build a React Native eCommerce App with Crystallize</a></h3>
                     <p>React Native is a popular framework for building cross-platform mobile apps. With this in mind, we&#039;ve built <strong>React Native ecommerce app boilerplate</strong> from scratch, and in this short tutorial, I will explain how to use it.</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/4/5/1/composable-commerce.png" alt="Composable Commerce" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/composable-commerce" target="_blank">Composable Commerce</a></h3>
-                    <p>Composable commerce refers to a new type of eCommerce architecture where you’re free to pick and choose each segment, allowing for better performance. And it makes sense, right?</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -57,7 +57,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/21/7/9/3/developer_comics_the_desperation.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/21/7/9/3/developer_comics_the_desperation.jpg" height="250" alt="The Desperation"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/images/363_developer_comics_when_dreams_come_true.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/images/363_developer_comics_when_dreams_come_true.jpg" height="250" alt="When Dreams Come True"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -82,6 +82,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2022--06--06 01:04:35-green?style=flat-square&labelColor=black' alt='Generated on 2022--06--06 01:04:35'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2022--06--07 01:03:33-green?style=flat-square&labelColor=black' alt='Generated on 2022--06--07 01:03:33'/>
 
 
