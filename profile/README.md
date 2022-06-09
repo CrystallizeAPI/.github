@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/22/6/8/1/api-vs-microservices.png" alt="APIs vs Microservices" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/apis-vs-microservices" target="_blank">APIs vs Microservices</a></h3>
+                <p>APIs and microservices. What are they? How do you use them, and what is the difference between them?</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/6/6/1/remix-conf-2022.png" alt="Remix Conf 2022" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/remix-conf-2022" target="_blank">Remix Conf 2022</a></h3>
                 <p>So <strong>RemixConf2022</strong> happened last month. Remix Run is on fire. This tool/framework is the key to Frontend performance with its progressive unique approach. During the conference we’ve learned a lot about Remix, from its core concepts to navigation through the state machine, forms, HTTP cache, and more, and all transparently degraded when Javascript is off!</p>,<p>But let’s start from the beginning.</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/5/23/1/content-modeling-101.jpg" alt="Content Modeling 101" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/content-modeling-101" target="_blank">Content Modeling 101</a></h3>
                 <p>Content modeling is an interesting topic and lays the foundation for a great eCommerce architecture. When done correctly, of course.</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/22/5/17/1/fast-loading-google-tag-manager.png" alt="Fast Loading Google Tag Manager" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/fast-loading-google-tag-manager" target="_blank">Fast Loading Google Tag Manager</a></h3>
-                <p>Google Tag Manager can influence your overall website performance just as any other external 3rd party script. Luckily, there are a couple of things that you can do in that regard.</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/5/17/1/fast-loading-google-tag-manager.png" alt="Fast Loading Google Tag Manager" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/fast-loading-google-tag-manager" target="_blank">Fast Loading Google Tag Manager</a></h3>
+                    <p>Google Tag Manager can influence your overall website performance just as any other external 3rd party script. Luckily, there are a couple of things that you can do in that regard.</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/5/10/1/omnichannel-commerce.png" alt="Omnichannel Commerce" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/omnichannel-commerce" target="_blank">Omnichannel Commerce</a></h3>
                     <p>Omnichannel commerce is all about meeting your customers where they feel comfortable shopping - and with just the right information.</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/4/13/2/gatsby-vs-nextjs.jpg" alt="Gatsby Vs Next" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/gatsby-vs-next" target="_blank">Gatsby Vs Next</a></h3>
                     <p>Next.js vs Gatsby, what to choose? This is an age-old question many developers have to ask whenever they start a new React application.</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/4/7/1/native-ecommerce-app.png" alt="Build a React Native eCommerce App with Crystallize" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/build-a-react-native-ecommerce-app-with-crystallize" target="_blank">Build a React Native eCommerce App with Crystallize</a></h3>
-                    <p>React Native is a popular framework for building cross-platform mobile apps. With this in mind, we&#039;ve built <strong>React Native ecommerce app boilerplate</strong> from scratch, and in this short tutorial, I will explain how to use it.</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -57,7 +57,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/20/6/8/1/developer_comics_no_stress.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/20/6/8/1/developer_comics_no_stress.jpg" height="250" alt="No Stress"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/20/7/1/2/developer_comics_the_real_mvp.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/20/7/1/2/developer_comics_the_real_mvp.jpg" height="250" alt="The Real MVP"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -82,6 +82,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2022--06--08 01:02:56-green?style=flat-square&labelColor=black' alt='Generated on 2022--06--08 01:02:56'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2022--06--09 01:05:09-green?style=flat-square&labelColor=black' alt='Generated on 2022--06--09 01:05:09'/>
 
 
