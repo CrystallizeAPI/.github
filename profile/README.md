@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/22/6/21/1/subscription-business-model.png" alt="Subscription Business Model" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/subscription-business-model" target="_blank">Subscription Business Model</a></h3>
+                <p>A regular, monthly influx of revenue from faithful customers? Who wouldn’t want to get in on that?! But how do you know if a subscription model is a right approach for your business?</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/6/14/2/google-analytics-4.png" alt="Google Analytics 4 eCommerce" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/google-analytics-4-ecommerce" target="_blank">Google Analytics 4 eCommerce</a></h3>
                 <p>Google announced Universal Analytics (UA) will no longer process new data in standard properties beginning July 1, 2023, and that you should be moving to Google Analytics 4 (GA4). It’s not like the world is ending, right? But what does that mean for your business?</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/6/8/1/api-vs-microservices.png" alt="APIs vs Microservices" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/apis-vs-microservices" target="_blank">APIs vs Microservices</a></h3>
                 <p>APIs and microservices. What are they? How do you use them, and what is the difference between them?</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/22/6/6/1/remix-conf-2022.png" alt="Remix Conf 2022" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/remix-conf-2022" target="_blank">Remix Conf 2022</a></h3>
-                <p>So <strong>RemixConf2022</strong> happened last month. Remix Run is on fire. This tool/framework is the key to Frontend performance with its progressive unique approach. During the conference we’ve learned a lot about Remix, from its core concepts to navigation through the state machine, forms, HTTP cache, and more, and all transparently degraded when Javascript is off!</p>,<p>But let’s start from the beginning.</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/6/6/1/remix-conf-2022.png" alt="Remix Conf 2022" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/remix-conf-2022" target="_blank">Remix Conf 2022</a></h3>
+                    <p>So <strong>RemixConf2022</strong> happened last month. Remix Run is on fire. This tool/framework is the key to Frontend performance with its progressive unique approach. During the conference we’ve learned a lot about Remix, from its core concepts to navigation through the state machine, forms, HTTP cache, and more, and all transparently degraded when Javascript is off!</p>,<p>But let’s start from the beginning.</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/5/31/1/frontend-web-development-tools.png" alt="Web Development Tools" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/web-development-tools" target="_blank">Web Development Tools</a></h3>
                     <p>Developing web applications has never been easier and more enjoyable. The open-source communities are building more and more tools that enable us, developers, to become more efficient and improve the overall developer experience (DX). Now the question becomes: which are the essential web development tools to pick in 2022?</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/5/3/1/migrating-our-frontend-to-typescript.jpg" alt="Migrating Frontend TypeScript" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/migrating-frontend-typescript" target="_blank">Migrating Frontend TypeScript</a></h3>
                     <p>TypeScript is developed with the idea to help teams avoid common mistakes early through a type system and to make JavaScript development more efficient. An awesome tool to have in your toolset.</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/4/26/1/dam.png" alt="Digital Asset Management" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/digital-asset-management" target="_blank">Digital Asset Management</a></h3>
-                    <p>The more your business and your store grow, the harder your digital asset management (DAM) will become.</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -57,7 +57,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/20/4/17/1/developer_comics_different_definitions.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/20/4/17/1/developer_comics_different_definitions.jpg" height="250" alt="Different Definitions"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/images/590_developer_comics_communication_over_9000.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/images/590_developer_comics_communication_over_9000.jpg" height="250" alt="Communication: Over 9000"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -82,6 +82,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2022--06--21 01:03:01-green?style=flat-square&labelColor=black' alt='Generated on 2022--06--21 01:03:01'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2022--06--22 01:04:31-green?style=flat-square&labelColor=black' alt='Generated on 2022--06--22 01:04:31'/>
 
 
