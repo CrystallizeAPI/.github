@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/22/7/5/1/react-norway-happened.png" alt="React Norway 2022 Happened" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/react-norway-2022-happened" target="_blank">React Norway 2022 Happened</a></h3>
+                <p>Running a conference is no easy task but it is a rewarding one. While React Norway 2022 wasn&#039;t our first React conference it certainly was the best one yet.</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/6/21/1/subscription-business-model.png" alt="Subscription Business Model" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/subscription-business-model" target="_blank">Subscription Business Model</a></h3>
                 <p>A regular, monthly influx of revenue from faithful customers? Who wouldn’t want to get in on that?! But how do you know if a subscription model is a right approach for your business?</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/6/14/1/google-analytics-alternatives.png" alt="Google Analytics Alternatives" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/google-analytics-alternatives" target="_blank">Google Analytics Alternatives</a></h3>
                 <p>Is there anything better than Google Analytics? Are there any Google Analytics alternatives you might wanna move to?</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/22/6/8/1/api-vs-microservices.png" alt="APIs vs Microservices" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/apis-vs-microservices" target="_blank">APIs vs Microservices</a></h3>
-                <p>APIs and microservices. What are they? How do you use them, and what is the difference between them?</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/6/8/1/api-vs-microservices.png" alt="APIs vs Microservices" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/apis-vs-microservices" target="_blank">APIs vs Microservices</a></h3>
+                    <p>APIs and microservices. What are they? How do you use them, and what is the difference between them?</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/6/6/1/remix-conf-2022.png" alt="Remix Conf 2022" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/remix-conf-2022" target="_blank">Remix Conf 2022</a></h3>
                     <p>So <strong>RemixConf2022</strong> happened last month. Remix Run is on fire. This tool/framework is the key to Frontend performance with its progressive unique approach. During the conference we’ve learned a lot about Remix, from its core concepts to navigation through the state machine, forms, HTTP cache, and more, and all transparently degraded when Javascript is off!</p>,<p>But let’s start from the beginning.</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/5/5/1/product-page-seo.png" alt="Product Page SEO" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/product-page-seo" target="_blank">Product Page SEO</a></h3>
                     <p>For any and all eCommerce businesses, the product pages are crucial pages no matter the shape and size of their online store. With that being the case, how do you optimize your product pages for SEO and high conversions?</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/5/3/1/migrating-our-frontend-to-typescript.jpg" alt="Migrating Frontend TypeScript" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/migrating-frontend-typescript" target="_blank">Migrating Frontend TypeScript</a></h3>
-                    <p>TypeScript is developed with the idea to help teams avoid common mistakes early through a type system and to make JavaScript development more efficient. An awesome tool to have in your toolset.</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -57,7 +57,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/20/12/11/2/developer_comics_ironic.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/20/12/11/2/developer_comics_ironic.jpg" height="250" alt="Ironic"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/19/12/5/1/developer_comics_switch_perfect.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/19/12/5/1/developer_comics_switch_perfect.jpg" height="250" alt="Switch Perfect"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -82,6 +82,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2022--07--05 01:03:04-green?style=flat-square&labelColor=black' alt='Generated on 2022--07--05 01:03:04'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2022--07--06 01:03:38-green?style=flat-square&labelColor=black' alt='Generated on 2022--07--06 01:03:38'/>
 
 
