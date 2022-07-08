@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/22/7/7/1/crystallize-company-retreat-2022.png" alt="Crystallize Retreat 2022" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/crystallize-retreat-2022" target="_blank">Crystallize Retreat 2022</a></h3>
+                <p>How do you build a remote team? Why company retreat is the best way to do it? What happened and what lessons did we learn last week at Crystallize 2022 retreat?</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/7/5/1/react-norway-happened.png" alt="React Norway 2022 Happened" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/react-norway-2022-happened" target="_blank">React Norway 2022 Happened</a></h3>
                 <p>Running a conference is no easy task but it is a rewarding one. While React Norway 2022 wasn&#039;t our first React conference it certainly was the best one yet.</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/6/14/2/google-analytics-4.png" alt="Google Analytics 4 eCommerce" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/google-analytics-4-ecommerce" target="_blank">Google Analytics 4 eCommerce</a></h3>
                 <p>Google announced Universal Analytics (UA) will no longer process new data in standard properties beginning July 1, 2023, and that you should be moving to Google Analytics 4 (GA4). It’s not like the world is ending, right? But what does that mean for your business?</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/22/6/14/1/google-analytics-alternatives.png" alt="Google Analytics Alternatives" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/google-analytics-alternatives" target="_blank">Google Analytics Alternatives</a></h3>
-                <p>Is there anything better than Google Analytics? Are there any Google Analytics alternatives you might wanna move to?</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/6/14/1/google-analytics-alternatives.png" alt="Google Analytics Alternatives" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/google-analytics-alternatives" target="_blank">Google Analytics Alternatives</a></h3>
+                    <p>Is there anything better than Google Analytics? Are there any Google Analytics alternatives you might wanna move to?</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/6/8/1/api-vs-microservices.png" alt="APIs vs Microservices" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/apis-vs-microservices" target="_blank">APIs vs Microservices</a></h3>
                     <p>APIs and microservices. What are they? How do you use them, and what is the difference between them?</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/5/10/1/omnichannel-commerce.png" alt="Omnichannel Commerce" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/omnichannel-commerce" target="_blank">Omnichannel Commerce</a></h3>
                     <p>Omnichannel commerce is all about meeting your customers where they feel comfortable shopping - and with just the right information.</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/5/5/1/product-page-seo.png" alt="Product Page SEO" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/product-page-seo" target="_blank">Product Page SEO</a></h3>
-                    <p>For any and all eCommerce businesses, the product pages are crucial pages no matter the shape and size of their online store. With that being the case, how do you optimize your product pages for SEO and high conversions?</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -57,7 +57,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/21/9/17/3/developer_comics_hello_world.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/21/9/17/3/developer_comics_hello_world.jpg" height="250" alt="Hello, World!"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/20/9/15/1/developer_comics_things_change.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/20/9/15/1/developer_comics_things_change.jpg" height="250" alt="Things Change"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -82,6 +82,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2022--07--07 01:03:56-green?style=flat-square&labelColor=black' alt='Generated on 2022--07--07 01:03:56'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2022--07--08 01:03:44-green?style=flat-square&labelColor=black' alt='Generated on 2022--07--08 01:03:44'/>
 
 
