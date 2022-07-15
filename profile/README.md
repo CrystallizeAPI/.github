@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/22/7/14/1/design-systems-101.png" alt="Design System 101" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/design-system-101" target="_blank">Design System 101</a></h3>
+                <p>The design system acts as a repository for collections of reusable components and aims at closing the gap between designers and developers by providing easy access to pre-made design resources/components.</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/7/7/1/crystallize-company-retreat-2022.png" alt="Crystallize Retreat 2022" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/crystallize-retreat-2022" target="_blank">Crystallize Retreat 2022</a></h3>
                 <p>How do you build a remote team? Why company retreat is the best way to do it? What happened and what lessons did we learn last week at Crystallize 2022 retreat?</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/6/21/1/subscription-business-model.png" alt="Subscription Business Model" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/subscription-business-model" target="_blank">Subscription Business Model</a></h3>
                 <p>A regular, monthly influx of revenue from faithful customers? Who wouldn’t want to get in on that?! But how do you know if a subscription model is a right approach for your business?</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/22/6/14/2/google-analytics-4.png" alt="Google Analytics 4 eCommerce" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/google-analytics-4-ecommerce" target="_blank">Google Analytics 4 eCommerce</a></h3>
-                <p>Google announced Universal Analytics (UA) will no longer process new data in standard properties beginning July 1, 2023, and that you should be moving to Google Analytics 4 (GA4). It’s not like the world is ending, right? But what does that mean for your business?</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/6/14/2/google-analytics-4.png" alt="Google Analytics 4 eCommerce" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/google-analytics-4-ecommerce" target="_blank">Google Analytics 4 eCommerce</a></h3>
+                    <p>Google announced Universal Analytics (UA) will no longer process new data in standard properties beginning July 1, 2023, and that you should be moving to Google Analytics 4 (GA4). It’s not like the world is ending, right? But what does that mean for your business?</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/6/14/1/google-analytics-alternatives.png" alt="Google Analytics Alternatives" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/google-analytics-alternatives" target="_blank">Google Analytics Alternatives</a></h3>
                     <p>Is there anything better than Google Analytics? Are there any Google Analytics alternatives you might wanna move to?</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/5/17/1/fast-loading-google-tag-manager.png" alt="Fast Loading Google Tag Manager" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/fast-loading-google-tag-manager" target="_blank">Fast Loading Google Tag Manager</a></h3>
                     <p>Google Tag Manager can influence your overall website performance just as any other external 3rd party script. Luckily, there are a couple of things that you can do in that regard.</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/5/10/1/omnichannel-commerce.png" alt="Omnichannel Commerce" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/omnichannel-commerce" target="_blank">Omnichannel Commerce</a></h3>
-                    <p>Omnichannel commerce is all about meeting your customers where they feel comfortable shopping - and with just the right information.</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -57,7 +57,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/20/8/20/2/developer_comics_two_pursuits_of_remote_happiness.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/20/8/20/2/developer_comics_two_pursuits_of_remote_happiness.jpg" height="250" alt="Two Pursuits Of Remote Happiness"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/20/6/19/2/developer_comics_the_one_with_the_jam_stack.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/20/6/19/2/developer_comics_the_one_with_the_jam_stack.jpg" height="250" alt="The One With The Jamstack"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -82,6 +82,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2022--07--14 01:04:29-green?style=flat-square&labelColor=black' alt='Generated on 2022--07--14 01:04:29'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2022--07--15 01:03:38-green?style=flat-square&labelColor=black' alt='Generated on 2022--07--15 01:03:38'/>
 
 
