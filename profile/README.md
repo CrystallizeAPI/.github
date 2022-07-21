@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/22/7/20/1/frontend-frameworks-ecommerce-2022.png" alt="Best Frontend Frameworks" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/best-frontend-frameworks" target="_blank">Best Frontend Frameworks</a></h3>
+                <p>The frontend frameworks ecosystem is booming so much that finding the right one for your online business/store has become challenging (at best). We’d love to help. This post is all about that.</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/7/14/1/design-systems-101.png" alt="Design System 101" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/design-system-101" target="_blank">Design System 101</a></h3>
                 <p>The design system acts as a repository for collections of reusable components and aims at closing the gap between designers and developers by providing easy access to pre-made design resources/components.</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/7/5/1/react-norway-happened.png" alt="React Norway 2022 Happened" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/react-norway-2022-happened" target="_blank">React Norway 2022 Happened</a></h3>
                 <p>Running a conference is no easy task but it is a rewarding one. While React Norway 2022 wasn&#039;t our first React conference it certainly was the best one yet.</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/22/6/21/1/subscription-business-model.png" alt="Subscription Business Model" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/subscription-business-model" target="_blank">Subscription Business Model</a></h3>
-                <p>A regular, monthly influx of revenue from faithful customers? Who wouldn’t want to get in on that?! But how do you know if a subscription model is a right approach for your business?</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/6/21/1/subscription-business-model.png" alt="Subscription Business Model" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/subscription-business-model" target="_blank">Subscription Business Model</a></h3>
+                    <p>A regular, monthly influx of revenue from faithful customers? Who wouldn’t want to get in on that?! But how do you know if a subscription model is a right approach for your business?</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/6/14/2/google-analytics-4.png" alt="Google Analytics 4 eCommerce" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/google-analytics-4-ecommerce" target="_blank">Google Analytics 4 eCommerce</a></h3>
                     <p>Google announced Universal Analytics (UA) will no longer process new data in standard properties beginning July 1, 2023, and that you should be moving to Google Analytics 4 (GA4). It’s not like the world is ending, right? But what does that mean for your business?</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/5/23/1/content-modeling-101.jpg" alt="Content Modeling 101" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/content-modeling-101" target="_blank">Content Modeling 101</a></h3>
                     <p>Content modeling is an interesting topic and lays the foundation for a great eCommerce architecture. When done correctly, of course.</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/5/17/1/fast-loading-google-tag-manager.png" alt="Fast Loading Google Tag Manager" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/fast-loading-google-tag-manager" target="_blank">Fast Loading Google Tag Manager</a></h3>
-                    <p>Google Tag Manager can influence your overall website performance just as any other external 3rd party script. Luckily, there are a couple of things that you can do in that regard.</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -57,7 +57,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/19/9/13/5/developer_comics_the_trap.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/19/9/13/5/developer_comics_the_trap.jpg" height="250" alt="The Trap"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/20/6/2/1/crystallize_strip_86.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/20/6/2/1/crystallize_strip_86.jpg" height="250" alt="Unstructured vs Structured"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -82,6 +82,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2022--07--20 01:04:12-green?style=flat-square&labelColor=black' alt='Generated on 2022--07--20 01:04:12'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2022--07--21 01:03:54-green?style=flat-square&labelColor=black' alt='Generated on 2022--07--21 01:03:54'/>
 
 
