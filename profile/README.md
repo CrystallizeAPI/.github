@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/22/7/27/1/cost-of-query.png" alt="Cost of Query" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/cost-of-query" target="_blank">Cost of Query</a></h3>
+                <p>Our PIM API is built to let you do it all, so how do we protect our server from a possible influx of deeply-nested graphQL requests?</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/7/20/1/frontend-frameworks-ecommerce-2022.png" alt="Best Frontend Frameworks" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/best-frontend-frameworks" target="_blank">Best Frontend Frameworks</a></h3>
                 <p>The frontend frameworks ecosystem is booming so much that finding the right one for your online business/store has become challenging (at best). We’d love to help. This post is all about that.</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/7/7/1/crystallize-company-retreat-2022.png" alt="Crystallize Retreat 2022" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/crystallize-retreat-2022" target="_blank">Crystallize Retreat 2022</a></h3>
                 <p>How do you build a remote team? Why company retreat is the best way to do it? What happened and what lessons did we learn last week at Crystallize 2022 retreat?</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/22/7/5/1/react-norway-happened.png" alt="React Norway 2022 Happened" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/react-norway-2022-happened" target="_blank">React Norway 2022 Happened</a></h3>
-                <p>Running a conference is no easy task but it is a rewarding one. While React Norway 2022 wasn&#039;t our first React conference it certainly was the best one yet.</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/7/5/1/react-norway-happened.png" alt="React Norway 2022 Happened" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/react-norway-2022-happened" target="_blank">React Norway 2022 Happened</a></h3>
+                    <p>Running a conference is no easy task but it is a rewarding one. While React Norway 2022 wasn&#039;t our first React conference it certainly was the best one yet.</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/6/21/1/subscription-business-model.png" alt="Subscription Business Model" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/subscription-business-model" target="_blank">Subscription Business Model</a></h3>
                     <p>A regular, monthly influx of revenue from faithful customers? Who wouldn’t want to get in on that?! But how do you know if a subscription model is a right approach for your business?</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/5/31/1/frontend-web-development-tools.png" alt="Web Development Tools" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/web-development-tools" target="_blank">Web Development Tools</a></h3>
                     <p>Developing web applications has never been easier and more enjoyable. The open-source communities are building more and more tools that enable us, developers, to become more efficient and improve the overall developer experience (DX). Now the question becomes: which are the essential web development tools to pick in 2022?</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/5/23/1/content-modeling-101.jpg" alt="Content Modeling 101" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/content-modeling-101" target="_blank">Content Modeling 101</a></h3>
-                    <p>Content modeling is an interesting topic and lays the foundation for a great eCommerce architecture. When done correctly, of course.</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -57,7 +57,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/19/12/5/1/developer_comics_switch_perfect.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/19/12/5/1/developer_comics_switch_perfect.jpg" height="250" alt="Switch Perfect"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/20/6/24/1/developer_comics_core_web_vitals.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/20/6/24/1/developer_comics_core_web_vitals.jpg" height="250" alt="Core Web Vitals"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -82,6 +82,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2022--07--27 01:03:30-green?style=flat-square&labelColor=black' alt='Generated on 2022--07--27 01:03:30'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2022--07--28 01:03:23-green?style=flat-square&labelColor=black' alt='Generated on 2022--07--28 01:03:23'/>
 
 
