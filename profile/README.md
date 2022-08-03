@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/22/8/2/1/pim-vs-dam.png" alt="PIM vs DAM" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/pim-vs-dam" target="_blank">PIM vs DAM</a></h3>
+                <p>We just scratched the surface in a couple of previous posts explaining product information management (PIM) and digital asset management (DAM). Time to compare these two and describe the business benefits of using them.</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/7/27/1/cost-of-query.png" alt="Cost of Query" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/cost-of-query" target="_blank">Cost of Query</a></h3>
                 <p>Our PIM API is built to let you do it all, so how do we protect our server from a possible influx of deeply-nested graphQL requests?</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/7/14/1/design-systems-101.png" alt="Design System 101" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/design-system-101" target="_blank">Design System 101</a></h3>
                 <p>The design system acts as a repository for collections of reusable components and aims at closing the gap between designers and developers by providing easy access to pre-made design resources/components.</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/22/7/7/1/crystallize-company-retreat-2022.png" alt="Crystallize Retreat 2022" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/crystallize-retreat-2022" target="_blank">Crystallize Retreat 2022</a></h3>
-                <p>How do you build a remote team? Why company retreat is the best way to do it? What happened and what lessons did we learn last week at Crystallize 2022 retreat?</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/7/7/1/crystallize-company-retreat-2022.png" alt="Crystallize Retreat 2022" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/crystallize-retreat-2022" target="_blank">Crystallize Retreat 2022</a></h3>
+                    <p>How do you build a remote team? Why company retreat is the best way to do it? What happened and what lessons did we learn last week at Crystallize 2022 retreat?</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/7/5/1/react-norway-happened.png" alt="React Norway 2022 Happened" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/react-norway-2022-happened" target="_blank">React Norway 2022 Happened</a></h3>
                     <p>Running a conference is no easy task but it is a rewarding one. While React Norway 2022 wasn&#039;t our first React conference it certainly was the best one yet.</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/6/6/1/remix-conf-2022.png" alt="Remix Conf 2022" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/remix-conf-2022" target="_blank">Remix Conf 2022</a></h3>
                     <p>So <strong>RemixConf2022</strong> happened last month. Remix Run is on fire. This tool/framework is the key to Frontend performance with its progressive unique approach. During the conference we’ve learned a lot about Remix, from its core concepts to navigation through the state machine, forms, HTTP cache, and more, and all transparently degraded when Javascript is off!</p>,<p>But let’s start from the beginning.</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/5/31/1/frontend-web-development-tools.png" alt="Web Development Tools" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/web-development-tools" target="_blank">Web Development Tools</a></h3>
-                    <p>Developing web applications has never been easier and more enjoyable. The open-source communities are building more and more tools that enable us, developers, to become more efficient and improve the overall developer experience (DX). Now the question becomes: which are the essential web development tools to pick in 2022?</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -57,7 +57,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/19/11/28/1/developer_comics_s4e_as_f2k.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/19/11/28/1/developer_comics_s4e_as_f2k.jpg" height="250" alt="S4E AS F2K"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/21/2/18/2/developer_comics_bug_what_bug.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/21/2/18/2/developer_comics_bug_what_bug.jpg" height="250" alt="Bug? What Bug?"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -82,6 +82,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2022--08--02 01:04:50-green?style=flat-square&labelColor=black' alt='Generated on 2022--08--02 01:04:50'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2022--08--03 03:02:13-green?style=flat-square&labelColor=black' alt='Generated on 2022--08--03 03:02:13'/>
 
 
