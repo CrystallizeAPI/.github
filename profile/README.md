@@ -57,7 +57,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/21/9/17/3/developer_comics_hello_world.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/21/9/17/3/developer_comics_hello_world.jpg" height="250" alt="Hello, World!"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/images/650_developer_comics_conferelicious.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/images/650_developer_comics_conferelicious.jpg" height="250" alt="Conferelicious!"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -82,6 +82,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2022--08--06 02:39:11-green?style=flat-square&labelColor=black' alt='Generated on 2022--08--06 02:39:11'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2022--08--07 02:49:55-green?style=flat-square&labelColor=black' alt='Generated on 2022--08--07 02:49:55'/>
 
 
