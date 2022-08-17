@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/22/8/16/1/magic-link-authentication.png" alt="Magic Link Authentication" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/magic-link-authentication" target="_blank">Magic Link Authentication</a></h3>
+                <p>Let me introduce you to the idea of magic link authentication, its security risk, and its basic implementation.</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/8/2/1/pim-vs-dam.png" alt="PIM vs DAM" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/pim-vs-dam" target="_blank">PIM vs DAM</a></h3>
                 <p>We just scratched the surface in a couple of previous posts explaining product information management (PIM) and digital asset management (DAM). Time to compare these two and describe the business benefits of using them.</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/7/20/1/frontend-frameworks-ecommerce-2022.png" alt="Best Frontend Frameworks" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/best-frontend-frameworks" target="_blank">Best Frontend Frameworks</a></h3>
                 <p>The frontend frameworks ecosystem is booming so much that finding the right one for your online business/store has become challenging (at best). We’d love to help. This post is all about that.</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/22/7/14/1/design-systems-101.png" alt="Design System 101" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/design-system-101" target="_blank">Design System 101</a></h3>
-                <p>The design system acts as a repository for collections of reusable components and aims at closing the gap between designers and developers by providing easy access to pre-made design resources/components.</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/7/14/1/design-systems-101.png" alt="Design System 101" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/design-system-101" target="_blank">Design System 101</a></h3>
+                    <p>The design system acts as a repository for collections of reusable components and aims at closing the gap between designers and developers by providing easy access to pre-made design resources/components.</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/7/7/1/crystallize-company-retreat-2022.png" alt="Crystallize Retreat 2022" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/crystallize-retreat-2022" target="_blank">Crystallize Retreat 2022</a></h3>
                     <p>How do you build a remote team? Why company retreat is the best way to do it? What happened and what lessons did we learn last week at Crystallize 2022 retreat?</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/6/8/1/api-vs-microservices.png" alt="APIs vs Microservices" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/apis-vs-microservices" target="_blank">APIs vs Microservices</a></h3>
                     <p>APIs and microservices. What are they? How do you use them, and what is the difference between them?</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/6/6/1/remix-conf-2022.png" alt="Remix Conf 2022" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/remix-conf-2022" target="_blank">Remix Conf 2022</a></h3>
-                    <p>So <strong>RemixConf2022</strong> happened last month. Remix Run is on fire. This tool/framework is the key to Frontend performance with its progressive unique approach. During the conference we’ve learned a lot about Remix, from its core concepts to navigation through the state machine, forms, HTTP cache, and more, and all transparently degraded when Javascript is off!</p>,<p>But let’s start from the beginning.</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -57,7 +57,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/19/9/13/2/developer_comics_romantic_by_design.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/19/9/13/2/developer_comics_romantic_by_design.jpg" height="250" alt="Romantic By Design"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/21/12/24/1/developer_comics_can_you_estimate_this_163.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/21/12/24/1/developer_comics_can_you_estimate_this_163.jpg" height="250" alt="Can You Estimate This"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -82,6 +82,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2022--08--16 01:03:52-green?style=flat-square&labelColor=black' alt='Generated on 2022--08--16 01:03:52'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2022--08--17 01:03:53-green?style=flat-square&labelColor=black' alt='Generated on 2022--08--17 01:03:53'/>
 
 
