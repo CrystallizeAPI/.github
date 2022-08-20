@@ -48,8 +48,6 @@
             <h2>👀 Job Offers</h2>
             <ul>
                 <li><a href="https://crystallize.com//careers/developer-experience-engineer" target="_blank">Developer Experience Engineer</a></li>
-                <li><a href="https://crystallize.com//careers/partner-sales-manager-nordic" target="_blank">Partner Sales Manager Nordic (remote)</a></li>
-                <li><a href="https://crystallize.com//careers/uiux-designer" target="_blank">UI&#x2F;UX Designer</a></li>
                 <li><a href="https://crystallize.com//careers/front-end-developer" target="_blank">Frontend Developer</a></li>
                 <li><a href="https://crystallize.com//careers/backend-developer" target="_blank">Backend Developer</a></li>
                 <li><a href="https://crystallize.com//careers/unicorn-designer-developer" target="_blank">Unicorn (Designer + Developer)</a></li>
@@ -57,7 +55,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/images/426_developer_comics_when_client_has_a_vision.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/images/426_developer_comics_when_client_has_a_vision.jpg" height="250" alt="When Client Has a Vision"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/21/7/30/1/developer_comics_i_want_it_that_way.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/21/7/30/1/developer_comics_i_want_it_that_way.jpg" height="250" alt="Tabs vs Spaces: Part II"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -82,6 +80,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2022--08--19 01:04:10-green?style=flat-square&labelColor=black' alt='Generated on 2022--08--19 01:04:10'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2022--08--20 01:05:27-green?style=flat-square&labelColor=black' alt='Generated on 2022--08--20 01:05:27'/>
 
 
