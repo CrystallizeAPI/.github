@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/22/8/23/1/developer-productivity-tips.png" alt="Developer Productivity" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/developer-productivity" target="_blank">Developer Productivity</a></h3>
+                <p>What does it mean to be a productive developer, and how can you become one?</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/8/16/1/magic-link-authentication.png" alt="Magic Link Authentication" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/magic-link-authentication" target="_blank">Magic Link Authentication</a></h3>
                 <p>Let me introduce you to the idea of magic link authentication, its security risk, and its basic implementation.</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/7/27/1/cost-of-query.png" alt="Cost of Query" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/cost-of-query" target="_blank">Cost of Query</a></h3>
                 <p>Our PIM API is built to let you do it all, so how do we protect our server from a possible influx of deeply-nested graphQL requests?</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/22/7/20/1/frontend-frameworks-ecommerce-2022.png" alt="Best Frontend Frameworks" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/best-frontend-frameworks" target="_blank">Best Frontend Frameworks</a></h3>
-                <p>The frontend frameworks ecosystem is booming so much that finding the right one for your online business/store has become challenging (at best). We’d love to help. This post is all about that.</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/7/20/1/frontend-frameworks-ecommerce-2022.png" alt="Best Frontend Frameworks" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/best-frontend-frameworks" target="_blank">Best Frontend Frameworks</a></h3>
+                    <p>The frontend frameworks ecosystem is booming so much that finding the right one for your online business/store has become challenging (at best). We’d love to help. This post is all about that.</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/7/14/1/design-systems-101.png" alt="Design System 101" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/design-system-101" target="_blank">Design System 101</a></h3>
                     <p>The design system acts as a repository for collections of reusable components and aims at closing the gap between designers and developers by providing easy access to pre-made design resources/components.</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/6/14/1/google-analytics-alternatives.png" alt="Google Analytics Alternatives" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/google-analytics-alternatives" target="_blank">Google Analytics Alternatives</a></h3>
                     <p>Is there anything better than Google Analytics? Are there any Google Analytics alternatives you might wanna move to?</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/6/8/1/api-vs-microservices.png" alt="APIs vs Microservices" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/apis-vs-microservices" target="_blank">APIs vs Microservices</a></h3>
-                    <p>APIs and microservices. What are they? How do you use them, and what is the difference between them?</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -55,7 +55,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/19/9/13/6/developer_comics_breaking_the_ice.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/19/9/13/6/developer_comics_breaking_the_ice.jpg" height="250" alt="Breaking The Ice"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/21/4/8/1/developer_comics_the_appreciation.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/21/4/8/1/developer_comics_the_appreciation.jpg" height="250" alt="The Appreciation"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -80,6 +80,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2022--08--23 01:04:07-green?style=flat-square&labelColor=black' alt='Generated on 2022--08--23 01:04:07'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2022--08--24 01:03:56-green?style=flat-square&labelColor=black' alt='Generated on 2022--08--24 01:03:56'/>
 
 
