@@ -9,20 +9,23 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/22/8/25/4/image-handling-.png" alt="Frontend Performance Checklist" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/frontend-performance-checklist" target="_blank">Frontend Performance Checklist</a></h3>
+                <p>In the speed-obsessed world of today, better performance comes with serious business gains. This frontend performance checklist is a cumulative list of items that we at Crystallize found important when creating a Superfast web application that is <strong><em>Superfast.</em></strong></p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/8/23/1/developer-productivity-tips.png" alt="Developer Productivity" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/developer-productivity" target="_blank">Developer Productivity</a></h3>
                 <p>What does it mean to be a productive developer, and how can you become one?</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/22/8/16/1/magic-link-authentication.png" alt="Magic Link Authentication" width="100" align="left"></p>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/22/8/25/1/magic-link.png" alt="Magic Link Authentication" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/magic-link-authentication" target="_blank">Magic Link Authentication</a></h3>
                 <p>Let me introduce you to the idea of magic link authentication, its security risk, and its basic implementation.</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/8/2/1/pim-vs-dam.png" alt="PIM vs DAM" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/pim-vs-dam" target="_blank">PIM vs DAM</a></h3>
                 <p>We just scratched the surface in a couple of previous posts explaining product information management (PIM) and digital asset management (DAM). Time to compare these two and describe the business benefits of using them.</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/22/7/27/1/cost-of-query.png" alt="Cost of Query" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/cost-of-query" target="_blank">Cost of Query</a></h3>
-                <p>Our PIM API is built to let you do it all, so how do we protect our server from a possible influx of deeply-nested graphQL requests?</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/7/27/1/cost-of-query.png" alt="Cost of Query" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/cost-of-query" target="_blank">Cost of Query</a></h3>
+                    <p>Our PIM API is built to let you do it all, so how do we protect our server from a possible influx of deeply-nested graphQL requests?</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/7/20/1/frontend-frameworks-ecommerce-2022.png" alt="Best Frontend Frameworks" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/best-frontend-frameworks" target="_blank">Best Frontend Frameworks</a></h3>
                     <p>The frontend frameworks ecosystem is booming so much that finding the right one for your online business/store has become challenging (at best). We’d love to help. This post is all about that.</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/6/14/2/google-analytics-4.png" alt="Google Analytics 4 eCommerce" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/google-analytics-4-ecommerce" target="_blank">Google Analytics 4 eCommerce</a></h3>
                     <p>Google announced Universal Analytics (UA) will no longer process new data in standard properties beginning July 1, 2023, and that you should be moving to Google Analytics 4 (GA4). It’s not like the world is ending, right? But what does that mean for your business?</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/6/14/1/google-analytics-alternatives.png" alt="Google Analytics Alternatives" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/google-analytics-alternatives" target="_blank">Google Analytics Alternatives</a></h3>
-                    <p>Is there anything better than Google Analytics? Are there any Google Analytics alternatives you might wanna move to?</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -55,7 +55,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/20/1/31/1/developer_comics_forewarned_is_forearmed.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/20/1/31/1/developer_comics_forewarned_is_forearmed.jpg" height="250" alt="Forewarned Is Forearmed"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/images/552_developer_comics_the_summoning.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/images/552_developer_comics_the_summoning.jpg" height="250" alt="Captain Unicorn"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -80,6 +80,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2022--08--25 01:04:13-green?style=flat-square&labelColor=black' alt='Generated on 2022--08--25 01:04:13'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2022--08--26 01:03:20-green?style=flat-square&labelColor=black' alt='Generated on 2022--08--26 01:03:20'/>
 
 
