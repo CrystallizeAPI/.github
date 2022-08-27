@@ -9,7 +9,7 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/22/8/25/4/image-handling-.png" alt="Frontend Performance Checklist" width="100" align="left"></p>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/22/8/26/3/frontend-performance-checklist.png" alt="Frontend Performance Checklist" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/frontend-performance-checklist" target="_blank">Frontend Performance Checklist</a></h3>
                 <p>In the speed-obsessed world of today, better performance comes with serious business gains. This frontend performance checklist is a cumulative list of items that we at Crystallize found important when creating a Superfast web application that is <strong><em>Superfast.</em></strong></p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/8/23/1/developer-productivity-tips.png" alt="Developer Productivity" width="100" align="left"></p>
@@ -55,7 +55,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/images/552_developer_comics_the_summoning.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/images/552_developer_comics_the_summoning.jpg" height="250" alt="Captain Unicorn"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/20/2/7/2/developer_comics_a_matter_of_life_and_death_a.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/20/2/7/2/developer_comics_a_matter_of_life_and_death_a.jpg" height="250" alt="A Matter Of Life And Death"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -80,6 +80,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2022--08--26 01:03:20-green?style=flat-square&labelColor=black' alt='Generated on 2022--08--26 01:03:20'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2022--08--27 01:03:39-green?style=flat-square&labelColor=black' alt='Generated on 2022--08--27 01:03:39'/>
 
 
