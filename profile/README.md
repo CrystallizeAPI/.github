@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/22/9/1/1/local_seo.jpg" alt="Local SEO eCommerce" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/local-seo-ecommerce" target="_blank">Local SEO eCommerce</a></h3>
+                <p>Increased visibility in location-specific search queries, i.e., local search results, leads to increased brand awareness and better clickthrough rates. How does one do that?</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/8/26/3/frontend-performance-checklist.png" alt="Frontend Performance Checklist" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/frontend-performance-checklist" target="_blank">Frontend Performance Checklist</a></h3>
                 <p>In the speed-obsessed world of today, better performance comes with serious business gains. This frontend performance checklist is a cumulative list of items that we at Crystallize found important when creating a Superfast web application that is <strong><em>Superfast.</em></strong></p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/8/25/1/magic-link.png" alt="Magic Link Authentication" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/magic-link-authentication" target="_blank">Magic Link Authentication</a></h3>
                 <p>Let me introduce you to the idea of magic link authentication, its security risk, and its basic implementation.</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/22/8/2/1/pim-vs-dam.png" alt="PIM vs DAM" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/pim-vs-dam" target="_blank">PIM vs DAM</a></h3>
-                <p>We just scratched the surface in a couple of previous posts explaining product information management (PIM) and digital asset management (DAM). Time to compare these two and describe the business benefits of using them.</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/8/2/1/pim-vs-dam.png" alt="PIM vs DAM" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/pim-vs-dam" target="_blank">PIM vs DAM</a></h3>
+                    <p>We just scratched the surface in a couple of previous posts explaining product information management (PIM) and digital asset management (DAM). Time to compare these two and describe the business benefits of using them.</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/7/27/1/cost-of-query.png" alt="Cost of Query" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/cost-of-query" target="_blank">Cost of Query</a></h3>
                     <p>Our PIM API is built to let you do it all, so how do we protect our server from a possible influx of deeply-nested graphQL requests?</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/6/21/1/subscription-business-model.png" alt="Subscription Business Model" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/subscription-business-model" target="_blank">Subscription Business Model</a></h3>
                     <p>A regular, monthly influx of revenue from faithful customers? Who wouldn’t want to get in on that?! But how do you know if a subscription model is a right approach for your business?</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/6/14/2/google-analytics-4.png" alt="Google Analytics 4 eCommerce" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/google-analytics-4-ecommerce" target="_blank">Google Analytics 4 eCommerce</a></h3>
-                    <p>Google announced Universal Analytics (UA) will no longer process new data in standard properties beginning July 1, 2023, and that you should be moving to Google Analytics 4 (GA4). It’s not like the world is ending, right? But what does that mean for your business?</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -55,7 +55,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/19/9/20/1/developer_comics_under_pressure.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/19/9/20/1/developer_comics_under_pressure.jpg" height="250" alt="Under Pressure"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/21/3/21/2/developer_comics_inspirational_posters.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/21/3/21/2/developer_comics_inspirational_posters.jpg" height="250" alt="Inspirational Posters"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -80,6 +80,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2022--09--01 01:03:24-green?style=flat-square&labelColor=black' alt='Generated on 2022--09--01 01:03:24'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2022--09--02 01:04:05-green?style=flat-square&labelColor=black' alt='Generated on 2022--09--02 01:04:05'/>
 
 
