@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/22/9/14/1/nuwo-index-page.jpg" alt="nuwo Case Study" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/nuwo-case-study" target="_blank">nuwo Case Study</a></h3>
+                <p>Nuwo is a home office-as-a-service solution that provides companies with personalized online stores from which their remote employees can pick and choose furniture/equipment for their home office.</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/9/7/1/b2b-ecommerce.png" alt="B2B eCommerce" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/b2b-ecommerce" target="_blank">B2B eCommerce</a></h3>
                 <p>B2B eCommerce is nowhere near as talked about as B2C eCommerce, which is strange considering that the B2B eCommerce market is over five times (5X) more valuable.</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/8/26/3/frontend-performance-checklist.png" alt="Frontend Performance Checklist" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/frontend-performance-checklist" target="_blank">Frontend Performance Checklist</a></h3>
                 <p>In the speed-obsessed world of today, better performance comes with serious business gains. This frontend performance checklist is a cumulative list of items that we at Crystallize found important when creating a Superfast web application that is <strong><em>Superfast.</em></strong></p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/22/8/23/1/developer-productivity-tips.png" alt="Developer Productivity" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/developer-productivity" target="_blank">Developer Productivity</a></h3>
-                <p>What does it mean to be a productive developer, and how can you become one?</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/8/23/1/developer-productivity-tips.png" alt="Developer Productivity" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/developer-productivity" target="_blank">Developer Productivity</a></h3>
+                    <p>What does it mean to be a productive developer, and how can you become one?</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/8/25/1/magic-link.png" alt="Magic Link Authentication" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/magic-link-authentication" target="_blank">Magic Link Authentication</a></h3>
                     <p>Let me introduce you to the idea of magic link authentication, its security risk, and its basic implementation.</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/7/7/1/crystallize-company-retreat-2022.png" alt="Crystallize Retreat 2022" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/crystallize-retreat-2022" target="_blank">Crystallize Retreat 2022</a></h3>
                     <p>How do you build a remote team? Why company retreat is the best way to do it? What happened and what lessons did we learn last week at Crystallize 2022 retreat?</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/7/5/1/react-norway-happened.png" alt="React Norway 2022 Happened" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/react-norway-2022-happened" target="_blank">React Norway 2022 Happened</a></h3>
-                    <p>Running a conference is no easy task but it is a rewarding one. While React Norway 2022 wasn&#039;t our first React conference it certainly was the best one yet.</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -55,7 +55,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/21/12/24/1/developer_comics_can_you_estimate_this_163.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/21/12/24/1/developer_comics_can_you_estimate_this_163.jpg" height="250" alt="Can You Estimate This"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/20/6/24/1/developer_comics_core_web_vitals.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/20/6/24/1/developer_comics_core_web_vitals.jpg" height="250" alt="Core Web Vitals"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -80,6 +80,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2022--09--14 03:23:13-green?style=flat-square&labelColor=black' alt='Generated on 2022--09--14 03:23:13'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2022--09--15 03:31:15-green?style=flat-square&labelColor=black' alt='Generated on 2022--09--15 03:31:15'/>
 
 
