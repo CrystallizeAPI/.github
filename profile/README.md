@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/22/9/20/1/next-generation-commerce-platform.png" alt="Next Generation Commerce Platform" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/next-generation-commerce-platform" target="_blank">Next Generation Commerce Platform</a></h3>
+                <p>Our journey to reimagining eCommerce is not about adding features. It&#039;s about delivering core, modern commerce business requirements and future-proofing tech stacks.</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/9/14/1/nuwo-index-page.jpg" alt="nuwo Case Study" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/nuwo-case-study" target="_blank">nuwo Case Study</a></h3>
                 <p>Nuwo is a home office-as-a-service solution that provides companies with personalized online stores from which their remote employees can pick and choose furniture/equipment for their home office.</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/9/1/1/local_seo.jpg" alt="Local SEO eCommerce" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/local-seo-ecommerce" target="_blank">Local SEO eCommerce</a></h3>
                 <p>Increased visibility in location-specific search queries, i.e., local search results, leads to increased brand awareness and better clickthrough rates. How does one do that?</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/22/8/26/3/frontend-performance-checklist.png" alt="Frontend Performance Checklist" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/frontend-performance-checklist" target="_blank">Frontend Performance Checklist</a></h3>
-                <p>In the speed-obsessed world of today, better performance comes with serious business gains. This frontend performance checklist is a cumulative list of items that we at Crystallize found important when creating a Superfast web application that is <strong><em>Superfast.</em></strong></p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/8/26/3/frontend-performance-checklist.png" alt="Frontend Performance Checklist" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/frontend-performance-checklist" target="_blank">Frontend Performance Checklist</a></h3>
+                    <p>In the speed-obsessed world of today, better performance comes with serious business gains. This frontend performance checklist is a cumulative list of items that we at Crystallize found important when creating a Superfast web application that is <strong><em>Superfast.</em></strong></p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/8/23/1/developer-productivity-tips.png" alt="Developer Productivity" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/developer-productivity" target="_blank">Developer Productivity</a></h3>
                     <p>What does it mean to be a productive developer, and how can you become one?</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/7/14/1/design-systems-101.png" alt="Design System 101" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/design-system-101" target="_blank">Design System 101</a></h3>
                     <p>The design system acts as a repository for collections of reusable components and aims at closing the gap between designers and developers by providing easy access to pre-made design resources/components.</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/7/7/1/crystallize-company-retreat-2022.png" alt="Crystallize Retreat 2022" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/crystallize-retreat-2022" target="_blank">Crystallize Retreat 2022</a></h3>
-                    <p>How do you build a remote team? Why company retreat is the best way to do it? What happened and what lessons did we learn last week at Crystallize 2022 retreat?</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -55,7 +55,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/22/3/25/1/crystallize_strip_two_rules_175.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/22/3/25/1/crystallize_strip_two_rules_175.jpg" height="250" alt="Two Rules"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/images/363_developer_comics_when_dreams_come_true.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/images/363_developer_comics_when_dreams_come_true.jpg" height="250" alt="When Dreams Come True"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -80,6 +80,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2022--09--20 01:03:57-green?style=flat-square&labelColor=black' alt='Generated on 2022--09--20 01:03:57'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2022--09--21 01:04:25-green?style=flat-square&labelColor=black' alt='Generated on 2022--09--21 01:04:25'/>
 
 
