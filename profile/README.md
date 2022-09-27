@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/22/9/26/1/pim-to-pdf-merchandising.png" alt="Product Merchandising PIM to PDF" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/product-merchandising-pim-to-pdf" target="_blank">Product Merchandising PIM to PDF</a></h3>
+                <p>Turning your product information into PDF in seconds. Publish catalogs, datasheets, and price lists in a flash with a headless PIM system.</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/9/20/1/next-generation-commerce-platform.png" alt="Next Generation Commerce Platform" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/next-generation-commerce-platform" target="_blank">Next Generation Commerce Platform</a></h3>
                 <p>Our journey to reimagining eCommerce is not about adding features. It&#039;s about delivering core, modern commerce business requirements and future-proofing tech stacks.</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/9/7/1/b2b-ecommerce.png" alt="B2B eCommerce" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/b2b-ecommerce" target="_blank">B2B eCommerce</a></h3>
                 <p>B2B eCommerce is nowhere near as talked about as B2C eCommerce, which is strange considering that the B2B eCommerce market is over five times (5X) more valuable.</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/22/9/1/1/local_seo.jpg" alt="Local SEO eCommerce" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/local-seo-ecommerce" target="_blank">Local SEO eCommerce</a></h3>
-                <p>Increased visibility in location-specific search queries, i.e., local search results, leads to increased brand awareness and better clickthrough rates. How does one do that?</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/9/1/1/local_seo.jpg" alt="Local SEO eCommerce" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/local-seo-ecommerce" target="_blank">Local SEO eCommerce</a></h3>
+                    <p>Increased visibility in location-specific search queries, i.e., local search results, leads to increased brand awareness and better clickthrough rates. How does one do that?</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/8/26/3/frontend-performance-checklist.png" alt="Frontend Performance Checklist" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/frontend-performance-checklist" target="_blank">Frontend Performance Checklist</a></h3>
                     <p>In the speed-obsessed world of today, better performance comes with serious business gains. This frontend performance checklist is a cumulative list of items that we at Crystallize found important when creating a Superfast web application that is <strong><em>Superfast.</em></strong></p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/7/20/1/frontend-frameworks-ecommerce-2022.png" alt="Best Frontend Frameworks" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/best-frontend-frameworks" target="_blank">Best Frontend Frameworks</a></h3>
                     <p>The frontend frameworks ecosystem is booming so much that finding the right one for your online business/store has become challenging (at best). We’d love to help. This post is all about that.</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/7/14/1/design-systems-101.png" alt="Design System 101" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/design-system-101" target="_blank">Design System 101</a></h3>
-                    <p>The design system acts as a repository for collections of reusable components and aims at closing the gap between designers and developers by providing easy access to pre-made design resources/components.</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -55,7 +55,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/19/9/13/2/developer_comics_romantic_by_design.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/19/9/13/2/developer_comics_romantic_by_design.jpg" height="250" alt="Romantic By Design"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/20/9/3/2/developer_comics_rest_vs_graphql_part_2.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/20/9/3/2/developer_comics_rest_vs_graphql_part_2.jpg" height="250" alt="Rest vs GraphQL: Part II"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -80,6 +80,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2022--09--26 01:03:40-green?style=flat-square&labelColor=black' alt='Generated on 2022--09--26 01:03:40'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2022--09--27 01:03:39-green?style=flat-square&labelColor=black' alt='Generated on 2022--09--27 01:03:39'/>
 
 
