@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/22/9/28/1/b2c-price-list-example.png" alt="Price Lists for B2B and B2C" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/price-lists-for-b2b-and-b2c" target="_blank">Price Lists for B2B and B2C</a></h3>
+                <p>Besides your product/service, pricing is at the very heart of eCommerce. Customizing product prices in Crystallize has become a lot easier with the price list.</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/9/26/1/pim-to-pdf-merchandising.png" alt="Product Merchandising PIM to PDF" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/product-merchandising-pim-to-pdf" target="_blank">Product Merchandising PIM to PDF</a></h3>
                 <p>Turning your product information into PDF in seconds. Publish catalogs, datasheets, and price lists in a flash with a headless PIM system.</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/9/14/1/nuwo-index-page.jpg" alt="nuwo Case Study" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/nuwo-case-study" target="_blank">nuwo Case Study</a></h3>
                 <p>Nuwo is a home office-as-a-service solution that provides companies with personalized online stores from which their remote employees can pick and choose furniture/equipment for their home office.</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/22/9/7/1/b2b-ecommerce.png" alt="B2B eCommerce" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/b2b-ecommerce" target="_blank">B2B eCommerce</a></h3>
-                <p>B2B eCommerce is nowhere near as talked about as B2C eCommerce, which is strange considering that the B2B eCommerce market is over five times (5X) more valuable.</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/9/7/1/b2b-ecommerce.png" alt="B2B eCommerce" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/b2b-ecommerce" target="_blank">B2B eCommerce</a></h3>
+                    <p>B2B eCommerce is nowhere near as talked about as B2C eCommerce, which is strange considering that the B2B eCommerce market is over five times (5X) more valuable.</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/9/1/1/local_seo.jpg" alt="Local SEO eCommerce" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/local-seo-ecommerce" target="_blank">Local SEO eCommerce</a></h3>
                     <p>Increased visibility in location-specific search queries, i.e., local search results, leads to increased brand awareness and better clickthrough rates. How does one do that?</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/7/27/1/cost-of-query.png" alt="Cost of Query" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/cost-of-query" target="_blank">Cost of Query</a></h3>
                     <p>Our PIM API is built to let you do it all, so how do we protect our server from a possible influx of deeply-nested graphQL requests?</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/7/20/1/frontend-frameworks-ecommerce-2022.png" alt="Best Frontend Frameworks" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/best-frontend-frameworks" target="_blank">Best Frontend Frameworks</a></h3>
-                    <p>The frontend frameworks ecosystem is booming so much that finding the right one for your online business/store has become challenging (at best). We’d love to help. This post is all about that.</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -55,7 +55,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/20/7/3/1/developer_comics_multilingual_shop_a.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/20/7/3/1/developer_comics_multilingual_shop_a.jpg" height="250" alt="Multilingual Shop"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/21/5/14/1/developer_comics_innovative_presentations.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/21/5/14/1/developer_comics_innovative_presentations.jpg" height="250" alt="Innovative Presentations"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -80,6 +80,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2022--09--28 01:03:36-green?style=flat-square&labelColor=black' alt='Generated on 2022--09--28 01:03:36'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2022--09--29 01:03:48-green?style=flat-square&labelColor=black' alt='Generated on 2022--09--29 01:03:48'/>
 
 
