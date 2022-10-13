@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/22/10/12/1/ecommerce-conversion-rate-optimization.jpg" alt="eCommerce Conversion Rate Optimization" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/ecommerce-conversion-rate-optimization" target="_blank">eCommerce Conversion Rate Optimization</a></h3>
+                <p>Before you start chasing new and better sales channels, spend some time optimizing the most important one, your website. Improve your website performance with best practices for conversion rate optimization (CRO).</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/10/10/2/headless-commerce-return-on-investment-roi.png" alt="Headless Commerce ROI" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/headless-commerce-roi" target="_blank">Headless Commerce ROI</a></h3>
                 <p>The benefits and competitive advantages of headless commerce are many. When done right, of course. Let’s look at some of the primary advantages that a proper headless commerce buildout can provide.</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/9/28/1/b2c-price-list-example.png" alt="Price Lists for B2B and B2C" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/price-lists-for-b2b-and-b2c" target="_blank">Price Lists for B2B and B2C</a></h3>
                 <p>Besides your product/service, pricing is at the very heart of eCommerce. Customizing product prices in Crystallize has become a lot easier with the price list.</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/22/9/26/1/pim-to-pdf-merchandising.png" alt="Product Merchandising PIM to PDF" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/product-merchandising-pim-to-pdf" target="_blank">Product Merchandising PIM to PDF</a></h3>
-                <p>Turning your product information into PDF in seconds. Publish catalogs, datasheets, and price lists in a flash with a headless PIM system.</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/9/26/1/pim-to-pdf-merchandising.png" alt="Product Merchandising PIM to PDF" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/product-merchandising-pim-to-pdf" target="_blank">Product Merchandising PIM to PDF</a></h3>
+                    <p>Turning your product information into PDF in seconds. Publish catalogs, datasheets, and price lists in a flash with a headless PIM system.</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/9/20/1/next-generation-commerce-platform.png" alt="Next Generation Commerce Platform" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/next-generation-commerce-platform" target="_blank">Next Generation Commerce Platform</a></h3>
                     <p>Our journey to reimagining eCommerce is not about adding features. It&#039;s about delivering core, modern commerce business requirements and future-proofing tech stacks.</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/8/23/1/developer-productivity-tips.png" alt="Developer Productivity" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/developer-productivity" target="_blank">Developer Productivity</a></h3>
                     <p>What does it mean to be a productive developer, and how can you become one?</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/8/25/1/magic-link.png" alt="Magic Link Authentication" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/magic-link-authentication" target="_blank">Magic Link Authentication</a></h3>
-                    <p>Let me introduce you to the idea of magic link authentication, its security risk, and its basic implementation.</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -55,7 +55,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/19/11/15/1/developer_comics_rule_01_always_blame_the_frontend.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/19/11/15/1/developer_comics_rule_01_always_blame_the_frontend.jpg" height="250" alt="Rule 01 - Always Blame The Frontend"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/21/9/9/1/developer_comics_modern_fairytales.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/21/9/9/1/developer_comics_modern_fairytales.jpg" height="250" alt="Modern Fairytales"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -80,6 +80,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2022--10--12 01:04:03-green?style=flat-square&labelColor=black' alt='Generated on 2022--10--12 01:04:03'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2022--10--13 01:03:44-green?style=flat-square&labelColor=black' alt='Generated on 2022--10--13 01:03:44'/>
 
 
