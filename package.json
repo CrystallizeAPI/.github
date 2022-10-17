@@ -17,7 +17,7 @@
         "github-profile-generator": "./build/index.js"
     },
     "dependencies": {
-        "@crystallize/js-api-client": "^0.1.0",
+        "@crystallize/js-api-client": "*",
         "meow": "^10.1.2",
         "mustache": "^4.2.0",
         "node-fetch": "^3.2.3"

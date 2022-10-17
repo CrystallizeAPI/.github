@@ -14,6 +14,12 @@ export function fetchLibraries(): Libraries[] {
             doc: 'https://crystallize.com/learn/open-source'
         },
         {
+            name: 'ReactJS Components',
+            github: 'https://github.com/CrystallizeAPI/reactjs-components',
+            package: '@crystallize/reactjs-components',
+            doc: 'https://crystallize.com/learn/open-source'
+        },
+        {
             name: 'ReactJS Hooks',
             github: 'https://github.com/CrystallizeAPI/reactjs-hooks',
             doc: 'https://crystallize.com/learn/open-source',

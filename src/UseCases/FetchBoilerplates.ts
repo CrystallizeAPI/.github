@@ -8,13 +8,19 @@ export interface Boilerplate {
 export function fetchBoilerplates(): Boilerplate[] {
     return [
         {
+            name: 'Remix Run Advanced Boilerplate',
+            github: 'https://github.com/CrystallizeAPI/furniture-remix',
+            live: 'https://furniture.superfast.store/',
+            doc: 'https://github.com/CrystallizeAPI/furniture-remix'
+        },
+        {
             name: 'Next JS',
             github: 'https://github.com/CrystallizeAPI/crystallize-nextjs-boilerplate',
             live: 'https://furniture.superfast.shop/',
             doc: 'https://crystallize.com/learn/open-source/boilerplates/react-nextjs'
         },
         {
-            name: 'Remix Run',
+            name: 'Remix Run Simple Storytelling',
             github: 'https://github.com/CrystallizeAPI/product-storytelling-examples',
             live: 'https://dounot.milliseconds.live/',
             doc: 'https://crystallize.com/learn/open-source/boilerplates/remix-boilerplate'
