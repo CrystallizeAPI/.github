@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/22/10/18/8/what-is-static-site.jpg" alt="What Is Static Site" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/what-is-static-site" target="_blank">What Is Static Site</a></h3>
+                <p>There are numerous approaches to developing a web application that is performant. Going the static site way is just one of them. Pause here. What do we/I mean when we/I say static sites?</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/10/12/1/ecommerce-conversion-rate-optimization.jpg" alt="eCommerce Conversion Rate Optimization" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/ecommerce-conversion-rate-optimization" target="_blank">eCommerce Conversion Rate Optimization</a></h3>
                 <p>Before you start chasing new and better sales channels, spend some time optimizing the most important one, your website. Improve your website performance with best practices for conversion rate optimization (CRO).</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/10/4/1/word-of-mouth-marketing.png" alt="Word of Mouth Marketing" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/word-of-mouth-marketing" target="_blank">Word of Mouth Marketing</a></h3>
                 <p>Raw, uncontrollable power. That’s what word-of-mouth is. Word-of-mouth marketing is what you do to create that power.</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/22/9/28/1/b2c-price-list-example.png" alt="Price Lists for B2B and B2C" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/price-lists-for-b2b-and-b2c" target="_blank">Price Lists for B2B and B2C</a></h3>
-                <p>Besides your product/service, pricing is at the very heart of eCommerce. Customizing product prices in Crystallize has become a lot easier with the price list.</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/9/28/1/b2c-price-list-example.png" alt="Price Lists for B2B and B2C" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/price-lists-for-b2b-and-b2c" target="_blank">Price Lists for B2B and B2C</a></h3>
+                    <p>Besides your product/service, pricing is at the very heart of eCommerce. Customizing product prices in Crystallize has become a lot easier with the price list.</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/9/26/1/pim-to-pdf-merchandising.png" alt="Product Merchandising PIM to PDF" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/product-merchandising-pim-to-pdf" target="_blank">Product Merchandising PIM to PDF</a></h3>
                     <p>Turning your product information into PDF in seconds. Publish catalogs, datasheets, and price lists in a flash with a headless PIM system.</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/8/26/3/frontend-performance-checklist.png" alt="Frontend Performance Checklist" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/frontend-performance-checklist" target="_blank">Frontend Performance Checklist</a></h3>
                     <p>In the speed-obsessed world of today, better performance comes with serious business gains. This frontend performance checklist is a cumulative list of items that we at Crystallize found important when creating a Superfast web application that is <strong><em>Superfast.</em></strong></p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/8/23/1/developer-productivity-tips.png" alt="Developer Productivity" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/developer-productivity" target="_blank">Developer Productivity</a></h3>
-                    <p>What does it mean to be a productive developer, and how can you become one?</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -55,7 +55,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/21/7/9/3/developer_comics_the_desperation.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/21/7/9/3/developer_comics_the_desperation.jpg" height="250" alt="The Desperation"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/20/9/3/2/developer_comics_rest_vs_graphql_part_2.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/20/9/3/2/developer_comics_rest_vs_graphql_part_2.jpg" height="250" alt="Rest vs GraphQL: Part II"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -91,6 +91,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2022--10--18 01:03:44-green?style=flat-square&labelColor=black' alt='Generated on 2022--10--18 01:03:44'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2022--10--19 01:04:40-green?style=flat-square&labelColor=black' alt='Generated on 2022--10--19 01:04:40'/>
 
 
