@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/22/10/26/1/what-is-product_taxonomy.jpg" alt="What Is Product Taxonomy?" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/what-is-product-taxonomy" target="_blank">What Is Product Taxonomy?</a></h3>
+                <p>A great product taxonomy improves your customer user experience and how they find the right product they need much easier and faster.</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/10/18/8/what-is-static-site.jpg" alt="What Is Static Site" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/what-is-static-site" target="_blank">What Is Static Site</a></h3>
                 <p>There are numerous approaches to developing a web application that is performant. Going the static site way is just one of them. Pause here. What do we/I mean when we/I say static sites?</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/10/10/2/headless-commerce-return-on-investment-roi.png" alt="Headless Commerce ROI" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/headless-commerce-roi" target="_blank">Headless Commerce ROI</a></h3>
                 <p>The benefits and competitive advantages of headless commerce are many. When done right, of course. Let’s look at some of the primary advantages that a proper headless commerce buildout can provide.</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/22/10/4/1/word-of-mouth-marketing.png" alt="Word of Mouth Marketing" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/word-of-mouth-marketing" target="_blank">Word of Mouth Marketing</a></h3>
-                <p>Raw, uncontrollable power. That’s what word-of-mouth is. Word-of-mouth marketing is what you do to create that power.</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/10/4/1/word-of-mouth-marketing.png" alt="Word of Mouth Marketing" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/word-of-mouth-marketing" target="_blank">Word of Mouth Marketing</a></h3>
+                    <p>Raw, uncontrollable power. That’s what word-of-mouth is. Word-of-mouth marketing is what you do to create that power.</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/9/28/1/b2c-price-list-example.png" alt="Price Lists for B2B and B2C" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/price-lists-for-b2b-and-b2c" target="_blank">Price Lists for B2B and B2C</a></h3>
                     <p>Besides your product/service, pricing is at the very heart of eCommerce. Customizing product prices in Crystallize has become a lot easier with the price list.</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/9/1/1/local_seo.jpg" alt="Local SEO eCommerce" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/local-seo-ecommerce" target="_blank">Local SEO eCommerce</a></h3>
                     <p>Increased visibility in location-specific search queries, i.e., local search results, leads to increased brand awareness and better clickthrough rates. How does one do that?</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/8/26/3/frontend-performance-checklist.png" alt="Frontend Performance Checklist" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/frontend-performance-checklist" target="_blank">Frontend Performance Checklist</a></h3>
-                    <p>In the speed-obsessed world of today, better performance comes with serious business gains. This frontend performance checklist is a cumulative list of items that we at Crystallize found important when creating a Superfast web application that is <strong><em>Superfast.</em></strong></p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -55,7 +55,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/21/5/14/1/developer_comics_innovative_presentations.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/21/5/14/1/developer_comics_innovative_presentations.jpg" height="250" alt="Innovative Presentations"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/images/645_developer_comics_the_essence.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/images/645_developer_comics_the_essence.jpg" height="250" alt="The Essence"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -91,6 +91,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2022--10--26 01:04:20-green?style=flat-square&labelColor=black' alt='Generated on 2022--10--26 01:04:20'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2022--10--27 01:03:30-green?style=flat-square&labelColor=black' alt='Generated on 2022--10--27 01:03:30'/>
 
 
