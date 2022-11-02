@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/22/11/1/2/end-to-end-testing.jpg" alt="Frontend End-to-End Testing" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/frontend-end-to-end-testing" target="_blank">Frontend End-to-End Testing</a></h3>
+                <p>We all know that testing our website or web applications is important in helping us avoid breaking things down the line. It is what makes refactoring, adding new features, or simply fixing bugs so much easier. But are unit or integration tests enough?</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/10/28/1/next-js-13-and-crystallize.jpg" alt="Next JS 13" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/next-js-13" target="_blank">Next JS 13</a></h3>
                 <p>I am sure that the dev community is going to talk about the Next 13 in the upcoming weeks extensively, so this post is more about my first impression from the perspective of Crystallize users. Bare with me, will ya!</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/10/18/8/what-is-static-site.jpg" alt="What Is Static Site" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/what-is-static-site" target="_blank">What Is Static Site</a></h3>
                 <p>There are numerous approaches to developing a web application that is performant. Going the static site way is just one of them. Pause here. What do we/I mean when we/I say static sites?</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/22/10/12/1/ecommerce-conversion-rate-optimization.jpg" alt="eCommerce Conversion Rate Optimization" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/ecommerce-conversion-rate-optimization" target="_blank">eCommerce Conversion Rate Optimization</a></h3>
-                <p>Before you start chasing new and better sales channels, spend some time optimizing the most important one, your website. Improve your website performance with best practices for conversion rate optimization (CRO).</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/10/12/1/ecommerce-conversion-rate-optimization.jpg" alt="eCommerce Conversion Rate Optimization" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/ecommerce-conversion-rate-optimization" target="_blank">eCommerce Conversion Rate Optimization</a></h3>
+                    <p>Before you start chasing new and better sales channels, spend some time optimizing the most important one, your website. Improve your website performance with best practices for conversion rate optimization (CRO).</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/10/10/2/headless-commerce-return-on-investment-roi.png" alt="Headless Commerce ROI" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/headless-commerce-roi" target="_blank">Headless Commerce ROI</a></h3>
                     <p>The benefits and competitive advantages of headless commerce are many. When done right, of course. Let’s look at some of the primary advantages that a proper headless commerce buildout can provide.</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/9/14/1/nuwo-index-page.jpg" alt="nuwo Case Study" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/nuwo-case-study" target="_blank">nuwo Case Study</a></h3>
                     <p>Nuwo is a home office-as-a-service solution that provides companies with personalized online stores from which their remote employees can pick and choose furniture/equipment for their home office.</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/9/7/1/b2b-ecommerce.png" alt="B2B eCommerce" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/b2b-ecommerce" target="_blank">B2B eCommerce</a></h3>
-                    <p>B2B eCommerce is nowhere near as talked about as B2C eCommerce, which is strange considering that the B2B eCommerce market is over five times (5X) more valuable.</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -55,7 +55,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/20/4/2/1/developer_comics_busted.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/20/4/2/1/developer_comics_busted.jpg" height="250" alt="Busted"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/19/11/1/1/developer_comics_proportions.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/19/11/1/1/developer_comics_proportions.jpg" height="250" alt="Simple Logic"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -91,6 +91,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2022--11--01 01:04:00-green?style=flat-square&labelColor=black' alt='Generated on 2022--11--01 01:04:00'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2022--11--02 01:04:30-green?style=flat-square&labelColor=black' alt='Generated on 2022--11--02 01:04:30'/>
 
 
