@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/22/11/9/1/powered-turborepo.jpg" alt="Powered by Turborepo" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/powered-by-turborepo" target="_blank">Powered by Turborepo</a></h3>
+                <p>Why Turborepo? We wanted to expose Crystallize App components in a public design system, speed up build times in the CI and on local machines, and create the foundation for micro frontends.</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/11/1/2/end-to-end-testing.jpg" alt="Frontend End-to-End Testing" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/frontend-end-to-end-testing" target="_blank">Frontend End-to-End Testing</a></h3>
                 <p>We all know that testing our website or web applications is important in helping us avoid breaking things down the line. It is what makes refactoring, adding new features, or simply fixing bugs so much easier. But are unit or integration tests enough?</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/10/26/1/what-is-product_taxonomy.jpg" alt="What Is Product Taxonomy?" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/what-is-product-taxonomy" target="_blank">What Is Product Taxonomy?</a></h3>
                 <p>A great product taxonomy improves your customer user experience and how they find the right product they need much easier and faster.</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/22/10/18/8/what-is-static-site.jpg" alt="What Is Static Site" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/what-is-static-site" target="_blank">What Is Static Site</a></h3>
-                <p>There are numerous approaches to developing a web application that is performant. Going the static site way is just one of them. Pause here. What do we/I mean when we/I say static sites?</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/10/18/8/what-is-static-site.jpg" alt="What Is Static Site" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/what-is-static-site" target="_blank">What Is Static Site</a></h3>
+                    <p>There are numerous approaches to developing a web application that is performant. Going the static site way is just one of them. Pause here. What do we/I mean when we/I say static sites?</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/10/12/1/ecommerce-conversion-rate-optimization.jpg" alt="eCommerce Conversion Rate Optimization" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/ecommerce-conversion-rate-optimization" target="_blank">eCommerce Conversion Rate Optimization</a></h3>
                     <p>Before you start chasing new and better sales channels, spend some time optimizing the most important one, your website. Improve your website performance with best practices for conversion rate optimization (CRO).</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/9/20/1/next-generation-commerce-platform.png" alt="Next Generation Commerce Platform" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/next-generation-commerce-platform" target="_blank">Next Generation Commerce Platform</a></h3>
                     <p>Our journey to reimagining eCommerce is not about adding features. It&#039;s about delivering core, modern commerce business requirements and future-proofing tech stacks.</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/9/14/1/nuwo-index-page.jpg" alt="nuwo Case Study" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/nuwo-case-study" target="_blank">nuwo Case Study</a></h3>
-                    <p>Nuwo is a home office-as-a-service solution that provides companies with personalized online stores from which their remote employees can pick and choose furniture/equipment for their home office.</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -55,7 +55,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/22/4/15/1/crystallize_strip_engineering_rules_178.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/22/4/15/1/crystallize_strip_engineering_rules_178.jpg" height="250" alt="Engineering Rules"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/images/521_crystallize_strip_29.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/images/521_crystallize_strip_29.jpg" height="250" alt="Can&#39;t Be Unseen"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -91,6 +91,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2022--11--09 01:03:19-green?style=flat-square&labelColor=black' alt='Generated on 2022--11--09 01:03:19'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2022--11--10 01:03:33-green?style=flat-square&labelColor=black' alt='Generated on 2022--11--10 01:03:33'/>
 
 
