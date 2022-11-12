@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/22/11/10/1/jamstack-conf-2022.jpg" alt="Jamstack Conf 2022" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/jamstack-conf-2022" target="_blank">Jamstack Conf 2022</a></h3>
+                <p>Crystallize #jamstackconf2022 story. In short: “I had a blast.”</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/11/9/1/powered-turborepo.jpg" alt="Powered by Turborepo" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/powered-by-turborepo" target="_blank">Powered by Turborepo</a></h3>
                 <p>Why Turborepo? We wanted to expose Crystallize App components in a public design system, speed up build times in the CI and on local machines, and create the foundation for micro frontends.</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/10/28/1/next-js-13-and-crystallize.jpg" alt="Next JS 13" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/next-js-13" target="_blank">Next JS 13</a></h3>
                 <p>I am sure that the dev community is going to talk about the Next 13 in the upcoming weeks extensively, so this post is more about my first impression from the perspective of Crystallize users. Bare with me, will ya!</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/22/10/26/1/what-is-product_taxonomy.jpg" alt="What Is Product Taxonomy?" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/what-is-product-taxonomy" target="_blank">What Is Product Taxonomy?</a></h3>
-                <p>A great product taxonomy improves your customer user experience and how they find the right product they need much easier and faster.</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/10/26/1/what-is-product_taxonomy.jpg" alt="What Is Product Taxonomy?" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/what-is-product-taxonomy" target="_blank">What Is Product Taxonomy?</a></h3>
+                    <p>A great product taxonomy improves your customer user experience and how they find the right product they need much easier and faster.</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/10/18/8/what-is-static-site.jpg" alt="What Is Static Site" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/what-is-static-site" target="_blank">What Is Static Site</a></h3>
                     <p>There are numerous approaches to developing a web application that is performant. Going the static site way is just one of them. Pause here. What do we/I mean when we/I say static sites?</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/9/26/1/pim-to-pdf-merchandising.png" alt="Product Merchandising PIM to PDF" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/product-merchandising-pim-to-pdf" target="_blank">Product Merchandising PIM to PDF</a></h3>
                     <p>Turning your product information into PDF in seconds. Publish catalogs, datasheets, and price lists in a flash with a headless PIM system.</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/9/20/1/next-generation-commerce-platform.png" alt="Next Generation Commerce Platform" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/next-generation-commerce-platform" target="_blank">Next Generation Commerce Platform</a></h3>
-                    <p>Our journey to reimagining eCommerce is not about adding features. It&#039;s about delivering core, modern commerce business requirements and future-proofing tech stacks.</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -55,7 +55,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/images/552_developer_comics_the_summoning.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/images/552_developer_comics_the_summoning.jpg" height="250" alt="Captain Unicorn"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/images/642_developer_comics_pngs_vs_webp.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/images/642_developer_comics_pngs_vs_webp.jpg" height="250" alt="PNG vs WebP"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -91,6 +91,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2022--11--11 01:03:34-green?style=flat-square&labelColor=black' alt='Generated on 2022--11--11 01:03:34'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2022--11--12 01:03:19-green?style=flat-square&labelColor=black' alt='Generated on 2022--11--12 01:03:19'/>
 
 
