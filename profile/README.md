@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/22/11/16/3/gullpila-case-study.png" alt="Subscription Streaming Service Gullpila" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/subscription-streaming-service-gullpila" target="_blank">Subscription Streaming Service Gullpila</a></h3>
+                <p>Gullpila delivers engaging live and on-demand HD video content to Odds Ballklubb football club fans and represents a new direct revenue stream for the club.</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/11/10/1/jamstack-conf-2022.jpg" alt="Jamstack Conf 2022" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/jamstack-conf-2022" target="_blank">Jamstack Conf 2022</a></h3>
                 <p>Crystallize #jamstackconf2022 story. In short: “I had a blast.”</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/11/1/2/end-to-end-testing.jpg" alt="Frontend End-to-End Testing" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/frontend-end-to-end-testing" target="_blank">Frontend End-to-End Testing</a></h3>
                 <p>We all know that testing our website or web applications is important in helping us avoid breaking things down the line. It is what makes refactoring, adding new features, or simply fixing bugs so much easier. But are unit or integration tests enough?</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/22/10/28/1/next-js-13-and-crystallize.jpg" alt="Next JS 13" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/next-js-13" target="_blank">Next JS 13</a></h3>
-                <p>I am sure that the dev community is going to talk about the Next 13 in the upcoming weeks extensively, so this post is more about my first impression from the perspective of Crystallize users. Bare with me, will ya!</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/10/28/1/next-js-13-and-crystallize.jpg" alt="Next JS 13" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/next-js-13" target="_blank">Next JS 13</a></h3>
+                    <p>I am sure that the dev community is going to talk about the Next 13 in the upcoming weeks extensively, so this post is more about my first impression from the perspective of Crystallize users. Bare with me, will ya!</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/10/26/1/what-is-product_taxonomy.jpg" alt="What Is Product Taxonomy?" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/what-is-product-taxonomy" target="_blank">What Is Product Taxonomy?</a></h3>
                     <p>A great product taxonomy improves your customer user experience and how they find the right product they need much easier and faster.</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/9/28/1/b2c-price-list-example.png" alt="Price Lists for B2B and B2C" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/price-lists-for-b2b-and-b2c" target="_blank">Price Lists for B2B and B2C</a></h3>
                     <p>Besides your product/service, pricing is at the very heart of eCommerce. Customizing product prices in Crystallize has become a lot easier with the price list.</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/9/26/1/pim-to-pdf-merchandising.png" alt="Product Merchandising PIM to PDF" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/product-merchandising-pim-to-pdf" target="_blank">Product Merchandising PIM to PDF</a></h3>
-                    <p>Turning your product information into PDF in seconds. Publish catalogs, datasheets, and price lists in a flash with a headless PIM system.</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -55,7 +55,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/21/7/9/2/developer_comics_get_awkward.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/21/7/9/2/developer_comics_get_awkward.jpg" height="250" alt="Get Awkward"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/22/8/19/1/crystallize_strip_partially_hydrate_194.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/22/8/19/1/crystallize_strip_partially_hydrate_194.jpg" height="250" alt="Partially Hydrate"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -91,6 +91,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2022--11--16 01:04:33-green?style=flat-square&labelColor=black' alt='Generated on 2022--11--16 01:04:33'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2022--11--17 01:04:30-green?style=flat-square&labelColor=black' alt='Generated on 2022--11--17 01:04:30'/>
 
 
