@@ -9,7 +9,7 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/22/11/16/3/gullpila-case-study.png" alt="Subscription Streaming Service Gullpila" width="100" align="left"></p>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/22/11/17/2/gullpila-case-study.png" alt="Subscription Streaming Service Gullpila" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/subscription-streaming-service-gullpila" target="_blank">Subscription Streaming Service Gullpila</a></h3>
                 <p>Gullpila delivers engaging live and on-demand HD video content to Odds Ballklubb football club fans and represents a new direct revenue stream for the club.</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/11/10/1/jamstack-conf-2022.jpg" alt="Jamstack Conf 2022" width="100" align="left"></p>
@@ -55,7 +55,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/22/8/19/1/crystallize_strip_partially_hydrate_194.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/22/8/19/1/crystallize_strip_partially_hydrate_194.jpg" height="250" alt="Partially Hydrate"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/21/1/15/1/developer_comics_never_failing_test.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/21/1/15/1/developer_comics_never_failing_test.jpg" height="250" alt="Never Failing Test"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -91,6 +91,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2022--11--17 01:04:30-green?style=flat-square&labelColor=black' alt='Generated on 2022--11--17 01:04:30'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2022--11--18 01:04:47-green?style=flat-square&labelColor=black' alt='Generated on 2022--11--18 01:04:47'/>
 
 
