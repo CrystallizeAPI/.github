@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/22/11/22/1/omnichannel-marketing.jpg" alt="Omnichannel Marketing eCommerce" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/omnichannel-marketing-ecommerce" target="_blank">Omnichannel Marketing eCommerce</a></h3>
+                <p>In today&#039;s society of continuous technological innovation, consumers expect businesses to have a strong omnichannel strategy: they demand highly relevant and customized interactions across various platforms.</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/11/17/2/gullpila-case-study.png" alt="Subscription Streaming Service Gullpila" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/subscription-streaming-service-gullpila" target="_blank">Subscription Streaming Service Gullpila</a></h3>
                 <p>Gullpila delivers engaging live and on-demand HD video content to Odds Ballklubb football club fans and represents a new direct revenue stream for the club.</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/11/9/1/powered-turborepo.jpg" alt="Powered by Turborepo" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/powered-by-turborepo" target="_blank">Powered by Turborepo</a></h3>
                 <p>Why Turborepo? We wanted to expose Crystallize App components in a public design system, speed up build times in the CI and on local machines, and create the foundation for micro frontends.</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/22/11/1/2/end-to-end-testing.jpg" alt="Frontend End-to-End Testing" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/frontend-end-to-end-testing" target="_blank">Frontend End-to-End Testing</a></h3>
-                <p>We all know that testing our website or web applications is important in helping us avoid breaking things down the line. It is what makes refactoring, adding new features, or simply fixing bugs so much easier. But are unit or integration tests enough?</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/11/1/2/end-to-end-testing.jpg" alt="Frontend End-to-End Testing" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/frontend-end-to-end-testing" target="_blank">Frontend End-to-End Testing</a></h3>
+                    <p>We all know that testing our website or web applications is important in helping us avoid breaking things down the line. It is what makes refactoring, adding new features, or simply fixing bugs so much easier. But are unit or integration tests enough?</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/10/28/1/next-js-13-and-crystallize.jpg" alt="Next JS 13" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/next-js-13" target="_blank">Next JS 13</a></h3>
                     <p>I am sure that the dev community is going to talk about the Next 13 in the upcoming weeks extensively, so this post is more about my first impression from the perspective of Crystallize users. Bare with me, will ya!</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/10/4/1/word-of-mouth-marketing.png" alt="Word of Mouth Marketing" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/word-of-mouth-marketing" target="_blank">Word of Mouth Marketing</a></h3>
                     <p>Raw, uncontrollable power. That’s what word-of-mouth is. Word-of-mouth marketing is what you do to create that power.</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/9/28/1/b2c-price-list-example.png" alt="Price Lists for B2B and B2C" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/price-lists-for-b2b-and-b2c" target="_blank">Price Lists for B2B and B2C</a></h3>
-                    <p>Besides your product/service, pricing is at the very heart of eCommerce. Customizing product prices in Crystallize has become a lot easier with the price list.</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -55,7 +55,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/21/2/12/1/developer_comics_coffee_vs_developer.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/21/2/12/1/developer_comics_coffee_vs_developer.jpg" height="250" alt="Coffee vs Developer"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/20/7/1/1/developer_comics_thinking_outside_the_box.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/20/7/1/1/developer_comics_thinking_outside_the_box.jpg" height="250" alt="Outside The Box"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -91,6 +91,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2022--11--22 01:03:25-green?style=flat-square&labelColor=black' alt='Generated on 2022--11--22 01:03:25'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2022--11--23 01:02:57-green?style=flat-square&labelColor=black' alt='Generated on 2022--11--23 01:02:57'/>
 
 
