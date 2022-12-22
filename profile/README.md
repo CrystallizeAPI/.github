@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/22/12/20/1/multichannel_ecommerce.jpg" alt="Multichannel eCommerce" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/multichannel-ecommerce" target="_blank">Multichannel eCommerce</a></h3>
+                <p>Wondering if a multichannel approach could help you increase sales in 2023? Wonder no more, your hunch is correct: multichannel eCommerce will help you reach those goals.</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/12/14/1/crystallize_apps.jpg" alt="Crystallize Apps" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/crystallize-apps" target="_blank">Crystallize Apps</a></h3>
                 <p>“Crystallize apps” have been released! We are pleased to announce that you can now build an “Application” that can be injected into the main Crystallize App.</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/11/17/2/gullpila-case-study.png" alt="Subscription Streaming Service Gullpila" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/subscription-streaming-service-gullpila" target="_blank">Subscription Streaming Service Gullpila</a></h3>
                 <p>Gullpila delivers engaging live and on-demand HD video content to Odds Ballklubb football club fans and represents a new direct revenue stream for the club.</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/22/11/10/1/jamstack-conf-2022.jpg" alt="Jamstack Conf 2022" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/jamstack-conf-2022" target="_blank">Jamstack Conf 2022</a></h3>
-                <p>Crystallize #jamstackconf2022 story. In short: “I had a blast.”</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/11/10/1/jamstack-conf-2022.jpg" alt="Jamstack Conf 2022" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/jamstack-conf-2022" target="_blank">Jamstack Conf 2022</a></h3>
+                    <p>Crystallize #jamstackconf2022 story. In short: “I had a blast.”</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/11/9/1/powered-turborepo.jpg" alt="Powered by Turborepo" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/powered-by-turborepo" target="_blank">Powered by Turborepo</a></h3>
                     <p>Why Turborepo? We wanted to expose Crystallize App components in a public design system, speed up build times in the CI and on local machines, and create the foundation for micro frontends.</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/10/12/1/ecommerce-conversion-rate-optimization.jpg" alt="eCommerce Conversion Rate Optimization" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/ecommerce-conversion-rate-optimization" target="_blank">eCommerce Conversion Rate Optimization</a></h3>
                     <p>Before you start chasing new and better sales channels, spend some time optimizing the most important one, your website. Improve your website performance with best practices for conversion rate optimization (CRO).</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/10/10/2/headless-commerce-return-on-investment-roi.png" alt="Headless Commerce ROI" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/headless-commerce-roi" target="_blank">Headless Commerce ROI</a></h3>
-                    <p>The benefits and competitive advantages of headless commerce are many. When done right, of course. Let’s look at some of the primary advantages that a proper headless commerce buildout can provide.</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -55,7 +55,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/20/8/28/2/developer_comics_the_apocalypse.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/20/8/28/2/developer_comics_the_apocalypse.jpg" height="250" alt="The Apocalypse"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/images/281_developer_comics_recurring_nightmare.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/images/281_developer_comics_recurring_nightmare.jpg" height="250" alt="Recurring Nightmare"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -91,6 +91,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2022--12--21 01:02:38-green?style=flat-square&labelColor=black' alt='Generated on 2022--12--21 01:02:38'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2022--12--22 01:02:50-green?style=flat-square&labelColor=black' alt='Generated on 2022--12--22 01:02:50'/>
 
 
