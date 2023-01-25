@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/23/1/24/1/retail-ecommerce-remix-run-boilerplate.jpg" alt="Free Open Source Remix Retail Store Template" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/free-open-source-remix-retail-store-template" target="_blank">Free Open Source Remix Retail Store Template</a></h3>
+                <p>Remix and eCommerce go well hand in hand, and we have a free open-source boilerplate for retail storefronts to prove it.</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/23/1/17/1/ecommerce-business-models.jpg" alt="eCommerce Business Model" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/ecommerce-business-model" target="_blank">eCommerce Business Model</a></h3>
                 <p>One of the first steps to opening your eCommerce store is picking the right business model.</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/12/14/1/crystallize_apps.jpg" alt="Crystallize Apps" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/crystallize-apps" target="_blank">Crystallize Apps</a></h3>
                 <p>“Crystallize apps” have been released! We are pleased to announce that you can now build an “Application” that can be injected into the main Crystallize App.</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/22/11/22/1/omnichannel-marketing.jpg" alt="Omnichannel Marketing eCommerce" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/omnichannel-marketing-ecommerce" target="_blank">Omnichannel Marketing eCommerce</a></h3>
-                <p>In today&#039;s society of continuous technological innovation, consumers expect businesses to have a strong omnichannel strategy: they demand highly relevant and customized interactions across various platforms.</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/11/22/1/omnichannel-marketing.jpg" alt="Omnichannel Marketing eCommerce" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/omnichannel-marketing-ecommerce" target="_blank">Omnichannel Marketing eCommerce</a></h3>
+                    <p>In today&#039;s society of continuous technological innovation, consumers expect businesses to have a strong omnichannel strategy: they demand highly relevant and customized interactions across various platforms.</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/11/17/2/gullpila-case-study.png" alt="Subscription Streaming Service Gullpila" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/subscription-streaming-service-gullpila" target="_blank">Subscription Streaming Service Gullpila</a></h3>
                     <p>Gullpila delivers engaging live and on-demand HD video content to Odds Ballklubb football club fans and represents a new direct revenue stream for the club.</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/10/26/1/what-is-product_taxonomy.jpg" alt="What Is Product Taxonomy?" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/what-is-product-taxonomy" target="_blank">What Is Product Taxonomy?</a></h3>
                     <p>A great product taxonomy improves your customer user experience and how they find the right product they need much easier and faster.</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/10/18/8/what-is-static-site.jpg" alt="What Is Static Site" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/what-is-static-site" target="_blank">What Is Static Site</a></h3>
-                    <p>There are numerous approaches to developing a web application that is performant. Going the static site way is just one of them. Pause here. What do we/I mean when we/I say static sites?</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -55,7 +55,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/images/646_developer_comics_oh_yeah_i_totally_get_it.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/images/646_developer_comics_oh_yeah_i_totally_get_it.jpg" height="250" alt="Oh Yeah, I Totally Get It!"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/21/3/21/2/developer_comics_inspirational_posters.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/21/3/21/2/developer_comics_inspirational_posters.jpg" height="250" alt="Inspirational Posters"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -91,6 +91,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2023--01--24 01:02:43-green?style=flat-square&labelColor=black' alt='Generated on 2023--01--24 01:02:43'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2023--01--25 01:02:34-green?style=flat-square&labelColor=black' alt='Generated on 2023--01--25 01:02:34'/>
 
 
