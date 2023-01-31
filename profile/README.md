@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/23/1/30/1/ecommerce-development-design-trends.jpg" alt="Web Development Trends" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/web-development-trends" target="_blank">Web Development Trends</a></h3>
+                <p>Headless, composable, API-first, Remix, UI or UX-driven design, etc. Tracking development and design trends in eCommerce is both tough and rewarding at the same time.</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/23/1/24/1/retail-ecommerce-remix-run-boilerplate.jpg" alt="Free Open Source Remix Retail Store Template" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/free-open-source-remix-retail-store-template" target="_blank">Free Open Source Remix Retail Store Template</a></h3>
                 <p>Remix and eCommerce go well hand in hand, and we have a free open-source boilerplate for retail storefronts to prove it.</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/12/20/1/multichannel_ecommerce.jpg" alt="Multichannel eCommerce" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/multichannel-ecommerce" target="_blank">Multichannel eCommerce</a></h3>
                 <p>Wondering if a multichannel approach could help you increase sales in 2023? Wonder no more, your hunch is correct: multichannel eCommerce will help you reach those goals.</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/22/12/14/1/crystallize_apps.jpg" alt="Crystallize Apps" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/crystallize-apps" target="_blank">Crystallize Apps</a></h3>
-                <p>“Crystallize apps” have been released! We are pleased to announce that you can now build an “Application” that can be injected into the main Crystallize App.</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/12/14/1/crystallize_apps.jpg" alt="Crystallize Apps" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/crystallize-apps" target="_blank">Crystallize Apps</a></h3>
+                    <p>“Crystallize apps” have been released! We are pleased to announce that you can now build an “Application” that can be injected into the main Crystallize App.</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/11/22/1/omnichannel-marketing.jpg" alt="Omnichannel Marketing eCommerce" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/omnichannel-marketing-ecommerce" target="_blank">Omnichannel Marketing eCommerce</a></h3>
                     <p>In today&#039;s society of continuous technological innovation, consumers expect businesses to have a strong omnichannel strategy: they demand highly relevant and customized interactions across various platforms.</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/10/28/1/next-js-13-and-crystallize.jpg" alt="Next JS 13" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/next-js-13" target="_blank">Next JS 13</a></h3>
                     <p>I am sure that the dev community is going to talk about the Next 13 in the upcoming weeks extensively, so this post is more about my first impression from the perspective of Crystallize users. Bare with me, will ya!</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/10/26/1/what-is-product_taxonomy.jpg" alt="What Is Product Taxonomy?" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/what-is-product-taxonomy" target="_blank">What Is Product Taxonomy?</a></h3>
-                    <p>A great product taxonomy improves your customer user experience and how they find the right product they need much easier and faster.</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -55,7 +55,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/20/5/8/6/developer_comics_right_in_the_spot.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/20/5/8/6/developer_comics_right_in_the_spot.jpg" height="250" alt="Right In The Spot"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/22/2/11/1/crystallize_strip_let_me_call_you_169.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/22/2/11/1/crystallize_strip_let_me_call_you_169.jpg" height="250" alt=" Let Me Call You"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -91,6 +91,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2023--01--30 01:03:05-green?style=flat-square&labelColor=black' alt='Generated on 2023--01--30 01:03:05'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2023--01--31 01:02:48-green?style=flat-square&labelColor=black' alt='Generated on 2023--01--31 01:02:48'/>
 
 
