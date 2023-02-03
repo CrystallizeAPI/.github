@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/23/2/2/1/pim-vs-mdm.png" alt="PIM vs. MDM" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/pim-vs-mdm" target="_blank">PIM vs. MDM</a></h3>
+                <p>MDM manages all types of company data, including those managed in PIM, making PIM a subset of MDM. Wait, what?</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/23/1/30/1/ecommerce-development-design-trends.jpg" alt="Web Development Trends" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/web-development-trends" target="_blank">Web Development Trends</a></h3>
                 <p>Headless, composable, API-first, Remix, UI or UX-driven design, etc. Tracking development and design trends in eCommerce is both tough and rewarding at the same time.</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/23/1/17/1/ecommerce-business-models.jpg" alt="eCommerce Business Model" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/ecommerce-business-model" target="_blank">eCommerce Business Model</a></h3>
                 <p>One of the first steps to opening your eCommerce store is picking the right business model.</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/22/12/20/1/multichannel_ecommerce.jpg" alt="Multichannel eCommerce" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/multichannel-ecommerce" target="_blank">Multichannel eCommerce</a></h3>
-                <p>Wondering if a multichannel approach could help you increase sales in 2023? Wonder no more, your hunch is correct: multichannel eCommerce will help you reach those goals.</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/12/20/1/multichannel_ecommerce.jpg" alt="Multichannel eCommerce" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/multichannel-ecommerce" target="_blank">Multichannel eCommerce</a></h3>
+                    <p>Wondering if a multichannel approach could help you increase sales in 2023? Wonder no more, your hunch is correct: multichannel eCommerce will help you reach those goals.</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/12/14/1/crystallize_apps.jpg" alt="Crystallize Apps" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/crystallize-apps" target="_blank">Crystallize Apps</a></h3>
                     <p>“Crystallize apps” have been released! We are pleased to announce that you can now build an “Application” that can be injected into the main Crystallize App.</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/11/1/2/end-to-end-testing.jpg" alt="Frontend End-to-End Testing" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/frontend-end-to-end-testing" target="_blank">Frontend End-to-End Testing</a></h3>
                     <p>We all know that testing our website or web applications is important in helping us avoid breaking things down the line. It is what makes refactoring, adding new features, or simply fixing bugs so much easier. But are unit or integration tests enough?</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/10/28/1/next-js-13-and-crystallize.jpg" alt="Next JS 13" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/next-js-13" target="_blank">Next JS 13</a></h3>
-                    <p>I am sure that the dev community is going to talk about the Next 13 in the upcoming weeks extensively, so this post is more about my first impression from the perspective of Crystallize users. Bare with me, will ya!</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -55,7 +55,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/21/3/21/2/developer_comics_inspirational_posters.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/21/3/21/2/developer_comics_inspirational_posters.jpg" height="250" alt="Inspirational Posters"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/20/9/3/2/developer_comics_rest_vs_graphql_part_2.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/20/9/3/2/developer_comics_rest_vs_graphql_part_2.jpg" height="250" alt="Rest vs GraphQL: Part II"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -91,6 +91,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2023--02--02 01:03:40-green?style=flat-square&labelColor=black' alt='Generated on 2023--02--02 01:03:40'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2023--02--03 01:03:07-green?style=flat-square&labelColor=black' alt='Generated on 2023--02--03 01:03:07'/>
 
 
