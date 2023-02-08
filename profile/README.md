@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/23/2/7/1/user-identity-management.jpg" alt="User Identity Management" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/user-identity-management" target="_blank">User Identity Management</a></h3>
+                <p>Protecting your data and ensuring that only authorized people have access to it is of utmost importance. With that in mind, I wanted to talk about a few popular user identity management methods most devs have used, emphasizing the pros and cons.</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/23/2/2/1/pim-vs-mdm.png" alt="PIM vs. MDM" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/pim-vs-mdm" target="_blank">PIM vs. MDM</a></h3>
                 <p>MDM manages all types of company data, including those managed in PIM, making PIM a subset of MDM. Wait, what?</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/23/1/24/1/retail-ecommerce-remix-run-boilerplate.jpg" alt="Free Open Source Remix Retail Store Template" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/free-open-source-remix-retail-store-template" target="_blank">Free Open Source Remix Retail Store Template</a></h3>
                 <p>Remix and eCommerce go well hand in hand, and we have a free open-source boilerplate for retail storefronts to prove it.</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/23/1/17/1/ecommerce-business-models.jpg" alt="eCommerce Business Model" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/ecommerce-business-model" target="_blank">eCommerce Business Model</a></h3>
-                <p>One of the first steps to opening your eCommerce store is picking the right business model.</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/23/1/17/1/ecommerce-business-models.jpg" alt="eCommerce Business Model" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/ecommerce-business-model" target="_blank">eCommerce Business Model</a></h3>
+                    <p>One of the first steps to opening your eCommerce store is picking the right business model.</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/12/20/1/multichannel_ecommerce.jpg" alt="Multichannel eCommerce" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/multichannel-ecommerce" target="_blank">Multichannel eCommerce</a></h3>
                     <p>Wondering if a multichannel approach could help you increase sales in 2023? Wonder no more, your hunch is correct: multichannel eCommerce will help you reach those goals.</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/11/9/1/powered-turborepo.jpg" alt="Powered by Turborepo" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/powered-by-turborepo" target="_blank">Powered by Turborepo</a></h3>
                     <p>Why Turborepo? We wanted to expose Crystallize App components in a public design system, speed up build times in the CI and on local machines, and create the foundation for micro frontends.</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/11/1/2/end-to-end-testing.jpg" alt="Frontend End-to-End Testing" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/frontend-end-to-end-testing" target="_blank">Frontend End-to-End Testing</a></h3>
-                    <p>We all know that testing our website or web applications is important in helping us avoid breaking things down the line. It is what makes refactoring, adding new features, or simply fixing bugs so much easier. But are unit or integration tests enough?</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -55,7 +55,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/20/12/18/2/crystallize_strip_115.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/20/12/18/2/crystallize_strip_115.jpg" height="250" alt="I See Dead Pixels"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/19/9/13/4/developer_comics_whatever_it_takes.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/19/9/13/4/developer_comics_whatever_it_takes.jpg" height="250" alt="Whatever It Takes"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -91,6 +91,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2023--02--07 01:02:34-green?style=flat-square&labelColor=black' alt='Generated on 2023--02--07 01:02:34'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2023--02--08 01:02:46-green?style=flat-square&labelColor=black' alt='Generated on 2023--02--08 01:02:46'/>
 
 
