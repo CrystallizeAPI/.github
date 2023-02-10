@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/23/2/9/1/zipfit-case-study.png" alt="ZipFit Case Study" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/zipfit-case-study" target="_blank">ZipFit Case Study</a></h3>
+                <p>ZipFit needed a modern website that performed well to help them continue to grow. Next JS + Crystallize delivered everything they needed.</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/23/2/7/1/user-identity-management.jpg" alt="User Identity Management" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/user-identity-management" target="_blank">User Identity Management</a></h3>
                 <p>Protecting your data and ensuring that only authorized people have access to it is of utmost importance. With that in mind, I wanted to talk about a few popular user identity management methods most devs have used, emphasizing the pros and cons.</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/23/1/30/1/ecommerce-development-design-trends.jpg" alt="Web Development Trends" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/web-development-trends" target="_blank">Web Development Trends</a></h3>
                 <p>Headless, composable, API-first, Remix, UI or UX-driven design, etc. Tracking development and design trends in eCommerce is both tough and rewarding at the same time.</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/23/1/24/1/retail-ecommerce-remix-run-boilerplate.jpg" alt="Free Open Source Remix Retail Store Template" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/free-open-source-remix-retail-store-template" target="_blank">Free Open Source Remix Retail Store Template</a></h3>
-                <p>Remix and eCommerce go well hand in hand, and we have a free open-source boilerplate for retail storefronts to prove it.</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/23/1/24/1/retail-ecommerce-remix-run-boilerplate.jpg" alt="Free Open Source Remix Retail Store Template" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/free-open-source-remix-retail-store-template" target="_blank">Free Open Source Remix Retail Store Template</a></h3>
+                    <p>Remix and eCommerce go well hand in hand, and we have a free open-source boilerplate for retail storefronts to prove it.</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/23/1/17/1/ecommerce-business-models.jpg" alt="eCommerce Business Model" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/ecommerce-business-model" target="_blank">eCommerce Business Model</a></h3>
                     <p>One of the first steps to opening your eCommerce store is picking the right business model.</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/11/10/1/jamstack-conf-2022.jpg" alt="Jamstack Conf 2022" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/jamstack-conf-2022" target="_blank">Jamstack Conf 2022</a></h3>
                     <p>Crystallize #jamstackconf2022 story. In short: “I had a blast.”</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/11/9/1/powered-turborepo.jpg" alt="Powered by Turborepo" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/powered-by-turborepo" target="_blank">Powered by Turborepo</a></h3>
-                    <p>Why Turborepo? We wanted to expose Crystallize App components in a public design system, speed up build times in the CI and on local machines, and create the foundation for micro frontends.</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -55,7 +55,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/20/1/31/1/developer_comics_forewarned_is_forearmed.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/20/1/31/1/developer_comics_forewarned_is_forearmed.jpg" height="250" alt="Forewarned Is Forearmed"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/images/385_developer_comics_packages_downloading.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/images/385_developer_comics_packages_downloading.jpg" height="250" alt="Christmas Spirit"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -91,6 +91,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2023--02--09 01:02:42-green?style=flat-square&labelColor=black' alt='Generated on 2023--02--09 01:02:42'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2023--02--10 01:02:53-green?style=flat-square&labelColor=black' alt='Generated on 2023--02--10 01:02:53'/>
 
 
