@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/23/2/15/2/pim-vs-pxm-vs-dxp.png" alt="PIM vs. PXM vs. DXP" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/pim-vs-pxm-vs-dxp" target="_blank">PIM vs. PXM vs. DXP</a></h3>
+                <p>Personalized experiences increase the likelihood of purchase by 80% for consumers. And with that, experience management platforms (XM) entered the scene.</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/23/2/13/1/best-payment-gateways.jpg" alt="Best Payment Gateways" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/best-payment-gateways" target="_blank">Best Payment Gateways</a></h3>
                 <p>A payment gateway is a tech backend solution that facilitates the payment process for online businesses. Important, right?</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/23/2/7/1/user-identity-management.jpg" alt="User Identity Management" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/user-identity-management" target="_blank">User Identity Management</a></h3>
                 <p>Protecting your data and ensuring that only authorized people have access to it is of utmost importance. With that in mind, I wanted to talk about a few popular user identity management methods most devs have used, emphasizing the pros and cons.</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/23/2/2/1/pim-vs-mdm.png" alt="PIM vs. MDM" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/pim-vs-mdm" target="_blank">PIM vs. MDM</a></h3>
-                <p>MDM manages all types of company data, including those managed in PIM, making PIM a subset of MDM. Wait, what?</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/23/2/2/1/pim-vs-mdm.png" alt="PIM vs. MDM" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/pim-vs-mdm" target="_blank">PIM vs. MDM</a></h3>
+                    <p>MDM manages all types of company data, including those managed in PIM, making PIM a subset of MDM. Wait, what?</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/23/1/30/1/ecommerce-development-design-trends.jpg" alt="Web Development Trends" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/web-development-trends" target="_blank">Web Development Trends</a></h3>
                     <p>Headless, composable, API-first, Remix, UI or UX-driven design, etc. Tracking development and design trends in eCommerce is both tough and rewarding at the same time.</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/11/22/1/omnichannel-marketing.jpg" alt="Omnichannel Marketing eCommerce" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/omnichannel-marketing-ecommerce" target="_blank">Omnichannel Marketing eCommerce</a></h3>
                     <p>In today&#039;s society of continuous technological innovation, consumers expect businesses to have a strong omnichannel strategy: they demand highly relevant and customized interactions across various platforms.</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/11/17/2/gullpila-case-study.png" alt="Subscription Streaming Service Gullpila" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/subscription-streaming-service-gullpila" target="_blank">Subscription Streaming Service Gullpila</a></h3>
-                    <p>Gullpila delivers engaging live and on-demand HD video content to Odds Ballklubb football club fans and represents a new direct revenue stream for the club.</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -55,7 +55,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/images/483_developer_comics_code_splitting.png" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/images/483_developer_comics_code_splitting.png" height="250" alt="No Code Splitting vs Code Splitting"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/21/8/6/1/developer_comics_passing_the_torch.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/21/8/6/1/developer_comics_passing_the_torch.jpg" height="250" alt="Passing The Torch"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -91,6 +91,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2023--02--15 01:03:08-green?style=flat-square&labelColor=black' alt='Generated on 2023--02--15 01:03:08'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2023--02--16 01:03:01-green?style=flat-square&labelColor=black' alt='Generated on 2023--02--16 01:03:01'/>
 
 
