@@ -9,20 +9,23 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/23/2/15/2/pim-vs-pxm-vs-dxp.png" alt="PIM vs. PXM vs. DXP" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/pim-vs-pxm-vs-dxp" target="_blank">PIM vs. PXM vs. DXP</a></h3>
-                <p>Personalized experiences increase the likelihood of purchase by 80% for consumers. And with that, experience management platforms (XM) entered the scene.</p>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/23/2/20/1/pim-vs-cms.png" alt="PIM vs. CMS" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/pim-vs-cms" target="_blank">PIM vs. CMS</a></h3>
+                <p>When it comes to managing digital content, there are two main types of systems that professional businesses use (oftentimes together): Product Information Management (PIM) systems and Content Management Systems (CMS).</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/23/2/13/1/best-payment-gateways.jpg" alt="Best Payment Gateways" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/best-payment-gateways" target="_blank">Best Payment Gateways</a></h3>
                 <p>A payment gateway is a tech backend solution that facilitates the payment process for online businesses. Important, right?</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/23/2/9/1/zipfit-case-study.png" alt="ZipFit Case Study" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/zipfit-case-study" target="_blank">ZipFit Case Study</a></h3>
                 <p>ZipFit needed a modern website that performed well to help them continue to grow. Next JS + Crystallize delivered everything they needed.</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/23/2/7/1/user-identity-management.jpg" alt="User Identity Management" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/user-identity-management" target="_blank">User Identity Management</a></h3>
-                <p>Protecting your data and ensuring that only authorized people have access to it is of utmost importance. With that in mind, I wanted to talk about a few popular user identity management methods most devs have used, emphasizing the pros and cons.</p>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/23/2/15/2/pim-vs-pxm-vs-dxp.png" alt="PIM vs. PXM vs. DXP" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/pim-vs-pxm-vs-dxp" target="_blank">PIM vs. PXM vs. DXP</a></h3>
+                <p>Personalized experiences increase the likelihood of purchase by 80% for consumers. And with that, experience management platforms (XM) entered the scene.</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/23/2/7/1/user-identity-management.jpg" alt="User Identity Management" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/user-identity-management" target="_blank">User Identity Management</a></h3>
+                    <p>Protecting your data and ensuring that only authorized people have access to it is of utmost importance. With that in mind, I wanted to talk about a few popular user identity management methods most devs have used, emphasizing the pros and cons.</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/23/2/2/1/pim-vs-mdm.png" alt="PIM vs. MDM" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/pim-vs-mdm" target="_blank">PIM vs. MDM</a></h3>
                     <p>MDM manages all types of company data, including those managed in PIM, making PIM a subset of MDM. Wait, what?</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/12/14/1/crystallize_apps.jpg" alt="Crystallize Apps" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/crystallize-apps" target="_blank">Crystallize Apps</a></h3>
                     <p>“Crystallize apps” have been released! We are pleased to announce that you can now build an “Application” that can be injected into the main Crystallize App.</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/11/22/1/omnichannel-marketing.jpg" alt="Omnichannel Marketing eCommerce" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/omnichannel-marketing-ecommerce" target="_blank">Omnichannel Marketing eCommerce</a></h3>
-                    <p>In today&#039;s society of continuous technological innovation, consumers expect businesses to have a strong omnichannel strategy: they demand highly relevant and customized interactions across various platforms.</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -55,7 +55,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/22/12/23/1/crystallize_strip_fun_with_anagrams_210.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/22/12/23/1/crystallize_strip_fun_with_anagrams_210.jpg" height="250" alt="Fun With Anagrams"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/22/10/14/1/crystallize_strip_quick_fixes_202.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/22/10/14/1/crystallize_strip_quick_fixes_202.jpg" height="250" alt="Quick Fixes"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -91,6 +91,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2023--02--20 01:03:46-green?style=flat-square&labelColor=black' alt='Generated on 2023--02--20 01:03:46'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2023--02--21 01:03:52-green?style=flat-square&labelColor=black' alt='Generated on 2023--02--21 01:03:52'/>
 
 
