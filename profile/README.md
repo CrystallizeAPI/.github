@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/23/2/23/2/modern-ecommerce-web-development.jpg" alt="eCommerce Web Development" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/ecommerce-web-development" target="_blank">eCommerce Web Development</a></h3>
+                <p>With the number of available tech solutions, tools, architectures, and approaches to web development today, it is easy to get overwhelmed when choosing the one for your online store.</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/6/14/1/google-analytics-alternatives.png" alt="Google Analytics Alternatives" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/google-analytics-alternatives" target="_blank">Google Analytics Alternatives</a></h3>
                 <p>With just a couple of months before G sunsets Universal Analytics for GA4, I’ve wondered if there are any Google Analytics alternatives you might want to move to.</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/23/2/13/1/best-payment-gateways.jpg" alt="Best Payment Gateways" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/best-payment-gateways" target="_blank">Best Payment Gateways</a></h3>
                 <p>A payment gateway is a tech backend solution that facilitates the payment process for online businesses. Important, right?</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/23/2/9/1/zipfit-case-study.png" alt="ZipFit Case Study" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/zipfit-case-study" target="_blank">ZipFit Case Study</a></h3>
-                <p>ZipFit needed a modern website that performed well to help them continue to grow. Next JS + Crystallize delivered everything they needed.</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/23/2/9/1/zipfit-case-study.png" alt="ZipFit Case Study" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/zipfit-case-study" target="_blank">ZipFit Case Study</a></h3>
+                    <p>ZipFit needed a modern website that performed well to help them continue to grow. Next JS + Crystallize delivered everything they needed.</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/23/2/15/2/pim-vs-pxm-vs-dxp.png" alt="PIM vs. PXM vs. DXP" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/pim-vs-pxm-vs-dxp" target="_blank">PIM vs. PXM vs. DXP</a></h3>
                     <p>Personalized experiences increase the likelihood of purchase by 80% for consumers. And with that, experience management platforms (XM) entered the scene.</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/23/1/17/1/ecommerce-business-models.jpg" alt="eCommerce Business Model" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/ecommerce-business-model" target="_blank">eCommerce Business Model</a></h3>
                     <p>One of the first steps to opening your eCommerce store is picking the right business model.</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/12/20/1/multichannel_ecommerce.jpg" alt="Multichannel eCommerce" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/multichannel-ecommerce" target="_blank">Multichannel eCommerce</a></h3>
-                    <p>Wondering if a multichannel approach could help you increase sales in 2023? Wonder no more, your hunch is correct: multichannel eCommerce will help you reach those goals.</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -55,7 +55,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/21/2/18/2/developer_comics_bug_what_bug.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/21/2/18/2/developer_comics_bug_what_bug.jpg" height="250" alt="Bug? What Bug?"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/images/501_developer_comics_favourite_drinks.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/images/501_developer_comics_favourite_drinks.jpg" height="250" alt="Favourite Drinks"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -91,6 +91,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2023--02--27 01:03:49-green?style=flat-square&labelColor=black' alt='Generated on 2023--02--27 01:03:49'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2023--02--28 01:02:47-green?style=flat-square&labelColor=black' alt='Generated on 2023--02--28 01:02:47'/>
 
 
