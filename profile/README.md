@@ -9,20 +9,26 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/23/3/1/3/pim-vs-plm.png" alt="PIM vs. PLM" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/pim-vs-plm" target="_blank">PIM vs. PLM</a></h3>
+                <p>Welcome to another battle of acronyms! Who will come out on top: PIM or PLM?! Spoiler alert, ideally, they’d work together.</p>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/23/3/1/1/pdm-vs-pim-vs-dam.png" alt="PDM vs. PIM vs. DAM" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/pdm-vs-pim-vs-dam" target="_blank">PDM vs. PIM vs. DAM</a></h3>
+                <p>Businesses and organizations that need to manage and organize massive amounts of product-related data effectively should use PDM.</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/23/2/23/2/modern-ecommerce-web-development.jpg" alt="eCommerce Web Development" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/ecommerce-web-development" target="_blank">eCommerce Web Development</a></h3>
                 <p>With the number of available tech solutions, tools, architectures, and approaches to web development today, it is easy to get overwhelmed when choosing the one for your online store.</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/6/14/1/google-analytics-alternatives.png" alt="Google Analytics Alternatives" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/google-analytics-alternatives" target="_blank">Google Analytics Alternatives</a></h3>
                 <p>With just a couple of months before G sunsets Universal Analytics for GA4, I’ve wondered if there are any Google Analytics alternatives you might want to move to.</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/23/2/20/1/pim-vs-cms.png" alt="PIM vs. CMS" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/pim-vs-cms" target="_blank">PIM vs. CMS</a></h3>
-                <p>When it comes to managing digital content, there are two main types of systems that professional businesses use (oftentimes together): Product Information Management (PIM) systems and Content Management Systems (CMS).</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/23/2/13/1/best-payment-gateways.jpg" alt="Best Payment Gateways" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/best-payment-gateways" target="_blank">Best Payment Gateways</a></h3>
-                <p>A payment gateway is a tech backend solution that facilitates the payment process for online businesses. Important, right?</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/23/2/20/1/pim-vs-cms.png" alt="PIM vs. CMS" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/pim-vs-cms" target="_blank">PIM vs. CMS</a></h3>
+                    <p>When it comes to managing digital content, there are two main types of systems that professional businesses use (oftentimes together): Product Information Management (PIM) systems and Content Management Systems (CMS).</p>
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/23/2/13/1/best-payment-gateways.jpg" alt="Best Payment Gateways" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/best-payment-gateways" target="_blank">Best Payment Gateways</a></h3>
+                    <p>A payment gateway is a tech backend solution that facilitates the payment process for online businesses. Important, right?</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/23/2/9/1/zipfit-case-study.png" alt="ZipFit Case Study" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/zipfit-case-study" target="_blank">ZipFit Case Study</a></h3>
                     <p>ZipFit needed a modern website that performed well to help them continue to grow. Next JS + Crystallize delivered everything they needed.</p>
@@ -38,12 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/23/1/30/1/ecommerce-development-design-trends.jpg" alt="Web Development Trends" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/web-development-trends" target="_blank">Web Development Trends</a></h3>
                     <p>Headless, composable, API-first, Remix, UI or UX-driven design, etc. Tracking development and design trends in eCommerce is both tough and rewarding at the same time.</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/23/1/24/1/retail-ecommerce-remix-run-boilerplate.jpg" alt="Free Open Source Remix Retail Store Template" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/free-open-source-remix-retail-store-template" target="_blank">Free Open Source Remix Retail Store Template</a></h3>
-                    <p>Remix and eCommerce go well hand in hand, and we have a free open-source boilerplate for retail storefronts to prove it.</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/23/1/17/1/ecommerce-business-models.jpg" alt="eCommerce Business Model" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/ecommerce-business-model" target="_blank">eCommerce Business Model</a></h3>
-                    <p>One of the first steps to opening your eCommerce store is picking the right business model.</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -55,7 +55,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/22/4/1/1/crystallize_strip_captcha_176.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/22/4/1/1/crystallize_strip_captcha_176.jpg" height="250" alt="Captcha"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/21/5/28/2/developer_comics_the_break-up.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/21/5/28/2/developer_comics_the_break-up.jpg" height="250" alt="The Break-Up"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -91,6 +91,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2023--03--01 01:03:10-green?style=flat-square&labelColor=black' alt='Generated on 2023--03--01 01:03:10'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2023--03--02 01:04:36-green?style=flat-square&labelColor=black' alt='Generated on 2023--03--02 01:04:36'/>
 
 
