@@ -9,20 +9,26 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/23/3/7/3/pim-on-edge.jpg" alt="PIM on Edge" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/pim-on-edge" target="_blank">PIM on Edge</a></h3>
+                <p>Edge computing makes it possible to deliver and process data even closer to end-users today, and businesses are slowly discovering the potential it offers.</p>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/23/3/7/2/pim-vs-pcm.png" alt="PIM vs. PCM" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/pim-vs-pcm" target="_blank">PIM vs. PCM</a></h3>
+                <p>When it comes to managing product information, two terms often used interchangeably are PIM and PCM. While they may sound similar, these two concepts are quite different and serve different purposes in the world of e-commerce and product management.</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/21/10/19/10/what-is-pim.jpg" alt="What is PIM?" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/what-is-pim" target="_blank">What is PIM?</a></h3>
                 <p>PIM is your centralized product information system from which the product data is distributed to all relevant stakeholders, teams, and sales channels.</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/21/10/19/7/headless-pim.jpg" alt="Headless PIM" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/headless-pim" target="_blank">Headless PIM</a></h3>
                 <p>A headless approach to PIM means having a service ready to manage product information in seconds. Product information and content are delivered via an API. No templates, no web pages, only structured content. Pure developer bliss.</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/22/3/7/1/pim-vs-ecommerce.jpg" alt="PIM vs. eCommerce" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/pim-vs-ecommerce" target="_blank">PIM vs. eCommerce</a></h3>
-                <p>Product Information Management (PIM) is the key to eCommerce success.</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/22/4/26/1/dam.png" alt="Digital Asset Management" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/digital-asset-management" target="_blank">Digital Asset Management</a></h3>
-                <p>With digital asset management (DAM) platforms, you get the power to store, share and organize all digital assets from a single secure location.</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/3/7/1/pim-vs-ecommerce.jpg" alt="PIM vs. eCommerce" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/pim-vs-ecommerce" target="_blank">PIM vs. eCommerce</a></h3>
+                    <p>Product Information Management (PIM) is the key to eCommerce success.</p>
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/4/26/1/dam.png" alt="Digital Asset Management" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/digital-asset-management" target="_blank">Digital Asset Management</a></h3>
+                    <p>With digital asset management (DAM) platforms, you get the power to store, share and organize all digital assets from a single secure location.</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/23/3/2/1/pim-vs-erp.png" alt="PIM vs. ERP" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/pim-vs-erp" target="_blank">PIM vs. ERP</a></h3>
                     <p>ERP helps to manage core business processes (manufacturing, supply chain, services, procurement, finance, HR, etc.) in an integrated system efficiently.</p>
@@ -38,12 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/23/2/23/2/modern-ecommerce-web-development.jpg" alt="eCommerce Web Development" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/ecommerce-web-development" target="_blank">eCommerce Web Development</a></h3>
                     <p>With the number of available tech solutions, tools, architectures, and approaches to web development today, it is easy to get overwhelmed when choosing the one for your online store.</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/6/14/1/google-analytics-alternatives.png" alt="Google Analytics Alternatives" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/google-analytics-alternatives" target="_blank">Google Analytics Alternatives</a></h3>
-                    <p>With just a couple of months before G sunsets Universal Analytics for GA4, I’ve wondered if there are any Google Analytics alternatives you might want to move to.</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/23/2/20/1/pim-vs-cms.png" alt="PIM vs. CMS" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/pim-vs-cms" target="_blank">PIM vs. CMS</a></h3>
-                    <p>When it comes to managing digital content, there are two main types of systems that professional businesses use (oftentimes together): Product Information Management (PIM) systems and Content Management Systems (CMS).</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -55,7 +55,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/22/1/21/1/crystallize_strip_developer_support_group_pt_1_166.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/22/1/21/1/crystallize_strip_developer_support_group_pt_1_166.jpg" height="250" alt="Developer Support Group Part 1"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/23/2/3/1/crystallize_strip_quitting_developer_214.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/23/2/3/1/crystallize_strip_quitting_developer_214.jpg" height="250" alt="Quitting Developer"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -91,6 +91,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2023--03--07 01:03:12-green?style=flat-square&labelColor=black' alt='Generated on 2023--03--07 01:03:12'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2023--03--08 01:03:00-green?style=flat-square&labelColor=black' alt='Generated on 2023--03--08 01:03:00'/>
 
 
