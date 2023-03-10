@@ -9,20 +9,29 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/22/6/8/1/api-vs-microservices.png" alt="APIs vs Microservices" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/apis-vs-microservices" target="_blank">APIs vs Microservices</a></h3>
+                <p>You&#039;ve probably heard the terms APIs, and Microservices used when talking about web development. What are they? How do you use them, and what is the difference between them?</p>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/21/12/7/5/react-based-static-site-generators.jpg" alt="React Static Site Generators" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/react-static-site-generators" target="_blank">React Static Site Generators</a></h3>
+                <p>A lot has happened in two years (since we originally published this). However, React, and static site generators (SSGs) built on top of it are still gaining traction with frontend developers worldwide.</p>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/22/2/24/2/static-website-hosting-platforms.jpg" alt="Static Hosting" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/static-hosting" target="_blank">Static Hosting</a></h3>
+                <p>Netlify, Vercel, Platform.sh … the static website hosting landscape has changed significantly in the past few years and is only getting better.</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/23/3/7/3/pim-on-edge.jpg" alt="PIM on Edge" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/pim-on-edge" target="_blank">PIM on Edge</a></h3>
                 <p>Edge computing makes it possible to deliver and process data even closer to end-users today, and businesses are slowly discovering the potential it offers.</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/23/3/7/2/pim-vs-pcm.png" alt="PIM vs. PCM" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/pim-vs-pcm" target="_blank">PIM vs. PCM</a></h3>
-                <p>When it comes to managing product information, two terms often used interchangeably are PIM and PCM. While they may sound similar, these two concepts are quite different and serve different purposes in the world of e-commerce and product management.</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/21/10/19/10/what-is-pim.jpg" alt="What is PIM?" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/what-is-pim" target="_blank">What is PIM?</a></h3>
-                <p>PIM is your centralized product information system from which the product data is distributed to all relevant stakeholders, teams, and sales channels.</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/21/10/19/7/headless-pim.jpg" alt="Headless PIM" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/headless-pim" target="_blank">Headless PIM</a></h3>
-                <p>A headless approach to PIM means having a service ready to manage product information in seconds. Product information and content are delivered via an API. No templates, no web pages, only structured content. Pure developer bliss.</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/23/3/7/2/pim-vs-pcm.png" alt="PIM vs. PCM" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/pim-vs-pcm" target="_blank">PIM vs. PCM</a></h3>
+                    <p>When it comes to managing product information, two terms often used interchangeably are PIM and PCM. While they may sound similar, these two concepts are quite different and serve different purposes in the world of e-commerce and product management.</p>
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/21/10/19/10/what-is-pim.jpg" alt="What is PIM?" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/what-is-pim" target="_blank">What is PIM?</a></h3>
+                    <p>PIM is your centralized product information system from which the product data is distributed to all relevant stakeholders, teams, and sales channels.</p>
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/21/10/19/7/headless-pim.jpg" alt="Headless PIM" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/headless-pim" target="_blank">Headless PIM</a></h3>
+                    <p>A headless approach to PIM means having a service ready to manage product information in seconds. Product information and content are delivered via an API. No templates, no web pages, only structured content. Pure developer bliss.</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/3/7/1/pim-vs-ecommerce.jpg" alt="PIM vs. eCommerce" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/pim-vs-ecommerce" target="_blank">PIM vs. eCommerce</a></h3>
                     <p>Product Information Management (PIM) is the key to eCommerce success.</p>
@@ -35,15 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/23/3/1/3/pim-vs-plm.png" alt="PIM vs. PLM" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/pim-vs-plm" target="_blank">PIM vs. PLM</a></h3>
                     <p>Welcome to another battle of acronyms! Who will come out on top: PIM or PLM?! Spoiler alert, ideally, they’d work together.</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/21/10/19/12/headless-cms.jpg" alt="What Is A Headless CMS?" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/what-is-a-headless-cms" target="_blank">What Is A Headless CMS?</a></h3>
-                    <p>In the simplest possible terms, a headless CMS is a backend content management system (CMS) that exists independently of the front end - the presentation layer.</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/23/3/1/1/pdm-vs-pim-vs-dam.png" alt="PDM vs. PIM vs. DAM" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/pdm-vs-pim-vs-dam" target="_blank">PDM vs. PIM vs. DAM</a></h3>
-                    <p>Businesses and organizations that need to manage and organize massive amounts of product-related data effectively should use PDM.</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/23/2/23/2/modern-ecommerce-web-development.jpg" alt="eCommerce Web Development" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/ecommerce-web-development" target="_blank">eCommerce Web Development</a></h3>
-                    <p>With the number of available tech solutions, tools, architectures, and approaches to web development today, it is easy to get overwhelmed when choosing the one for your online store.</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -55,7 +55,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/images/281_developer_comics_recurring_nightmare.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/images/281_developer_comics_recurring_nightmare.jpg" height="250" alt="Recurring Nightmare"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/21/7/9/2/developer_comics_get_awkward.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/21/7/9/2/developer_comics_get_awkward.jpg" height="250" alt="Get Awkward"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -91,6 +91,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2023--03--09 01:03:10-green?style=flat-square&labelColor=black' alt='Generated on 2023--03--09 01:03:10'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2023--03--10 01:03:13-green?style=flat-square&labelColor=black' alt='Generated on 2023--03--10 01:03:13'/>
 
 
