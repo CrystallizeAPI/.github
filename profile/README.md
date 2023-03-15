@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/23/3/14/1/e2e_testing_checkout_flow_blog_illustration_v2.jpg" alt="e2e Checkout Flow" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/e2e-checkout-flow" target="_blank">e2e Checkout Flow</a></h3>
+                <p>Running tests against the checkout flow can help you discover issues at an early stage and ensure that clients can always complete their orders. Happy customers, happy business!</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/6/8/1/api-vs-microservices.png" alt="APIs vs Microservices" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/apis-vs-microservices" target="_blank">APIs vs Microservices</a></h3>
                 <p>You&#039;ve probably heard the terms APIs, and Microservices used when talking about web development. What are they? How do you use them, and what is the difference between them?</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/2/24/2/static-website-hosting-platforms.jpg" alt="Static Hosting" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/static-hosting" target="_blank">Static Hosting</a></h3>
                 <p>Netlify, Vercel, Platform.sh … the static website hosting landscape has changed significantly in the past few years and is only getting better.</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/23/3/7/3/pim-on-edge.jpg" alt="PIM on Edge" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/pim-on-edge" target="_blank">PIM on Edge</a></h3>
-                <p>Edge computing makes it possible to deliver and process data even closer to end-users today, and businesses are slowly discovering the potential it offers.</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/23/3/7/3/pim-on-edge.jpg" alt="PIM on Edge" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/pim-on-edge" target="_blank">PIM on Edge</a></h3>
+                    <p>Edge computing makes it possible to deliver and process data even closer to end-users today, and businesses are slowly discovering the potential it offers.</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/23/3/7/2/pim-vs-pcm.png" alt="PIM vs. PCM" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/pim-vs-pcm" target="_blank">PIM vs. PCM</a></h3>
                     <p>When it comes to managing product information, two terms often used interchangeably are PIM and PCM. While they may sound similar, these two concepts are quite different and serve different purposes in the world of e-commerce and product management.</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/23/3/2/1/pim-vs-erp.png" alt="PIM vs. ERP" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/pim-vs-erp" target="_blank">PIM vs. ERP</a></h3>
                     <p>ERP helps to manage core business processes (manufacturing, supply chain, services, procurement, finance, HR, etc.) in an integrated system efficiently.</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/23/3/1/3/pim-vs-plm.png" alt="PIM vs. PLM" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/pim-vs-plm" target="_blank">PIM vs. PLM</a></h3>
-                    <p>Welcome to another battle of acronyms! Who will come out on top: PIM or PLM?! Spoiler alert, ideally, they’d work together.</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -55,7 +55,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/images/636_developer_comics_rest_vs_graphql.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/images/636_developer_comics_rest_vs_graphql.jpg" height="250" alt="Rest vs GraphQL"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/21/3/21/2/developer_comics_inspirational_posters.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/21/3/21/2/developer_comics_inspirational_posters.jpg" height="250" alt="Inspirational Posters"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -91,6 +91,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2023--03--14 01:02:10-green?style=flat-square&labelColor=black' alt='Generated on 2023--03--14 01:02:10'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2023--03--15 01:03:40-green?style=flat-square&labelColor=black' alt='Generated on 2023--03--15 01:03:40'/>
 
 
