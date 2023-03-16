@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/23/3/15/2/myrevolution-case-study.png" alt="MyRevolution Case Study" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/myrevolution-case-study" target="_blank">MyRevolution Case Study</a></h3>
+                <p>72% increased conversion rate and 3 seconds faster load times on average just by moving from Magento to Crystallize. Not bad.</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/23/3/14/1/e2e_testing_checkout_flow_blog_illustration_v2.jpg" alt="e2e Checkout Flow" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/e2e-checkout-flow" target="_blank">e2e Checkout Flow</a></h3>
                 <p>Running tests against the checkout flow can help you discover issues at an early stage and ensure that clients can always complete their orders. Happy customers, happy business!</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/21/12/7/5/react-based-static-site-generators.jpg" alt="React Static Site Generators" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/react-static-site-generators" target="_blank">React Static Site Generators</a></h3>
                 <p>A lot has happened in two years (since we originally published this). However, React, and static site generators (SSGs) built on top of it are still gaining traction with frontend developers worldwide.</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/22/2/24/2/static-website-hosting-platforms.jpg" alt="Static Hosting" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/static-hosting" target="_blank">Static Hosting</a></h3>
-                <p>Netlify, Vercel, Platform.sh … the static website hosting landscape has changed significantly in the past few years and is only getting better.</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/2/24/2/static-website-hosting-platforms.jpg" alt="Static Hosting" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/static-hosting" target="_blank">Static Hosting</a></h3>
+                    <p>Netlify, Vercel, Platform.sh … the static website hosting landscape has changed significantly in the past few years and is only getting better.</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/23/3/7/3/pim-on-edge.jpg" alt="PIM on Edge" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/pim-on-edge" target="_blank">PIM on Edge</a></h3>
                     <p>Edge computing makes it possible to deliver and process data even closer to end-users today, and businesses are slowly discovering the potential it offers.</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/4/26/1/dam.png" alt="Digital Asset Management" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/digital-asset-management" target="_blank">Digital Asset Management</a></h3>
                     <p>With digital asset management (DAM) platforms, you get the power to store, share and organize all digital assets from a single secure location.</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/23/3/2/1/pim-vs-erp.png" alt="PIM vs. ERP" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/pim-vs-erp" target="_blank">PIM vs. ERP</a></h3>
-                    <p>ERP helps to manage core business processes (manufacturing, supply chain, services, procurement, finance, HR, etc.) in an integrated system efficiently.</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -55,7 +55,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/21/3/21/2/developer_comics_inspirational_posters.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/21/3/21/2/developer_comics_inspirational_posters.jpg" height="250" alt="Inspirational Posters"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/images/552_developer_comics_the_summoning.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/images/552_developer_comics_the_summoning.jpg" height="250" alt="Captain Unicorn"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -91,6 +91,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2023--03--15 01:03:40-green?style=flat-square&labelColor=black' alt='Generated on 2023--03--15 01:03:40'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2023--03--16 01:03:32-green?style=flat-square&labelColor=black' alt='Generated on 2023--03--16 01:03:32'/>
 
 
