@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/23/3/20/1/graphql-typescript-generators.jpg" alt="GraphQL Typescript Generators" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/graphql-typescript-generators" target="_blank">GraphQL Typescript Generators</a></h3>
+                <p>GraphQL is a query language that optimizes performance by returning only the requested data, while TypeScript is a statically-typed language that helps catch errors during development. Together they can create robust and efficient web applications.</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/23/3/15/2/myrevolution-case-study.png" alt="MyRevolution Case Study" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/myrevolution-case-study" target="_blank">MyRevolution Case Study</a></h3>
                 <p>72% increased conversion rate and 3 seconds faster load times on average just by moving from Magento to Crystallize. Not bad.</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/6/8/1/api-vs-microservices.png" alt="APIs vs Microservices" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/apis-vs-microservices" target="_blank">APIs vs Microservices</a></h3>
                 <p>You&#039;ve probably heard the terms APIs, and Microservices used when talking about web development. What are they? How do you use them, and what is the difference between them?</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/21/12/7/5/react-based-static-site-generators.jpg" alt="React Static Site Generators" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/react-static-site-generators" target="_blank">React Static Site Generators</a></h3>
-                <p>A lot has happened in two years (since we originally published this). However, React, and static site generators (SSGs) built on top of it are still gaining traction with frontend developers worldwide.</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/21/12/7/5/react-based-static-site-generators.jpg" alt="React Static Site Generators" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/react-static-site-generators" target="_blank">React Static Site Generators</a></h3>
+                    <p>A lot has happened in two years (since we originally published this). However, React, and static site generators (SSGs) built on top of it are still gaining traction with frontend developers worldwide.</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/2/24/2/static-website-hosting-platforms.jpg" alt="Static Hosting" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/static-hosting" target="_blank">Static Hosting</a></h3>
                     <p>Netlify, Vercel, Platform.sh … the static website hosting landscape has changed significantly in the past few years and is only getting better.</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/3/7/1/pim-vs-ecommerce.jpg" alt="PIM vs. eCommerce" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/pim-vs-ecommerce" target="_blank">PIM vs. eCommerce</a></h3>
                     <p>Product Information Management (PIM) is the key to eCommerce success.</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/4/26/1/dam.png" alt="Digital Asset Management" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/digital-asset-management" target="_blank">Digital Asset Management</a></h3>
-                    <p>With digital asset management (DAM) platforms, you get the power to store, share and organize all digital assets from a single secure location.</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -55,7 +55,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/images/477_developer_comics_keyboard_variants.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/images/477_developer_comics_keyboard_variants.jpg" height="250" alt="Keyboard Variants"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/images/385_developer_comics_packages_downloading.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/images/385_developer_comics_packages_downloading.jpg" height="250" alt="Christmas Spirit"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -91,6 +91,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2023--03--20 01:03:00-green?style=flat-square&labelColor=black' alt='Generated on 2023--03--20 01:03:00'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2023--03--21 01:02:47-green?style=flat-square&labelColor=black' alt='Generated on 2023--03--21 01:02:47'/>
 
 
