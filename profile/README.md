@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/23/3/22/1/on-premise-vs-cloud-pim.jpg" alt="On Premise vs Cloud PIM" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/on-premise-vs-cloud-pim" target="_blank">On Premise vs Cloud PIM</a></h3>
+                <p>On-Premise and Cloud PIM, the benefits, the differences, and drawbacks of each, with examples of PIM platforms for both.</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/23/3/20/1/graphql-typescript-generators.jpg" alt="GraphQL Typescript Generators" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/graphql-typescript-generators" target="_blank">GraphQL Typescript Generators</a></h3>
                 <p>GraphQL is a query language that optimizes performance by returning only the requested data, while TypeScript is a statically-typed language that helps catch errors during development. Together they can create robust and efficient web applications.</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/23/3/14/1/e2e_testing_checkout_flow_blog_illustration_v2.jpg" alt="e2e Checkout Flow" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/e2e-checkout-flow" target="_blank">e2e Checkout Flow</a></h3>
                 <p>Running tests against the checkout flow can help you discover issues at an early stage and ensure that clients can always complete their orders. Happy customers, happy business!</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/22/6/8/1/api-vs-microservices.png" alt="APIs vs Microservices" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/apis-vs-microservices" target="_blank">APIs vs Microservices</a></h3>
-                <p>You&#039;ve probably heard the terms APIs, and Microservices used when talking about web development. What are they? How do you use them, and what is the difference between them?</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/6/8/1/api-vs-microservices.png" alt="APIs vs Microservices" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/apis-vs-microservices" target="_blank">APIs vs Microservices</a></h3>
+                    <p>You&#039;ve probably heard the terms APIs, and Microservices used when talking about web development. What are they? How do you use them, and what is the difference between them?</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/21/12/7/5/react-based-static-site-generators.jpg" alt="React Static Site Generators" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/react-static-site-generators" target="_blank">React Static Site Generators</a></h3>
                     <p>A lot has happened in two years (since we originally published this). However, React, and static site generators (SSGs) built on top of it are still gaining traction with frontend developers worldwide.</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/21/10/19/7/headless-pim.jpg" alt="Headless PIM" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/headless-pim" target="_blank">Headless PIM</a></h3>
                     <p>A headless approach to PIM means having a service ready to manage product information in seconds. Product information and content are delivered via an API. No templates, no web pages, only structured content. Pure developer bliss.</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/3/7/1/pim-vs-ecommerce.jpg" alt="PIM vs. eCommerce" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/pim-vs-ecommerce" target="_blank">PIM vs. eCommerce</a></h3>
-                    <p>Product Information Management (PIM) is the key to eCommerce success.</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -55,7 +55,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/20/3/27/1/developer_comics_quarantined.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/20/3/27/1/developer_comics_quarantined.jpg" height="250" alt="Quarantined"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/20/12/18/2/crystallize_strip_115.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/20/12/18/2/crystallize_strip_115.jpg" height="250" alt="I See Dead Pixels"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -91,6 +91,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2023--03--22 01:02:31-green?style=flat-square&labelColor=black' alt='Generated on 2023--03--22 01:02:31'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2023--03--23 01:02:25-green?style=flat-square&labelColor=black' alt='Generated on 2023--03--23 01:02:25'/>
 
 
