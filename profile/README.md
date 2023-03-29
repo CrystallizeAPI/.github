@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/23/3/28/1/what-are-webhooks.jpg" alt="What Are Webhooks?" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/what-are-webhooks" target="_blank">What Are Webhooks?</a></h3>
+                <p>Webhooks are popular in web development, especially in headless and strongly decoupled architectures.</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/23/3/22/1/on-premise-vs-cloud-pim.jpg" alt="On Premise vs Cloud PIM" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/on-premise-vs-cloud-pim" target="_blank">On Premise vs Cloud PIM</a></h3>
                 <p>On-Premise and Cloud PIM, the benefits, the differences, and drawbacks of each, with examples of PIM platforms for both.</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/23/3/15/2/myrevolution-case-study.png" alt="MyRevolution Case Study" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/myrevolution-case-study" target="_blank">MyRevolution Case Study</a></h3>
                 <p>72% increased conversion rate and 3 seconds faster load times on average just by moving from Magento to Crystallize. Not bad.</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/23/3/14/1/e2e_testing_checkout_flow_blog_illustration_v2.jpg" alt="e2e Checkout Flow" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/e2e-checkout-flow" target="_blank">e2e Checkout Flow</a></h3>
-                <p>Running tests against the checkout flow can help you discover issues at an early stage and ensure that clients can always complete their orders. Happy customers, happy business!</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/23/3/14/1/e2e_testing_checkout_flow_blog_illustration_v2.jpg" alt="e2e Checkout Flow" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/e2e-checkout-flow" target="_blank">e2e Checkout Flow</a></h3>
+                    <p>Running tests against the checkout flow can help you discover issues at an early stage and ensure that clients can always complete their orders. Happy customers, happy business!</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/6/8/1/api-vs-microservices.png" alt="APIs vs Microservices" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/apis-vs-microservices" target="_blank">APIs vs Microservices</a></h3>
                     <p>You&#039;ve probably heard the terms APIs, and Microservices used when talking about web development. What are they? How do you use them, and what is the difference between them?</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/21/10/19/10/what-is-pim.jpg" alt="What is PIM?" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/what-is-pim" target="_blank">What is PIM?</a></h3>
                     <p>PIM is your centralized product information system from which the product data is distributed to all relevant stakeholders, teams, and sales channels.</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/21/10/19/7/headless-pim.jpg" alt="Headless PIM" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/headless-pim" target="_blank">Headless PIM</a></h3>
-                    <p>A headless approach to PIM means having a service ready to manage product information in seconds. Product information and content are delivered via an API. No templates, no web pages, only structured content. Pure developer bliss.</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -55,7 +55,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/20/4/13/1/developers_comics_pure_joy.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/20/4/13/1/developers_comics_pure_joy.jpg" height="250" alt="Pure Joy"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/20/7/3/1/developer_comics_multilingual_shop_a.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/20/7/3/1/developer_comics_multilingual_shop_a.jpg" height="250" alt="Multilingual Shop"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -91,6 +91,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2023--03--28 01:03:28-green?style=flat-square&labelColor=black' alt='Generated on 2023--03--28 01:03:28'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2023--03--29 01:02:47-green?style=flat-square&labelColor=black' alt='Generated on 2023--03--29 01:02:47'/>
 
 
