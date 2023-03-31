@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/23/3/30/8/ecommerce-seo-checklist.jpg" alt="ECommerce SEO Checklist" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/ecommerce-seo-checklist" target="_blank">ECommerce SEO Checklist</a></h3>
+                <p>Not your average list but a comprehensive 19-point eCommerce SEO checklist with everything you need to know to optimize your store and successfully grow organic traffic and revenue.</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/23/3/28/1/what-are-webhooks.jpg" alt="What Are Webhooks?" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/what-are-webhooks" target="_blank">What Are Webhooks?</a></h3>
                 <p>Webhooks are popular in web development, especially in headless and strongly decoupled architectures.</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/23/3/20/1/graphql-typescript-generators.jpg" alt="GraphQL Typescript Generators" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/graphql-typescript-generators" target="_blank">GraphQL Typescript Generators</a></h3>
                 <p>GraphQL is a query language that optimizes performance by returning only the requested data, while TypeScript is a statically-typed language that helps catch errors during development. Together they can create robust and efficient web applications.</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/23/3/15/2/myrevolution-case-study.png" alt="MyRevolution Case Study" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/myrevolution-case-study" target="_blank">MyRevolution Case Study</a></h3>
-                <p>72% increased conversion rate and 3 seconds faster load times on average just by moving from Magento to Crystallize. Not bad.</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/23/3/15/2/myrevolution-case-study.png" alt="MyRevolution Case Study" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/myrevolution-case-study" target="_blank">MyRevolution Case Study</a></h3>
+                    <p>72% increased conversion rate and 3 seconds faster load times on average just by moving from Magento to Crystallize. Not bad.</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/23/3/14/1/e2e_testing_checkout_flow_blog_illustration_v2.jpg" alt="e2e Checkout Flow" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/e2e-checkout-flow" target="_blank">e2e Checkout Flow</a></h3>
                     <p>Running tests against the checkout flow can help you discover issues at an early stage and ensure that clients can always complete their orders. Happy customers, happy business!</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/23/3/7/2/pim-vs-pcm.png" alt="PIM vs. PCM" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/pim-vs-pcm" target="_blank">PIM vs. PCM</a></h3>
                     <p>When it comes to managing product information, two terms often used interchangeably are PIM and PCM. While they may sound similar, these two concepts are quite different and serve different purposes in the world of e-commerce and product management.</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/21/10/19/10/what-is-pim.jpg" alt="What is PIM?" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/what-is-pim" target="_blank">What is PIM?</a></h3>
-                    <p>PIM is your centralized product information system from which the product data is distributed to all relevant stakeholders, teams, and sales channels.</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -55,7 +55,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/23/3/10/1/crystallize_strip_git_lost_218.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/23/3/10/1/crystallize_strip_git_lost_218.jpg" height="250" alt="Git Lost"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/22/6/10/1/crystallize_strip_tardy_computer_186.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/22/6/10/1/crystallize_strip_tardy_computer_186.jpg" height="250" alt="Tardy Computer"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -91,6 +91,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2023--03--30 01:03:05-green?style=flat-square&labelColor=black' alt='Generated on 2023--03--30 01:03:05'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2023--03--31 01:02:34-green?style=flat-square&labelColor=black' alt='Generated on 2023--03--31 01:02:34'/>
 
 
