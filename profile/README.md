@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/23/4/4/1/distributed_order_management.jpg" alt="Distributed Order Management" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/distributed-order-management" target="_blank">Distributed Order Management</a></h3>
+                <p>eCommerce is wildly different than it was ten years ago. With the rise of omnichannel and globalization, managing your store has become increasingly complex.</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/23/3/30/8/ecommerce-seo-checklist.jpg" alt="ECommerce SEO Checklist" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/ecommerce-seo-checklist" target="_blank">ECommerce SEO Checklist</a></h3>
                 <p>Not your average list but a comprehensive 19-point eCommerce SEO checklist with everything you need to know to optimize your store and successfully grow organic traffic and revenue.</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/23/3/22/1/on-premise-vs-cloud-pim.jpg" alt="On Premise vs Cloud PIM" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/on-premise-vs-cloud-pim" target="_blank">On Premise vs Cloud PIM</a></h3>
                 <p>On-Premise and Cloud PIM, the benefits, the differences, and drawbacks of each, with examples of PIM platforms for both.</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/23/3/20/1/graphql-typescript-generators.jpg" alt="GraphQL Typescript Generators" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/graphql-typescript-generators" target="_blank">GraphQL Typescript Generators</a></h3>
-                <p>GraphQL is a query language that optimizes performance by returning only the requested data, while TypeScript is a statically-typed language that helps catch errors during development. Together they can create robust and efficient web applications.</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/23/3/20/1/graphql-typescript-generators.jpg" alt="GraphQL Typescript Generators" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/graphql-typescript-generators" target="_blank">GraphQL Typescript Generators</a></h3>
+                    <p>GraphQL is a query language that optimizes performance by returning only the requested data, while TypeScript is a statically-typed language that helps catch errors during development. Together they can create robust and efficient web applications.</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/23/3/15/2/myrevolution-case-study.png" alt="MyRevolution Case Study" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/myrevolution-case-study" target="_blank">MyRevolution Case Study</a></h3>
                     <p>72% increased conversion rate and 3 seconds faster load times on average just by moving from Magento to Crystallize. Not bad.</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/23/3/7/3/pim-on-edge.jpg" alt="PIM on Edge" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/pim-on-edge" target="_blank">PIM on Edge</a></h3>
                     <p>Edge computing makes it possible to deliver and process data even closer to end-users today, and businesses are slowly discovering the potential it offers.</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/23/3/7/2/pim-vs-pcm.png" alt="PIM vs. PCM" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/pim-vs-pcm" target="_blank">PIM vs. PCM</a></h3>
-                    <p>When it comes to managing product information, two terms often used interchangeably are PIM and PCM. While they may sound similar, these two concepts are quite different and serve different purposes in the world of e-commerce and product management.</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -55,7 +55,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/21/10/14/3/developer_comics_beyond_the_final.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/21/10/14/3/developer_comics_beyond_the_final.jpg" height="250" alt="Beyond The Final"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/images/631_developer_comics_make_some_noise.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/images/631_developer_comics_make_some_noise.jpg" height="250" alt="MAKE SOME NOISE"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -91,6 +91,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2023--04--04 01:04:42-green?style=flat-square&labelColor=black' alt='Generated on 2023--04--04 01:04:42'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2023--04--05 01:01:40-green?style=flat-square&labelColor=black' alt='Generated on 2023--04--05 01:01:40'/>
 
 
