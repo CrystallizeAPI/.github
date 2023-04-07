@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/22/10/12/1/ecommerce-conversion-rate-optimization.jpg" alt="eCommerce Conversion Rate Optimization" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/ecommerce-conversion-rate-optimization" target="_blank">eCommerce Conversion Rate Optimization</a></h3>
+                <p>Are you struggling to convert your website traffic into paying customers? Are you tired of spending hours and resources on driving traffic to your site with little to no return on investment? Then it&#039;s time to focus on Conversion Rate Optimization (CRO).</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/23/4/4/1/distributed_order_management.jpg" alt="Distributed Order Management" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/distributed-order-management" target="_blank">Distributed Order Management</a></h3>
                 <p>eCommerce is wildly different than it was ten years ago. With the rise of omnichannel and globalization, managing your store has become increasingly complex.</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/23/3/28/1/what-are-webhooks.jpg" alt="What Are Webhooks?" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/what-are-webhooks" target="_blank">What Are Webhooks?</a></h3>
                 <p>Webhooks are popular in web development, especially in headless and strongly decoupled architectures.</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/23/3/22/1/on-premise-vs-cloud-pim.jpg" alt="On Premise vs Cloud PIM" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/on-premise-vs-cloud-pim" target="_blank">On Premise vs Cloud PIM</a></h3>
-                <p>On-Premise and Cloud PIM, the benefits, the differences, and drawbacks of each, with examples of PIM platforms for both.</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/23/3/22/1/on-premise-vs-cloud-pim.jpg" alt="On Premise vs Cloud PIM" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/on-premise-vs-cloud-pim" target="_blank">On Premise vs Cloud PIM</a></h3>
+                    <p>On-Premise and Cloud PIM, the benefits, the differences, and drawbacks of each, with examples of PIM platforms for both.</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/23/3/20/1/graphql-typescript-generators.jpg" alt="GraphQL Typescript Generators" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/graphql-typescript-generators" target="_blank">GraphQL Typescript Generators</a></h3>
                     <p>GraphQL is a query language that optimizes performance by returning only the requested data, while TypeScript is a statically-typed language that helps catch errors during development. Together they can create robust and efficient web applications.</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/2/24/2/static-website-hosting-platforms.jpg" alt="Static Hosting" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/static-hosting" target="_blank">Static Hosting</a></h3>
                     <p>Netlify, Vercel, Platform.sh … the static website hosting landscape has changed significantly in the past few years and is only getting better.</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/23/3/7/3/pim-on-edge.jpg" alt="PIM on Edge" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/pim-on-edge" target="_blank">PIM on Edge</a></h3>
-                    <p>Edge computing makes it possible to deliver and process data even closer to end-users today, and businesses are slowly discovering the potential it offers.</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -55,7 +55,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/20/6/24/1/developer_comics_core_web_vitals.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/20/6/24/1/developer_comics_core_web_vitals.jpg" height="250" alt="Core Web Vitals"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/22/8/19/1/crystallize_strip_partially_hydrate_194.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/22/8/19/1/crystallize_strip_partially_hydrate_194.jpg" height="250" alt="Partially Hydrate"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -91,6 +91,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2023--04--06 01:02:13-green?style=flat-square&labelColor=black' alt='Generated on 2023--04--06 01:02:13'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2023--04--07 01:02:08-green?style=flat-square&labelColor=black' alt='Generated on 2023--04--07 01:02:08'/>
 
 
