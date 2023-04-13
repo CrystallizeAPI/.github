@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/23/4/12/1/monolithic-applications-vs-microservices.jpg" alt="Monolithic Applications vs. Microservices" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/monolithic-applications-vs-microservices" target="_blank">Monolithic Applications vs. Microservices</a></h3>
+                <p>More and more businesses are relying on cloud-native <em>microservice</em> apps to increase development speed and take advantage of the cloud&#039;s scalability and availability.</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/10/12/1/ecommerce-conversion-rate-optimization.jpg" alt="eCommerce Conversion Rate Optimization" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/ecommerce-conversion-rate-optimization" target="_blank">eCommerce Conversion Rate Optimization</a></h3>
                 <p>Are you struggling to convert your website traffic into paying customers? Are you tired of spending hours and resources on driving traffic to your site with little to no return on investment? Then it&#039;s time to focus on Conversion Rate Optimization (CRO).</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/23/3/30/8/ecommerce-seo-checklist.jpg" alt="ECommerce SEO Checklist" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/ecommerce-seo-checklist" target="_blank">ECommerce SEO Checklist</a></h3>
                 <p>Not your average list but a comprehensive 19-point eCommerce SEO checklist with everything you need to know to optimize your store and successfully grow organic traffic and revenue.</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/23/3/28/1/what-are-webhooks.jpg" alt="What Are Webhooks?" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/what-are-webhooks" target="_blank">What Are Webhooks?</a></h3>
-                <p>Webhooks are popular in web development, especially in headless and strongly decoupled architectures.</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/23/3/28/1/what-are-webhooks.jpg" alt="What Are Webhooks?" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/what-are-webhooks" target="_blank">What Are Webhooks?</a></h3>
+                    <p>Webhooks are popular in web development, especially in headless and strongly decoupled architectures.</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/23/3/22/1/on-premise-vs-cloud-pim.jpg" alt="On Premise vs Cloud PIM" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/on-premise-vs-cloud-pim" target="_blank">On Premise vs Cloud PIM</a></h3>
                     <p>On-Premise and Cloud PIM, the benefits, the differences, and drawbacks of each, with examples of PIM platforms for both.</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/21/12/7/5/react-based-static-site-generators.jpg" alt="React Static Site Generators" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/react-static-site-generators" target="_blank">React Static Site Generators</a></h3>
                     <p>A lot has happened in two years (since we originally published this). However, React, and static site generators (SSGs) built on top of it are still gaining traction with frontend developers worldwide.</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/2/24/2/static-website-hosting-platforms.jpg" alt="Static Hosting" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/static-hosting" target="_blank">Static Hosting</a></h3>
-                    <p>Netlify, Vercel, Platform.sh … the static website hosting landscape has changed significantly in the past few years and is only getting better.</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -55,7 +55,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/20/6/19/2/developer_comics_the_one_with_the_jam_stack.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/20/6/19/2/developer_comics_the_one_with_the_jam_stack.jpg" height="250" alt="The One With The Jamstack"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/images/673_developer_comics_choose_your_class.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/images/673_developer_comics_choose_your_class.jpg" height="250" alt="Choose Your Class"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -91,6 +91,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2023--04--12 01:02:21-green?style=flat-square&labelColor=black' alt='Generated on 2023--04--12 01:02:21'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2023--04--13 01:02:12-green?style=flat-square&labelColor=black' alt='Generated on 2023--04--13 01:02:12'/>
 
 
