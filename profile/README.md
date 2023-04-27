@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/23/4/26/2/ecommerce-personalization-2023.jpg" alt="eCommerce Personalization" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/ecommerce-personalization" target="_blank">eCommerce Personalization</a></h3>
+                <p>The time to take a closer look at the importance of personalization and the strategies and tools you can use to implement it successfully in your eCommerce business is now.</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/6/14/2/google-analytics-4.png" alt="Google Analytics 4 eCommerce" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/google-analytics-4-ecommerce" target="_blank">Google Analytics 4 eCommerce</a></h3>
                 <p>Google announced Universal Analytics (UA) would no longer process new data in standard properties beginning July 1, 2023, and that you should be moving to Google Analytics 4 (GA4). It’s not like the world is ending, right? But what does that mean for your business?</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/10/12/1/ecommerce-conversion-rate-optimization.jpg" alt="eCommerce Conversion Rate Optimization" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/ecommerce-conversion-rate-optimization" target="_blank">eCommerce Conversion Rate Optimization</a></h3>
                 <p>Are you struggling to convert your website traffic into paying customers? Are you tired of spending hours and resources on driving traffic to your site with little to no return on investment? Then it&#039;s time to focus on Conversion Rate Optimization (CRO).</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/23/4/4/1/distributed_order_management.jpg" alt="Distributed Order Management" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/distributed-order-management" target="_blank">Distributed Order Management</a></h3>
-                <p>eCommerce is wildly different than it was ten years ago. With the rise of omnichannel and globalization, managing your store has become increasingly complex.</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/23/4/4/1/distributed_order_management.jpg" alt="Distributed Order Management" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/distributed-order-management" target="_blank">Distributed Order Management</a></h3>
+                    <p>eCommerce is wildly different than it was ten years ago. With the rise of omnichannel and globalization, managing your store has become increasingly complex.</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/23/3/30/8/ecommerce-seo-checklist.jpg" alt="ECommerce SEO Checklist" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/ecommerce-seo-checklist" target="_blank">ECommerce SEO Checklist</a></h3>
                     <p>Not your average list but a comprehensive 19-point eCommerce SEO checklist with everything you need to know to optimize your store and successfully grow organic traffic and revenue.</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/23/3/14/1/e2e_testing_checkout_flow_blog_illustration_v2.jpg" alt="e2e Checkout Flow" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/e2e-checkout-flow" target="_blank">e2e Checkout Flow</a></h3>
                     <p>Running tests against the checkout flow can help you discover issues at an early stage and ensure that clients can always complete their orders. Happy customers, happy business!</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/6/8/1/api-vs-microservices.png" alt="APIs vs Microservices" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/apis-vs-microservices" target="_blank">APIs vs Microservices</a></h3>
-                    <p>You&#039;ve probably heard the terms APIs, and Microservices used when talking about web development. What are they? How do you use them, and what is the difference between them?</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -55,7 +55,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/19/9/20/1/developer_comics_under_pressure.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/19/9/20/1/developer_comics_under_pressure.jpg" height="250" alt="Under Pressure"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/19/11/15/1/developer_comics_rule_01_always_blame_the_frontend.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/19/11/15/1/developer_comics_rule_01_always_blame_the_frontend.jpg" height="250" alt="Rule 01 - Always Blame The Frontend"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -91,6 +91,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2023--04--26 01:02:28-green?style=flat-square&labelColor=black' alt='Generated on 2023--04--26 01:02:28'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2023--04--27 01:02:36-green?style=flat-square&labelColor=black' alt='Generated on 2023--04--27 01:02:36'/>
 
 
