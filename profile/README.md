@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/23/5/10/1/decoupled-ecommerce.jpg" alt="Decoupled eCommerce" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/decoupled-ecommerce" target="_blank">Decoupled eCommerce</a></h3>
+                <p>More than a buzzword, decupled eCommerce is the future of online shopping that is already here. Let’s talk about it.</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/23/4/26/2/ecommerce-personalization-2023.jpg" alt="eCommerce Personalization" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/ecommerce-personalization" target="_blank">eCommerce Personalization</a></h3>
                 <p>The time to take a closer look at the importance of personalization and the strategies and tools you can use to implement it successfully in your eCommerce business is now.</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/23/4/12/1/monolithic-applications-vs-microservices.jpg" alt="Monolithic Applications vs. Microservices" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/monolithic-applications-vs-microservices" target="_blank">Monolithic Applications vs. Microservices</a></h3>
                 <p>More and more businesses are relying on cloud-native <em>microservice</em> apps to increase development speed and take advantage of the cloud&#039;s scalability and availability.</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/22/10/12/1/ecommerce-conversion-rate-optimization.jpg" alt="eCommerce Conversion Rate Optimization" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/ecommerce-conversion-rate-optimization" target="_blank">eCommerce Conversion Rate Optimization</a></h3>
-                <p>Are you struggling to convert your website traffic into paying customers? Are you tired of spending hours and resources on driving traffic to your site with little to no return on investment? Then it&#039;s time to focus on Conversion Rate Optimization (CRO).</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/10/12/1/ecommerce-conversion-rate-optimization.jpg" alt="eCommerce Conversion Rate Optimization" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/ecommerce-conversion-rate-optimization" target="_blank">eCommerce Conversion Rate Optimization</a></h3>
+                    <p>Are you struggling to convert your website traffic into paying customers? Are you tired of spending hours and resources on driving traffic to your site with little to no return on investment? Then it&#039;s time to focus on Conversion Rate Optimization (CRO).</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/23/4/4/1/distributed_order_management.jpg" alt="Distributed Order Management" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/distributed-order-management" target="_blank">Distributed Order Management</a></h3>
                     <p>eCommerce is wildly different than it was ten years ago. With the rise of omnichannel and globalization, managing your store has become increasingly complex.</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/23/3/15/2/myrevolution-case-study.png" alt="MyRevolution Case Study" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/myrevolution-case-study" target="_blank">MyRevolution Case Study</a></h3>
                     <p>72% increased conversion rate and 3 seconds faster load times on average just by moving from Magento to Crystallize. Not bad.</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/23/3/14/1/e2e_testing_checkout_flow_blog_illustration_v2.jpg" alt="e2e Checkout Flow" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/e2e-checkout-flow" target="_blank">e2e Checkout Flow</a></h3>
-                    <p>Running tests against the checkout flow can help you discover issues at an early stage and ensure that clients can always complete their orders. Happy customers, happy business!</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -55,7 +55,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/19/9/13/4/developer_comics_whatever_it_takes.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/19/9/13/4/developer_comics_whatever_it_takes.jpg" height="250" alt="Whatever It Takes"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/22/4/29/3/crystallize_strip_developer_downtime_180.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/22/4/29/3/crystallize_strip_developer_downtime_180.jpg" height="250" alt="Developer Downtime"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -91,6 +91,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2023--05--10 01:02:30-green?style=flat-square&labelColor=black' alt='Generated on 2023--05--10 01:02:30'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2023--05--11 01:02:25-green?style=flat-square&labelColor=black' alt='Generated on 2023--05--11 01:02:25'/>
 
 
