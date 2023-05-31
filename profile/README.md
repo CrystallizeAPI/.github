@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/23/5/30/12/crystallize-100-performance-score.jpg" alt="Performance Tricks and Hacks" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/performance-tricks-and-hacks" target="_blank">Performance Tricks and Hacks</a></h3>
+                <p>Putting those frontend performance checklist suggestions to work.</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/23/5/10/1/decoupled-ecommerce.jpg" alt="Decoupled eCommerce" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/decoupled-ecommerce" target="_blank">Decoupled eCommerce</a></h3>
                 <p>More than a buzzword, decupled eCommerce is the future of online shopping that is already here. Let’s talk about it.</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/6/14/2/google-analytics-4.png" alt="Google Analytics 4 eCommerce" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/google-analytics-4-ecommerce" target="_blank">Google Analytics 4 eCommerce</a></h3>
                 <p>Google announced Universal Analytics (UA) would no longer process new data in standard properties beginning July 1, 2023, and that you should be moving to Google Analytics 4 (GA4). It’s not like the world is ending, right? But what does that mean for your business?</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/23/4/12/1/monolithic-applications-vs-microservices.jpg" alt="Monolithic Applications vs. Microservices" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/monolithic-applications-vs-microservices" target="_blank">Monolithic Applications vs. Microservices</a></h3>
-                <p>More and more businesses are relying on cloud-native <em>microservice</em> apps to increase development speed and take advantage of the cloud&#039;s scalability and availability.</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/23/4/12/1/monolithic-applications-vs-microservices.jpg" alt="Monolithic Applications vs. Microservices" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/monolithic-applications-vs-microservices" target="_blank">Monolithic Applications vs. Microservices</a></h3>
+                    <p>More and more businesses are relying on cloud-native <em>microservice</em> apps to increase development speed and take advantage of the cloud&#039;s scalability and availability.</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/10/12/1/ecommerce-conversion-rate-optimization.jpg" alt="eCommerce Conversion Rate Optimization" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/ecommerce-conversion-rate-optimization" target="_blank">eCommerce Conversion Rate Optimization</a></h3>
                     <p>Are you struggling to convert your website traffic into paying customers? Are you tired of spending hours and resources on driving traffic to your site with little to no return on investment? Then it&#039;s time to focus on Conversion Rate Optimization (CRO).</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/23/3/20/1/graphql-typescript-generators.jpg" alt="GraphQL Typescript Generators" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/graphql-typescript-generators" target="_blank">GraphQL Typescript Generators</a></h3>
                     <p>GraphQL is a query language that optimizes performance by returning only the requested data, while TypeScript is a statically-typed language that helps catch errors during development. Together they can create robust and efficient web applications.</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/23/3/15/2/myrevolution-case-study.png" alt="MyRevolution Case Study" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/myrevolution-case-study" target="_blank">MyRevolution Case Study</a></h3>
-                    <p>72% increased conversion rate and 3 seconds faster load times on average just by moving from Magento to Crystallize. Not bad.</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -55,7 +55,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/20/4/2/1/developer_comics_busted.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/20/4/2/1/developer_comics_busted.jpg" height="250" alt="Busted"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/images/329_developer_comics_estimate_time.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/images/329_developer_comics_estimate_time.jpg" height="250" alt="Time to Estimate"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -91,6 +91,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2023--05--30 01:03:02-green?style=flat-square&labelColor=black' alt='Generated on 2023--05--30 01:03:02'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2023--05--31 01:03:13-green?style=flat-square&labelColor=black' alt='Generated on 2023--05--31 01:03:13'/>
 
 
