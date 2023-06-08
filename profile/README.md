@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/23/6/7/1/direct-to-consumer.jpg" alt="Direct-to-Consumer" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/direct-to-consumer" target="_blank">Direct-to-Consumer</a></h3>
+                <p>Driving customer acquisition, optimizing the eCommerce experience, fostering loyalty, and scaling operations are the reason why brands opt out for Direct-to-Consumer (DTC) approach in business and marketing. But is it for everyone, and how do you start with it?</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/23/5/30/12/crystallize-100-performance-score.jpg" alt="Performance Tricks and Hacks" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/performance-tricks-and-hacks" target="_blank">Performance Tricks and Hacks</a></h3>
                 <p>Putting those frontend performance checklist suggestions to work.</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/23/4/26/2/ecommerce-personalization-2023.jpg" alt="eCommerce Personalization" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/ecommerce-personalization" target="_blank">eCommerce Personalization</a></h3>
                 <p>The time to take a closer look at the importance of personalization and the strategies and tools you can use to implement it successfully in your eCommerce business is now.</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/22/6/14/2/google-analytics-4.png" alt="Google Analytics 4 eCommerce" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/google-analytics-4-ecommerce" target="_blank">Google Analytics 4 eCommerce</a></h3>
-                <p>Google announced Universal Analytics (UA) would no longer process new data in standard properties beginning July 1, 2023, and that you should be moving to Google Analytics 4 (GA4). It’s not like the world is ending, right? But what does that mean for your business?</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/6/14/2/google-analytics-4.png" alt="Google Analytics 4 eCommerce" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/google-analytics-4-ecommerce" target="_blank">Google Analytics 4 eCommerce</a></h3>
+                    <p>Google announced Universal Analytics (UA) would no longer process new data in standard properties beginning July 1, 2023, and that you should be moving to Google Analytics 4 (GA4). It’s not like the world is ending, right? But what does that mean for your business?</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/23/4/12/1/monolithic-applications-vs-microservices.jpg" alt="Monolithic Applications vs. Microservices" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/monolithic-applications-vs-microservices" target="_blank">Monolithic Applications vs. Microservices</a></h3>
                     <p>More and more businesses are relying on cloud-native <em>microservice</em> apps to increase development speed and take advantage of the cloud&#039;s scalability and availability.</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/23/3/22/1/on-premise-vs-cloud-pim.jpg" alt="On Premise vs Cloud PIM" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/on-premise-vs-cloud-pim" target="_blank">On Premise vs Cloud PIM</a></h3>
                     <p>On-Premise and Cloud PIM, the benefits, the differences, and drawbacks of each, with examples of PIM platforms for both.</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/23/3/20/1/graphql-typescript-generators.jpg" alt="GraphQL Typescript Generators" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/graphql-typescript-generators" target="_blank">GraphQL Typescript Generators</a></h3>
-                    <p>GraphQL is a query language that optimizes performance by returning only the requested data, while TypeScript is a statically-typed language that helps catch errors during development. Together they can create robust and efficient web applications.</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -55,7 +55,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/22/3/18/1/crystallize_strip_wordle_174.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/22/3/18/1/crystallize_strip_wordle_174.jpg" height="250" alt="Wordle"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/images/552_developer_comics_the_summoning.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/images/552_developer_comics_the_summoning.jpg" height="250" alt="Captain Unicorn"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -91,6 +91,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2023--06--07 01:03:11-green?style=flat-square&labelColor=black' alt='Generated on 2023--06--07 01:03:11'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2023--06--08 01:03:50-green?style=flat-square&labelColor=black' alt='Generated on 2023--06--08 01:03:50'/>
 
 
