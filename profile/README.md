@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/23/6/14/1/product-page-seo.jpg" alt="Product Page SEO" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/product-page-seo" target="_blank">Product Page SEO</a></h3>
+                <p>Great product pages are vital to a successful online store, so how do you optimize your product pages for SEO and high conversions?</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/23/6/7/1/direct-to-consumer.jpg" alt="Direct-to-Consumer" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/direct-to-consumer" target="_blank">Direct-to-Consumer</a></h3>
                 <p>Driving customer acquisition, optimizing the eCommerce experience, fostering loyalty, and scaling operations are the reason why brands opt out for Direct-to-Consumer (DTC) approach in business and marketing. But is it for everyone, and how do you start with it?</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/23/5/10/1/decoupled-ecommerce.jpg" alt="Decoupled eCommerce" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/decoupled-ecommerce" target="_blank">Decoupled eCommerce</a></h3>
                 <p>More than a buzzword, decupled eCommerce is the future of online shopping that is already here. Let’s talk about it.</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/23/4/26/2/ecommerce-personalization-2023.jpg" alt="eCommerce Personalization" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/ecommerce-personalization" target="_blank">eCommerce Personalization</a></h3>
-                <p>The time to take a closer look at the importance of personalization and the strategies and tools you can use to implement it successfully in your eCommerce business is now.</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/23/4/26/2/ecommerce-personalization-2023.jpg" alt="eCommerce Personalization" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/ecommerce-personalization" target="_blank">eCommerce Personalization</a></h3>
+                    <p>The time to take a closer look at the importance of personalization and the strategies and tools you can use to implement it successfully in your eCommerce business is now.</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/6/14/2/google-analytics-4.png" alt="Google Analytics 4 eCommerce" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/google-analytics-4-ecommerce" target="_blank">Google Analytics 4 eCommerce</a></h3>
                     <p>Google announced Universal Analytics (UA) would no longer process new data in standard properties beginning July 1, 2023, and that you should be moving to Google Analytics 4 (GA4). It’s not like the world is ending, right? But what does that mean for your business?</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/23/3/28/1/what-are-webhooks.jpg" alt="What Are Webhooks?" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/what-are-webhooks" target="_blank">What Are Webhooks?</a></h3>
                     <p>Webhooks are popular in web development, especially in headless and strongly decoupled architectures.</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/23/3/22/1/on-premise-vs-cloud-pim.jpg" alt="On Premise vs Cloud PIM" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/on-premise-vs-cloud-pim" target="_blank">On Premise vs Cloud PIM</a></h3>
-                    <p>On-Premise and Cloud PIM, the benefits, the differences, and drawbacks of each, with examples of PIM platforms for both.</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -55,7 +55,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/images/636_developer_comics_rest_vs_graphql.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/images/636_developer_comics_rest_vs_graphql.jpg" height="250" alt="Rest vs GraphQL"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/20/11/13/1/developer_comics_guilty_pleasure.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/20/11/13/1/developer_comics_guilty_pleasure.jpg" height="250" alt="Guilty Pleasure"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -91,6 +91,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2023--06--14 01:03:03-green?style=flat-square&labelColor=black' alt='Generated on 2023--06--14 01:03:03'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2023--06--15 01:03:36-green?style=flat-square&labelColor=black' alt='Generated on 2023--06--15 01:03:36'/>
 
 
