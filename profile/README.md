@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/22/9/1/1/local_seo.jpg" alt="Local SEO eCommerce" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/local-seo-ecommerce" target="_blank">Local SEO eCommerce</a></h3>
+                <p>Local SEO focuses on optimizing a website&#039;s online presence to attract more local customers and improve search engine rankings for location-based queries.</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/23/6/14/1/product-page-seo.jpg" alt="Product Page SEO" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/product-page-seo" target="_blank">Product Page SEO</a></h3>
                 <p>Great product pages are vital to a successful online store, so how do you optimize your product pages for SEO and high conversions?</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/23/5/30/12/crystallize-100-performance-score.jpg" alt="Performance Tricks and Hacks" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/performance-tricks-and-hacks" target="_blank">Performance Tricks and Hacks</a></h3>
                 <p>Putting those frontend performance checklist suggestions to work.</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/23/5/10/1/decoupled-ecommerce.jpg" alt="Decoupled eCommerce" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/decoupled-ecommerce" target="_blank">Decoupled eCommerce</a></h3>
-                <p>More than a buzzword, decupled eCommerce is the future of online shopping that is already here. Let’s talk about it.</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/23/5/10/1/decoupled-ecommerce.jpg" alt="Decoupled eCommerce" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/decoupled-ecommerce" target="_blank">Decoupled eCommerce</a></h3>
+                    <p>More than a buzzword, decupled eCommerce is the future of online shopping that is already here. Let’s talk about it.</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/23/4/26/2/ecommerce-personalization-2023.jpg" alt="eCommerce Personalization" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/ecommerce-personalization" target="_blank">eCommerce Personalization</a></h3>
                     <p>The time to take a closer look at the importance of personalization and the strategies and tools you can use to implement it successfully in your eCommerce business is now.</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/23/3/30/8/ecommerce-seo-checklist.jpg" alt="ECommerce SEO Checklist" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/ecommerce-seo-checklist" target="_blank">ECommerce SEO Checklist</a></h3>
                     <p>Not your average list but a comprehensive 19-point eCommerce SEO checklist with everything you need to know to optimize your store and successfully grow organic traffic and revenue.</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/23/3/28/1/what-are-webhooks.jpg" alt="What Are Webhooks?" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/what-are-webhooks" target="_blank">What Are Webhooks?</a></h3>
-                    <p>Webhooks are popular in web development, especially in headless and strongly decoupled architectures.</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -55,7 +55,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/20/11/8/1/developer_comics_the_backfire.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/20/11/8/1/developer_comics_the_backfire.jpg" height="250" alt="The Backfire"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/20/2/28/1/developer_comics_monolith_vs_headless_part_two.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/20/2/28/1/developer_comics_monolith_vs_headless_part_two.jpg" height="250" alt="Monolith vs Headless: Part II"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -91,6 +91,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2023--06--28 01:04:21-green?style=flat-square&labelColor=black' alt='Generated on 2023--06--28 01:04:21'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2023--06--29 01:04:04-green?style=flat-square&labelColor=black' alt='Generated on 2023--06--29 01:04:04'/>
 
 
