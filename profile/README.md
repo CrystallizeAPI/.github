@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/23/7/12/1/best-ecommerce-platforms.jpg" alt="eCommerce Platforms" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/ecommerce-platforms" target="_blank">eCommerce Platforms</a></h3>
+                <p>Gartner magic quadrant view, business expectations, industry leaders&#039; opinions, most popular solutions… <em>best of</em> articles come in all shapes and sizes. This one of ours about eCommerce platforms is a bit different… we hope.</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/9/1/1/local_seo.jpg" alt="Local SEO eCommerce" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/local-seo-ecommerce" target="_blank">Local SEO eCommerce</a></h3>
                 <p>Local SEO focuses on optimizing a website&#039;s online presence to attract more local customers and improve search engine rankings for location-based queries.</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/23/6/7/1/direct-to-consumer.jpg" alt="Direct-to-Consumer" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/direct-to-consumer" target="_blank">Direct-to-Consumer</a></h3>
                 <p>Driving customer acquisition, optimizing the eCommerce experience, fostering loyalty, and scaling operations are the reason why brands opt out for Direct-to-Consumer (DTC) approach in business and marketing. But is it for everyone, and how do you start with it?</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/23/5/30/12/crystallize-100-performance-score.jpg" alt="Performance Tricks and Hacks" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/performance-tricks-and-hacks" target="_blank">Performance Tricks and Hacks</a></h3>
-                <p>Putting those frontend performance checklist suggestions to work.</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/23/5/30/12/crystallize-100-performance-score.jpg" alt="Performance Tricks and Hacks" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/performance-tricks-and-hacks" target="_blank">Performance Tricks and Hacks</a></h3>
+                    <p>Putting those frontend performance checklist suggestions to work.</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/23/5/10/1/decoupled-ecommerce.jpg" alt="Decoupled eCommerce" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/decoupled-ecommerce" target="_blank">Decoupled eCommerce</a></h3>
                     <p>More than a buzzword, decupled eCommerce is the future of online shopping that is already here. Let’s talk about it.</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/23/4/4/1/distributed_order_management.jpg" alt="Distributed Order Management" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/distributed-order-management" target="_blank">Distributed Order Management</a></h3>
                     <p>eCommerce is wildly different than it was ten years ago. With the rise of omnichannel and globalization, managing your store has become increasingly complex.</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/23/3/30/8/ecommerce-seo-checklist.jpg" alt="ECommerce SEO Checklist" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/ecommerce-seo-checklist" target="_blank">ECommerce SEO Checklist</a></h3>
-                    <p>Not your average list but a comprehensive 19-point eCommerce SEO checklist with everything you need to know to optimize your store and successfully grow organic traffic and revenue.</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -55,7 +55,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/20/11/8/1/developer_comics_the_backfire.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/20/11/8/1/developer_comics_the_backfire.jpg" height="250" alt="The Backfire"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/images/268_developer_comics_developer_vs_designer.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/images/268_developer_comics_developer_vs_designer.jpg" height="250" alt="Developer vs Designer"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -91,6 +91,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2023--07--12 01:03:23-green?style=flat-square&labelColor=black' alt='Generated on 2023--07--12 01:03:23'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2023--07--13 01:03:17-green?style=flat-square&labelColor=black' alt='Generated on 2023--07--13 01:03:17'/>
 
 
