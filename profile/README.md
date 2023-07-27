@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/23/7/26/1/3rd-party-scripts.jpg" alt="Cost of 3rd Party Scripts" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/cost-of-3rd-party-scripts" target="_blank">Cost of 3rd Party Scripts</a></h3>
+                <p>Third-party scripts are an essential part of websites as these enable your application to have a whole lot of functionality, such as website analytics, handling eCommerce transactions, etc. But with great power comes great responsibility, right?</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/23/7/12/1/best-ecommerce-platforms.jpg" alt="eCommerce Platforms" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/ecommerce-platforms" target="_blank">eCommerce Platforms</a></h3>
                 <p>Gartner magic quadrant view, business expectations, industry leaders&#039; opinions, most popular solutions… <em>best of</em> articles come in all shapes and sizes. This one of ours about eCommerce platforms is a bit different… we hope.</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/23/6/14/1/product-page-seo.jpg" alt="Product Page SEO" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/product-page-seo" target="_blank">Product Page SEO</a></h3>
                 <p>Great product pages are vital to a successful online store, so how do you optimize your product pages for SEO and high conversions?</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/23/6/7/1/direct-to-consumer.jpg" alt="Direct-to-Consumer" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/direct-to-consumer" target="_blank">Direct-to-Consumer</a></h3>
-                <p>Driving customer acquisition, optimizing the eCommerce experience, fostering loyalty, and scaling operations are the reason why brands opt out for Direct-to-Consumer (DTC) approach in business and marketing. But is it for everyone, and how do you start with it?</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/23/6/7/1/direct-to-consumer.jpg" alt="Direct-to-Consumer" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/direct-to-consumer" target="_blank">Direct-to-Consumer</a></h3>
+                    <p>Driving customer acquisition, optimizing the eCommerce experience, fostering loyalty, and scaling operations are the reason why brands opt out for Direct-to-Consumer (DTC) approach in business and marketing. But is it for everyone, and how do you start with it?</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/23/5/30/12/crystallize-100-performance-score.jpg" alt="Performance Tricks and Hacks" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/performance-tricks-and-hacks" target="_blank">Performance Tricks and Hacks</a></h3>
                     <p>Putting those frontend performance checklist suggestions to work.</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/10/12/1/ecommerce-conversion-rate-optimization.jpg" alt="eCommerce Conversion Rate Optimization" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/ecommerce-conversion-rate-optimization" target="_blank">eCommerce Conversion Rate Optimization</a></h3>
                     <p>Are you struggling to convert your website traffic into paying customers? Are you tired of spending hours and resources on driving traffic to your site with little to no return on investment? Then it&#039;s time to focus on Conversion Rate Optimization (CRO).</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/23/4/4/1/distributed_order_management.jpg" alt="Distributed Order Management" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/distributed-order-management" target="_blank">Distributed Order Management</a></h3>
-                    <p>eCommerce is wildly different than it was ten years ago. With the rise of omnichannel and globalization, managing your store has become increasingly complex.</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -55,7 +55,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/images/329_developer_comics_estimate_time.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/images/329_developer_comics_estimate_time.jpg" height="250" alt="Time to Estimate"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/22/10/7/19/crystallize_strip_old_school_research_201.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/22/10/7/19/crystallize_strip_old_school_research_201.jpg" height="250" alt="Old School Research"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -91,6 +91,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2023--07--26 01:03:24-green?style=flat-square&labelColor=black' alt='Generated on 2023--07--26 01:03:24'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2023--07--27 00:58:48-green?style=flat-square&labelColor=black' alt='Generated on 2023--07--27 00:58:48'/>
 
 
