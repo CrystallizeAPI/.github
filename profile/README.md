@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/21/10/20/4/frontend-performance-kpis.jpg" alt="Frontend Performance - Measuring & KPIs" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/frontend-performance-measuring-and-kpis" target="_blank">Frontend Performance - Measuring &amp; KPIs</a></h3>
+                <p>Frontend performance really matters for user experience, conversion, and of course good old SEO. To build fast websites you need to have the performance metrics and KPIs defined.</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/23/7/26/1/3rd-party-scripts.jpg" alt="Cost of 3rd Party Scripts" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/cost-of-3rd-party-scripts" target="_blank">Cost of 3rd Party Scripts</a></h3>
                 <p>Third-party scripts are an essential part of websites as these enable your application to have a whole lot of functionality, such as website analytics, handling eCommerce transactions, etc. But with great power comes great responsibility, right?</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/9/1/1/local_seo.jpg" alt="Local SEO eCommerce" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/local-seo-ecommerce" target="_blank">Local SEO eCommerce</a></h3>
                 <p>Local SEO focuses on optimizing a website&#039;s online presence to attract more local customers and improve search engine rankings for location-based queries.</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/23/6/14/1/product-page-seo.jpg" alt="Product Page SEO" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/product-page-seo" target="_blank">Product Page SEO</a></h3>
-                <p>Great product pages are vital to a successful online store, so how do you optimize your product pages for SEO and high conversions?</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/23/6/14/1/product-page-seo.jpg" alt="Product Page SEO" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/product-page-seo" target="_blank">Product Page SEO</a></h3>
+                    <p>Great product pages are vital to a successful online store, so how do you optimize your product pages for SEO and high conversions?</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/23/6/7/1/direct-to-consumer.jpg" alt="Direct-to-Consumer" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/direct-to-consumer" target="_blank">Direct-to-Consumer</a></h3>
                     <p>Driving customer acquisition, optimizing the eCommerce experience, fostering loyalty, and scaling operations are the reason why brands opt out for Direct-to-Consumer (DTC) approach in business and marketing. But is it for everyone, and how do you start with it?</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/23/4/12/1/monolithic-applications-vs-microservices.jpg" alt="Monolithic Applications vs. Microservices" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/monolithic-applications-vs-microservices" target="_blank">Monolithic Applications vs. Microservices</a></h3>
                     <p>More and more businesses are relying on cloud-native <em>microservice</em> apps to increase development speed and take advantage of the cloud&#039;s scalability and availability.</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/10/12/1/ecommerce-conversion-rate-optimization.jpg" alt="eCommerce Conversion Rate Optimization" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/ecommerce-conversion-rate-optimization" target="_blank">eCommerce Conversion Rate Optimization</a></h3>
-                    <p>Are you struggling to convert your website traffic into paying customers? Are you tired of spending hours and resources on driving traffic to your site with little to no return on investment? Then it&#039;s time to focus on Conversion Rate Optimization (CRO).</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -55,7 +55,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/21/9/3/2/developer_comics_channels_of_communication.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/21/9/3/2/developer_comics_channels_of_communication.jpg" height="250" alt="Channels Of Communication"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/22/8/12/1/crystallize_strip_connection_error_193.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/22/8/12/1/crystallize_strip_connection_error_193.jpg" height="250" alt="Connection Error"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -91,6 +91,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2023--08--02 01:02:20-green?style=flat-square&labelColor=black' alt='Generated on 2023--08--02 01:02:20'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2023--08--03 00:51:55-green?style=flat-square&labelColor=black' alt='Generated on 2023--08--03 00:51:55'/>
 
 
