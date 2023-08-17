@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/23/8/16/1/manage-roles-and-permissions.jpg" alt="Manage Roles and Permissions" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/manage-roles-and-permissions" target="_blank">Manage Roles and Permissions</a></h3>
+                <p>Reimagining roles and permissions is no easy task, but someone had to do it😎</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/23/8/15/1/authentication-vs-authorization.jpg" alt="Authentication vs. Authorization" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/authentication-vs-authorization" target="_blank">Authentication vs. Authorization</a></h3>
                 <p>Dive into the intricacies of authentication vs. authorization and learn how these security measures work in tandem to safeguard systems.</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/23/7/26/1/3rd-party-scripts.jpg" alt="Cost of 3rd Party Scripts" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/cost-of-3rd-party-scripts" target="_blank">Cost of 3rd Party Scripts</a></h3>
                 <p>Third-party scripts are an essential part of websites as these enable your application to have a whole lot of functionality, such as website analytics, handling eCommerce transactions, etc. But with great power comes great responsibility, right?</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/23/7/12/1/best-ecommerce-platforms.jpg" alt="eCommerce Platforms" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/ecommerce-platforms" target="_blank">eCommerce Platforms</a></h3>
-                <p>Gartner magic quadrant view, business expectations, industry leaders&#039; opinions, most popular solutions… <em>best of</em> articles come in all shapes and sizes. This one of ours about eCommerce platforms is a bit different… we hope.</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/23/7/12/1/best-ecommerce-platforms.jpg" alt="eCommerce Platforms" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/ecommerce-platforms" target="_blank">eCommerce Platforms</a></h3>
+                    <p>Gartner magic quadrant view, business expectations, industry leaders&#039; opinions, most popular solutions… <em>best of</em> articles come in all shapes and sizes. This one of ours about eCommerce platforms is a bit different… we hope.</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/9/1/1/local_seo.jpg" alt="Local SEO eCommerce" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/local-seo-ecommerce" target="_blank">Local SEO eCommerce</a></h3>
                     <p>Local SEO focuses on optimizing a website&#039;s online presence to attract more local customers and improve search engine rankings for location-based queries.</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/23/4/26/2/ecommerce-personalization-2023.jpg" alt="eCommerce Personalization" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/ecommerce-personalization" target="_blank">eCommerce Personalization</a></h3>
                     <p>The time to take a closer look at the importance of personalization and the strategies and tools you can use to implement it successfully in your eCommerce business is now.</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/6/14/2/google-analytics-4.png" alt="Google Analytics 4 eCommerce" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/google-analytics-4-ecommerce" target="_blank">Google Analytics 4 eCommerce</a></h3>
-                    <p>Google announced Universal Analytics (UA) would no longer process new data in standard properties beginning July 1, 2023, and that you should be moving to Google Analytics 4 (GA4). It’s not like the world is ending, right? But what does that mean for your business?</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -55,7 +55,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/images/281_developer_comics_recurring_nightmare.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/images/281_developer_comics_recurring_nightmare.jpg" height="250" alt="Recurring Nightmare"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/20/4/24/2/developer_comics_living_the_dream.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/20/4/24/2/developer_comics_living_the_dream.jpg" height="250" alt="Living The Dream"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -91,6 +91,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2023--08--16 01:01:40-green?style=flat-square&labelColor=black' alt='Generated on 2023--08--16 01:01:40'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2023--08--17 01:01:37-green?style=flat-square&labelColor=black' alt='Generated on 2023--08--17 01:01:37'/>
 
 
