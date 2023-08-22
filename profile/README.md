@@ -43,7 +43,7 @@
                     <p>More than a buzzword, decupled eCommerce is the future of online shopping that is already here. Let’s talk about it.</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/23/4/26/2/ecommerce-personalization-2023.jpg" alt="eCommerce Personalization" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/ecommerce-personalization" target="_blank">eCommerce Personalization</a></h3>
-                    <p>The time to take a closer look at the importance of personalization and the strategies and tools you can use to implement it successfully in your eCommerce business is now.</p>
+                    <p>The importance of personalization and the strategies and tools you can use to implement it successfully in your eCommerce business in a 5 step framework.</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -55,7 +55,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/21/1/22/3/developer_comics_fast_learner.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/21/1/22/3/developer_comics_fast_learner.jpg" height="250" alt="Fast Learner"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/20/9/3/1/developer_comics_reaching_the_milestone.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/20/9/3/1/developer_comics_reaching_the_milestone.jpg" height="250" alt="Reaching The Milestone"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -91,6 +91,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2023--08--21 01:01:48-green?style=flat-square&labelColor=black' alt='Generated on 2023--08--21 01:01:48'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2023--08--22 01:01:45-green?style=flat-square&labelColor=black' alt='Generated on 2023--08--22 01:01:45'/>
 
 
