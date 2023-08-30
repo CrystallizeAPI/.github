@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/23/8/29/1/nextjs-boilerplate.png" alt="NextJS Boilerplate Beginners Guide" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/nextjs-boilerplate-beginners-guide" target="_blank">NextJS Boilerplate Beginners Guide</a></h3>
+                <p>Getting started (or returning) to web development with React can be easier than you think.</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/23/8/23/1/choosing-an-ecommerce-platform.jpg" alt="Choosing eCommerce Platform" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/choosing-ecommerce-platform" target="_blank">Choosing eCommerce Platform</a></h3>
                 <p>Choosing the best eCommerce platform is one of the most important decisions you must make at the very start of your eCommerce journey if you want to have a jaw-dropping, money-making storefront.</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/23/8/15/1/authentication-vs-authorization.jpg" alt="Authentication vs. Authorization" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/authentication-vs-authorization" target="_blank">Authentication vs. Authorization</a></h3>
                 <p>Dive into the intricacies of authentication vs. authorization and learn how these security measures work in tandem to safeguard systems.</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/21/10/20/4/frontend-performance-kpis.jpg" alt="Frontend Performance - Measuring & KPIs" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/frontend-performance-measuring-and-kpis" target="_blank">Frontend Performance - Measuring &amp; KPIs</a></h3>
-                <p>Frontend performance really matters for user experience, conversion, ad placements, and of course, good old SEO. To build fast websites, you need to have the performance metrics and KPIs defined.</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/21/10/20/4/frontend-performance-kpis.jpg" alt="Frontend Performance - Measuring & KPIs" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/frontend-performance-measuring-and-kpis" target="_blank">Frontend Performance - Measuring &amp; KPIs</a></h3>
+                    <p>Frontend performance really matters for user experience, conversion, ad placements, and of course, good old SEO. To build fast websites, you need to have the performance metrics and KPIs defined.</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/23/7/26/1/3rd-party-scripts.jpg" alt="Cost of 3rd Party Scripts" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/cost-of-3rd-party-scripts" target="_blank">Cost of 3rd Party Scripts</a></h3>
                     <p>Third-party scripts are an essential part of websites as these enable your application to have a whole lot of functionality, such as website analytics, handling eCommerce transactions, etc. But with great power comes great responsibility, right?</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/23/5/30/12/crystallize-100-performance-score.jpg" alt="Performance Tricks and Hacks" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/performance-tricks-and-hacks" target="_blank">Performance Tricks and Hacks</a></h3>
                     <p>Putting those frontend performance checklist suggestions to work.</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/23/5/10/1/decoupled-ecommerce.jpg" alt="Decoupled eCommerce" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/decoupled-ecommerce" target="_blank">Decoupled eCommerce</a></h3>
-                    <p>More than a buzzword, decupled eCommerce is the future of online shopping that is already here. Let’s talk about it.</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -55,7 +55,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/20/2/28/1/developer_comics_monolith_vs_headless_part_two.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/20/2/28/1/developer_comics_monolith_vs_headless_part_two.jpg" height="250" alt="Monolith vs Headless: Part II"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/20/9/15/1/developer_comics_things_change.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/20/9/15/1/developer_comics_things_change.jpg" height="250" alt="Things Change"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -91,6 +91,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2023--08--29 01:01:51-green?style=flat-square&labelColor=black' alt='Generated on 2023--08--29 01:01:51'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2023--08--30 01:01:43-green?style=flat-square&labelColor=black' alt='Generated on 2023--08--30 01:01:43'/>
 
 
