@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/23/9/6/1/structured-content.jpg" alt="Structured Content" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/structured-content" target="_blank">Structured Content</a></h3>
+                <p>Structured content is the backbone of a successful website that allows you to do MORE with content, so it’s kind of surprising that it is still a bit too rare out in the wild🤔</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/23/8/29/1/nextjs-boilerplate.png" alt="NextJS Boilerplate Beginners Guide" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/nextjs-boilerplate-beginners-guide" target="_blank">NextJS Boilerplate Beginners Guide</a></h3>
                 <p>Getting started (or returning) to web development with React can be easier than you think.</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/23/8/16/1/manage-roles-and-permissions.jpg" alt="Manage Roles and Permissions" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/manage-roles-and-permissions" target="_blank">Manage Roles and Permissions</a></h3>
                 <p>Reimagining roles and permissions is no easy task, but someone had to do it 😎</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/23/8/15/1/authentication-vs-authorization.jpg" alt="Authentication vs. Authorization" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/authentication-vs-authorization" target="_blank">Authentication vs. Authorization</a></h3>
-                <p>Dive into the intricacies of authentication vs. authorization and learn how these security measures work in tandem to safeguard systems.</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/23/8/15/1/authentication-vs-authorization.jpg" alt="Authentication vs. Authorization" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/authentication-vs-authorization" target="_blank">Authentication vs. Authorization</a></h3>
+                    <p>Dive into the intricacies of authentication vs. authorization and learn how these security measures work in tandem to safeguard systems.</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/21/10/20/4/frontend-performance-kpis.jpg" alt="Frontend Performance - Measuring & KPIs" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/frontend-performance-measuring-and-kpis" target="_blank">Frontend Performance - Measuring &amp; KPIs</a></h3>
                     <p>Frontend performance really matters for user experience, conversion, ad placements, and of course, good old SEO. To build fast websites, you need to have the performance metrics and KPIs defined.</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/23/6/7/1/direct-to-consumer.jpg" alt="Direct-to-Consumer" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/direct-to-consumer" target="_blank">Direct-to-Consumer</a></h3>
                     <p>Driving customer acquisition, optimizing the eCommerce experience, fostering loyalty, and scaling operations are the reason why brands opt out for Direct-to-Consumer (DTC) approach in business and marketing. But is it for everyone, and how do you start with it?</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/23/5/30/12/crystallize-100-performance-score.jpg" alt="Performance Tricks and Hacks" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/performance-tricks-and-hacks" target="_blank">Performance Tricks and Hacks</a></h3>
-                    <p>Putting those frontend performance checklist suggestions to work.</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -55,7 +55,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/22/2/4/1/crystallize_strip_168.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/22/2/4/1/crystallize_strip_168.jpg" height="250" alt="Recursion"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/20/5/1/1/developer_comics_it_runs_in_the_family.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/20/5/1/1/developer_comics_it_runs_in_the_family.jpg" height="250" alt="Chemistry By Design"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -91,6 +91,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2023--09--06 01:01:50-green?style=flat-square&labelColor=black' alt='Generated on 2023--09--06 01:01:50'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2023--09--07 01:01:42-green?style=flat-square&labelColor=black' alt='Generated on 2023--09--07 01:01:42'/>
 
 
