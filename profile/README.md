@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/23/9/21/1/order-orchestration.jpg" alt="Order Orchestration" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/order-orchestration" target="_blank">Order Orchestration</a></h3>
+                <p>In the dynamic world of eCommerce, satisfying customer demands while managing operations efficiently is a juggling act. Ever wonder how successful online retailers manage it all? The secret sauce is <strong>order orchestration</strong>.</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/23/9/13/2/benefits-of-graphql.jpg" alt="Benefits of Using GraphQL" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/benefits-of-using-graphql" target="_blank">Benefits of Using GraphQL</a></h3>
                 <p>Whether you’re designing a new eCommerce platform or looking to upgrade an existing monolith application, it’s worth evaluating GraphQL and the benefits it provides over similar technologies like REST.</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/23/8/29/1/nextjs-boilerplate.png" alt="NextJS Boilerplate Beginners Guide" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/nextjs-boilerplate-beginners-guide" target="_blank">NextJS Boilerplate Beginners Guide</a></h3>
                 <p>Getting started (or returning) to web development with React can be easier than you think.</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/23/8/23/1/choosing-an-ecommerce-platform.jpg" alt="Choosing eCommerce Platform" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/choosing-ecommerce-platform" target="_blank">Choosing eCommerce Platform</a></h3>
-                <p>Choosing the best eCommerce platform is one of the most important decisions you must make at the very start of your eCommerce journey if you want to have a jaw-dropping, money-making storefront.</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/23/8/23/1/choosing-an-ecommerce-platform.jpg" alt="Choosing eCommerce Platform" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/choosing-ecommerce-platform" target="_blank">Choosing eCommerce Platform</a></h3>
+                    <p>Choosing the best eCommerce platform is one of the most important decisions you must make at the very start of your eCommerce journey if you want to have a jaw-dropping, money-making storefront.</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/23/8/16/1/manage-roles-and-permissions.jpg" alt="Manage Roles and Permissions" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/manage-roles-and-permissions" target="_blank">Manage Roles and Permissions</a></h3>
                     <p>Reimagining roles and permissions is no easy task, but someone had to do it 😎</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/9/1/1/local_seo.jpg" alt="Local SEO eCommerce" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/local-seo-ecommerce" target="_blank">Local SEO eCommerce</a></h3>
                     <p>Local SEO focuses on optimizing a website&#039;s online presence to attract more local customers and improve search engine rankings for location-based queries.</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/23/6/14/1/product-page-seo.jpg" alt="Product Page SEO" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/product-page-seo" target="_blank">Product Page SEO</a></h3>
-                    <p>Great product pages are vital to a successful online store, so how do you optimize your product pages for SEO and high conversions?</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -55,7 +55,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/21/10/8/2/developer_comics_staying_fit.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/21/10/8/2/developer_comics_staying_fit.jpg" height="250" alt="Staying Fit"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/images/631_developer_comics_make_some_noise.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/images/631_developer_comics_make_some_noise.jpg" height="250" alt="MAKE SOME NOISE"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -91,6 +91,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2023--09--21 01:01:48-green?style=flat-square&labelColor=black' alt='Generated on 2023--09--21 01:01:48'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2023--09--22 01:01:48-green?style=flat-square&labelColor=black' alt='Generated on 2023--09--22 01:01:48'/>
 
 
