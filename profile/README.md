@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/23/10/5/6/fast-web-fonts.jpg" alt="Fast Web Fonts" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/fast-web-fonts" target="_blank">Fast Web Fonts</a></h3>
+                <p>Fonts are a crucial part of every app or website, and they play a significant role in <a href="https://crystallize.com/blog/frontend-performance-measuring-kpis">front-end performance</a>. However, making sure you have a fast web font is a practice usually overlooked.</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/23/9/27/2/product-storytelling.jpg" alt="Product Storytelling" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/product-storytelling" target="_blank">Product Storytelling</a></h3>
                 <p>At its core, product storytelling is the art of weaving a compelling narrative around a product or service. Instead of just listing features or benefits, you&#039;re engaging customers on a deeper, emotional level, offering them a story they can connect with.</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/23/9/13/2/benefits-of-graphql.jpg" alt="Benefits of Using GraphQL" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/benefits-of-using-graphql" target="_blank">Benefits of Using GraphQL</a></h3>
                 <p>Whether you’re designing a new eCommerce platform or looking to upgrade an existing monolith application, it’s worth evaluating GraphQL and the benefits it provides over similar technologies like REST.</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/23/9/6/1/structured-content.jpg" alt="Structured Content" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/structured-content" target="_blank">Structured Content</a></h3>
-                <p>Structured content is the backbone of a successful website that allows you to do MORE with content, so it’s kind of surprising that it is still a bit too rare out in the wild🤔</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/23/9/6/1/structured-content.jpg" alt="Structured Content" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/structured-content" target="_blank">Structured Content</a></h3>
+                    <p>Structured content is the backbone of a successful website that allows you to do MORE with content, so it’s kind of surprising that it is still a bit too rare out in the wild🤔</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/23/8/29/1/nextjs-boilerplate.png" alt="NextJS Boilerplate Beginners Guide" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/nextjs-boilerplate-beginners-guide" target="_blank">NextJS Boilerplate Beginners Guide</a></h3>
                     <p>Getting started (or returning) to web development with React can be easier than you think.</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/23/7/26/1/3rd-party-scripts.jpg" alt="Cost of 3rd Party Scripts" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/cost-of-3rd-party-scripts" target="_blank">Cost of 3rd Party Scripts</a></h3>
                     <p>Third-party scripts are an essential part of websites as these enable your application to have a whole lot of functionality, such as website analytics, handling eCommerce transactions, etc. But with great power comes great responsibility, right?</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/23/7/12/1/best-ecommerce-platforms.jpg" alt="eCommerce Platforms" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/ecommerce-platforms" target="_blank">eCommerce Platforms</a></h3>
-                    <p>Gartner magic quadrant view, business expectations, industry leaders&#039; opinions, most popular solutions… <em>best of</em> articles come in all shapes and sizes. This one of ours about eCommerce platforms is a bit different… we hope.</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -55,7 +55,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/images/400_crystallize_strip_02.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/images/400_crystallize_strip_02.jpg" height="250" alt="Blame the Compiler"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/21/1/29/3/developer_comics_time_tracking.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/21/1/29/3/developer_comics_time_tracking.jpg" height="250" alt="Time Tracking"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -91,6 +91,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2023--10--05 01:01:48-green?style=flat-square&labelColor=black' alt='Generated on 2023--10--05 01:01:48'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2023--10--06 01:01:51-green?style=flat-square&labelColor=black' alt='Generated on 2023--10--06 01:01:51'/>
 
 
