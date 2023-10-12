@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/23/10/11/1/next-js-starter-install.jpg" alt="NextJS Starter Install" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/nextjs-starter-install" target="_blank">NextJS Starter Install</a></h3>
+                <p>Let&#039;s look at the many ways the NextJS eCommerce starter can be customized once installed. It&#039;s easier than you think.</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/23/10/5/6/fast-web-fonts.jpg" alt="Fast Web Fonts" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/fast-web-fonts" target="_blank">Fast Web Fonts</a></h3>
                 <p>Fonts are a crucial part of every app or website, and they play a significant role in <a href="https://crystallize.com/blog/frontend-performance-measuring-kpis">front-end performance</a>. However, making sure you have a fast web font is a practice usually overlooked.</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/23/9/21/1/order-orchestration.jpg" alt="Order Orchestration" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/order-orchestration" target="_blank">Order Orchestration</a></h3>
                 <p>In the dynamic world of eCommerce, satisfying customer demands while managing operations efficiently is a juggling act. Ever wonder how successful online retailers manage it all? The secret sauce is <strong>order orchestration</strong>.</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/23/9/13/2/benefits-of-graphql.jpg" alt="Benefits of Using GraphQL" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/benefits-of-using-graphql" target="_blank">Benefits of Using GraphQL</a></h3>
-                <p>Whether you’re designing a new eCommerce platform or looking to upgrade an existing monolith application, it’s worth evaluating GraphQL and the benefits it provides over similar technologies like REST.</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/23/9/13/2/benefits-of-graphql.jpg" alt="Benefits of Using GraphQL" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/benefits-of-using-graphql" target="_blank">Benefits of Using GraphQL</a></h3>
+                    <p>Whether you’re designing a new eCommerce platform or looking to upgrade an existing monolith application, it’s worth evaluating GraphQL and the benefits it provides over similar technologies like REST.</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/23/9/6/1/structured-content.jpg" alt="Structured Content" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/structured-content" target="_blank">Structured Content</a></h3>
                     <p>Structured content is the backbone of a successful website that allows you to do MORE with content, so it’s kind of surprising that it is still a bit too rare out in the wild🤔</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/21/10/20/4/frontend-performance-kpis.jpg" alt="Frontend Performance - Measuring & KPIs" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/frontend-performance-measuring-and-kpis" target="_blank">Frontend Performance - Measuring &amp; KPIs</a></h3>
                     <p>Frontend performance really matters for user experience, conversion, ad placements, and of course, good old SEO. To build fast websites, you need to have the performance metrics and KPIs defined.</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/23/7/26/1/3rd-party-scripts.jpg" alt="Cost of 3rd Party Scripts" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/cost-of-3rd-party-scripts" target="_blank">Cost of 3rd Party Scripts</a></h3>
-                    <p>Third-party scripts are an essential part of websites as these enable your application to have a whole lot of functionality, such as website analytics, handling eCommerce transactions, etc. But with great power comes great responsibility, right?</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -55,7 +55,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/images/268_developer_comics_developer_vs_designer.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/images/268_developer_comics_developer_vs_designer.jpg" height="250" alt="Developer vs Designer"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/23/7/14/1/crystallize_strip_key_responsibilities_229.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/23/7/14/1/crystallize_strip_key_responsibilities_229.jpg" height="250" alt="Key Responsibilities"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -91,6 +91,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2023--10--11 01:01:53-green?style=flat-square&labelColor=black' alt='Generated on 2023--10--11 01:01:53'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2023--10--12 01:01:42-green?style=flat-square&labelColor=black' alt='Generated on 2023--10--12 01:01:42'/>
 
 
