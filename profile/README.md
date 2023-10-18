@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/23/1/17/1/ecommerce-business-models.jpg" alt="eCommerce Business Model" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/ecommerce-business-model" target="_blank">eCommerce Business Model</a></h3>
+                <p>While it all starts with your idea/product, the business model you choose serves as the bedrock of your eCommerce venture, dictating the operational dynamics, the value proposition to your customers, and the revenue streams that will fuel your growth.</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/23/10/11/1/next-js-starter-install.jpg" alt="NextJS Starter Install" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/nextjs-starter-install" target="_blank">NextJS Starter Install</a></h3>
                 <p>Let&#039;s look at the many ways the NextJS eCommerce starter can be customized once installed. It&#039;s easier than you think.</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/23/9/27/2/product-storytelling.jpg" alt="Product Storytelling" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/product-storytelling" target="_blank">Product Storytelling</a></h3>
                 <p>At its core, product storytelling is the art of weaving a compelling narrative around a product or service. Instead of just listing features or benefits, you&#039;re engaging customers on a deeper, emotional level, offering them a story they can connect with.</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/23/9/21/1/order-orchestration.jpg" alt="Order Orchestration" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/order-orchestration" target="_blank">Order Orchestration</a></h3>
-                <p>In the dynamic world of eCommerce, satisfying customer demands while managing operations efficiently is a juggling act. Ever wonder how successful online retailers manage it all? The secret sauce is <strong>order orchestration</strong>.</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/23/9/21/1/order-orchestration.jpg" alt="Order Orchestration" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/order-orchestration" target="_blank">Order Orchestration</a></h3>
+                    <p>In the dynamic world of eCommerce, satisfying customer demands while managing operations efficiently is a juggling act. Ever wonder how successful online retailers manage it all? The secret sauce is <strong>order orchestration</strong>.</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/23/9/13/2/benefits-of-graphql.jpg" alt="Benefits of Using GraphQL" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/benefits-of-using-graphql" target="_blank">Benefits of Using GraphQL</a></h3>
                     <p>Whether you’re designing a new eCommerce platform or looking to upgrade an existing monolith application, it’s worth evaluating GraphQL and the benefits it provides over similar technologies like REST.</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/23/8/15/1/authentication-vs-authorization.jpg" alt="Authentication vs. Authorization" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/authentication-vs-authorization" target="_blank">Authentication vs. Authorization</a></h3>
                     <p>Dive into the intricacies of authentication vs. authorization and learn how these security measures work in tandem to safeguard systems.</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/21/10/20/4/frontend-performance-kpis.jpg" alt="Frontend Performance - Measuring & KPIs" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/frontend-performance-measuring-and-kpis" target="_blank">Frontend Performance - Measuring &amp; KPIs</a></h3>
-                    <p>Frontend performance really matters for user experience, conversion, ad placements, and of course, good old SEO. To build fast websites, you need to have the performance metrics and KPIs defined.</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -55,7 +55,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/images/650_developer_comics_conferelicious.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/images/650_developer_comics_conferelicious.jpg" height="250" alt="Conferelicious!"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/21/10/22/1/developer_comics_a_specific_description.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/21/10/22/1/developer_comics_a_specific_description.jpg" height="250" alt="A Specific Description"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -91,6 +91,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2023--10--17 01:01:54-green?style=flat-square&labelColor=black' alt='Generated on 2023--10--17 01:01:54'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2023--10--18 01:01:54-green?style=flat-square&labelColor=black' alt='Generated on 2023--10--18 01:01:54'/>
 
 
