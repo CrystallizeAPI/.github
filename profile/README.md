@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/23/10/19/1/pim-platforms.jpg" alt="PIM Platforms" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/pim-platforms" target="_blank">PIM Platforms</a></h3>
+                <p>Choosing the right Product Information Management platform (PIM) is pivotal for decision-makers who prioritize adaptability and the future readiness of their tech stack.</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/23/1/17/1/ecommerce-business-models.jpg" alt="eCommerce Business Model" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/ecommerce-business-model" target="_blank">eCommerce Business Model</a></h3>
                 <p>While it all starts with your idea/product, the business model you choose serves as the bedrock of your eCommerce venture, dictating the operational dynamics, the value proposition to your customers, and the revenue streams that will fuel your growth.</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/23/10/5/6/fast-web-fonts.jpg" alt="Fast Web Fonts" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/fast-web-fonts" target="_blank">Fast Web Fonts</a></h3>
                 <p>Fonts are a crucial part of every app or website, and they play a significant role in <a href="https://crystallize.com/blog/frontend-performance-measuring-kpis">front-end performance</a>. However, making sure you have a fast web font is a practice usually overlooked.</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/23/9/27/2/product-storytelling.jpg" alt="Product Storytelling" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/product-storytelling" target="_blank">Product Storytelling</a></h3>
-                <p>At its core, product storytelling is the art of weaving a compelling narrative around a product or service. Instead of just listing features or benefits, you&#039;re engaging customers on a deeper, emotional level, offering them a story they can connect with.</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/23/9/27/2/product-storytelling.jpg" alt="Product Storytelling" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/product-storytelling" target="_blank">Product Storytelling</a></h3>
+                    <p>At its core, product storytelling is the art of weaving a compelling narrative around a product or service. Instead of just listing features or benefits, you&#039;re engaging customers on a deeper, emotional level, offering them a story they can connect with.</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/23/9/21/1/order-orchestration.jpg" alt="Order Orchestration" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/order-orchestration" target="_blank">Order Orchestration</a></h3>
                     <p>In the dynamic world of eCommerce, satisfying customer demands while managing operations efficiently is a juggling act. Ever wonder how successful online retailers manage it all? The secret sauce is <strong>order orchestration</strong>.</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/23/8/16/1/manage-roles-and-permissions.jpg" alt="Manage Roles and Permissions" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/manage-roles-and-permissions" target="_blank">Manage Roles and Permissions</a></h3>
                     <p>Reimagining roles and permissions is no easy task, but someone had to do it 😎</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/23/8/15/1/authentication-vs-authorization.jpg" alt="Authentication vs. Authorization" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/authentication-vs-authorization" target="_blank">Authentication vs. Authorization</a></h3>
-                    <p>Dive into the intricacies of authentication vs. authorization and learn how these security measures work in tandem to safeguard systems.</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -55,7 +55,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/22/8/5/1/crystallize_strip_subscription_to_hell_192.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/22/8/5/1/crystallize_strip_subscription_to_hell_192.jpg" height="250" alt="Subscription to Hell"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/21/8/19/2/developer_comics_it_is_all_relative.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/21/8/19/2/developer_comics_it_is_all_relative.jpg" height="250" alt="It&#39;s All Relative"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -91,6 +91,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2023--10--19 01:01:52-green?style=flat-square&labelColor=black' alt='Generated on 2023--10--19 01:01:52'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2023--10--20 01:01:49-green?style=flat-square&labelColor=black' alt='Generated on 2023--10--20 01:01:49'/>
 
 
