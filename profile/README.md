@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/21/10/20/4/frontend-performance-kpis.jpg" alt="Frontend Performance - Measuring & KPIs" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/frontend-performance-measuring-and-kpis" target="_blank">Frontend Performance - Measuring &amp; KPIs</a></h3>
+                <p>Frontend performance matters for user experience, conversion, ad placements, and good old SEO. To build fast websites, you need to have the performance metrics and KPIs defined, monitor, understand, and act upon them.</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/23/10/25/10/headless-commerce-stats-2024.png" alt="Headless Commerce Statistics" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/headless-commerce-statistics" target="_blank">Headless Commerce Statistics</a></h3>
                 <p>Headless Commerce statistics that you need to know in case you are planning to adopt the approach in 2024.</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/23/1/17/1/ecommerce-business-models.jpg" alt="eCommerce Business Model" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/ecommerce-business-model" target="_blank">eCommerce Business Model</a></h3>
                 <p>While it all starts with your idea/product, the business model you choose serves as the bedrock of your eCommerce venture, dictating the operational dynamics, the value proposition to your customers, and the revenue streams that will fuel your growth.</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/23/10/11/1/next-js-starter-install.jpg" alt="NextJS Starter Install" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/nextjs-starter-install" target="_blank">NextJS Starter Install</a></h3>
-                <p>Let&#039;s look at the many ways the NextJS eCommerce starter can be customized once installed. It&#039;s easier than you think.</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/23/10/11/1/next-js-starter-install.jpg" alt="NextJS Starter Install" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/nextjs-starter-install" target="_blank">NextJS Starter Install</a></h3>
+                    <p>Let&#039;s look at the many ways the NextJS eCommerce starter can be customized once installed. It&#039;s easier than you think.</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/23/10/5/6/fast-web-fonts.jpg" alt="Fast Web Fonts" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/fast-web-fonts" target="_blank">Fast Web Fonts</a></h3>
                     <p>Fonts are a crucial part of every app or website, and they play a significant role in <a href="https://crystallize.com/blog/frontend-performance-measuring-kpis">front-end performance</a>. However, making sure you have a fast web font is a practice usually overlooked.</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/23/8/29/1/nextjs-boilerplate.png" alt="NextJS Boilerplate Beginners Guide" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/nextjs-boilerplate-beginners-guide" target="_blank">NextJS Boilerplate Beginners Guide</a></h3>
                     <p>Getting started (or returning) to web development with React can be easier than you think.</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/23/8/23/1/choosing-an-ecommerce-platform.jpg" alt="Choosing eCommerce Platform" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/choosing-ecommerce-platform" target="_blank">Choosing eCommerce Platform</a></h3>
-                    <p>Choosing the best eCommerce platform is one of the most important decisions you must make at the very start of your eCommerce journey if you want to have a jaw-dropping, money-making storefront.</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -55,7 +55,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/22/7/29/1/crystallize_strip_commitment_issues_191.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/22/7/29/1/crystallize_strip_commitment_issues_191.jpg" height="250" alt="Commitment Issues"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/22/3/4/1/crystallize_strip_hr_recruiter_flubs_the_lingo_172.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/22/3/4/1/crystallize_strip_hr_recruiter_flubs_the_lingo_172.jpg" height="250" alt="HR Recruiter Flubs the Lingo"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -91,6 +91,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2023--10--26 01:01:52-green?style=flat-square&labelColor=black' alt='Generated on 2023--10--26 01:01:52'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2023--10--27 01:01:51-green?style=flat-square&labelColor=black' alt='Generated on 2023--10--27 01:01:51'/>
 
 
