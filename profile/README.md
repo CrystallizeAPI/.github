@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/23/10/31/3/dounut-sveltekit-boilerplate.png" alt="Building eCommerce with SvelteKit" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/building-ecommerce-with-sveltekit" target="_blank">Building eCommerce with SvelteKit</a></h3>
+                <p>eCommerce storefront with SvelteKit, Houdini, Tailwind, and Crystallize. It’s easier than you think.</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/21/10/20/4/frontend-performance-kpis.jpg" alt="Frontend Performance - Measuring & KPIs" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/frontend-performance-measuring-and-kpis" target="_blank">Frontend Performance - Measuring &amp; KPIs</a></h3>
                 <p>Frontend performance matters for user experience, conversion, ad placements, and good old SEO. To build fast websites, you need to have the performance metrics and KPIs defined, monitor, understand, and act upon them.</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/23/10/19/1/pim-platforms.jpg" alt="PIM Platforms" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/pim-platforms" target="_blank">PIM Platforms</a></h3>
                 <p>Choosing the right Product Information Management platform (PIM) is pivotal for decision-makers who prioritize adaptability and the future readiness of their tech stack.</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/23/1/17/1/ecommerce-business-models.jpg" alt="eCommerce Business Model" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/ecommerce-business-model" target="_blank">eCommerce Business Model</a></h3>
-                <p>While it all starts with your idea/product, the business model you choose serves as the bedrock of your eCommerce venture, dictating the operational dynamics, the value proposition to your customers, and the revenue streams that will fuel your growth.</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/23/1/17/1/ecommerce-business-models.jpg" alt="eCommerce Business Model" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/ecommerce-business-model" target="_blank">eCommerce Business Model</a></h3>
+                    <p>While it all starts with your idea/product, the business model you choose serves as the bedrock of your eCommerce venture, dictating the operational dynamics, the value proposition to your customers, and the revenue streams that will fuel your growth.</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/23/10/11/1/next-js-starter-install.jpg" alt="NextJS Starter Install" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/nextjs-starter-install" target="_blank">NextJS Starter Install</a></h3>
                     <p>Let&#039;s look at the many ways the NextJS eCommerce starter can be customized once installed. It&#039;s easier than you think.</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/23/9/6/1/structured-content.jpg" alt="Structured Content" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/structured-content" target="_blank">Structured Content</a></h3>
                     <p>Structured content is the backbone of a successful website that allows you to do MORE with content, so it’s kind of surprising that it is still a bit too rare out in the wild🤔</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/23/8/29/1/nextjs-boilerplate.png" alt="NextJS Boilerplate Beginners Guide" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/nextjs-boilerplate-beginners-guide" target="_blank">NextJS Boilerplate Beginners Guide</a></h3>
-                    <p>Getting started (or returning) to web development with React can be easier than you think.</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -55,7 +55,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/20/1/31/1/developer_comics_forewarned_is_forearmed.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/20/1/31/1/developer_comics_forewarned_is_forearmed.jpg" height="250" alt="Forewarned Is Forearmed"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/23/3/31/5/crystallize_strip_freezing_computer_221.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/23/3/31/5/crystallize_strip_freezing_computer_221.jpg" height="250" alt="Freezing Computer"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -91,6 +91,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2023--10--31 01:01:51-green?style=flat-square&labelColor=black' alt='Generated on 2023--10--31 01:01:51'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2023--11--01 01:02:08-green?style=flat-square&labelColor=black' alt='Generated on 2023--11--01 01:02:08'/>
 
 
