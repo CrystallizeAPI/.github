@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/23/11/8/1/next-js-vs-remix-run.png" alt="NextJS vs. Remix" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/nextjs-vs-remix" target="_blank">NextJS vs. Remix</a></h3>
+                <p>At the forefront of modern web development are Next.js and Remix.run, two formidable frameworks intricately built on the React library, embodying a convergence of innovation and ease of use.</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/23/10/31/3/dounut-sveltekit-boilerplate.png" alt="Building eCommerce with SvelteKit" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/building-ecommerce-with-sveltekit" target="_blank">Building eCommerce with SvelteKit</a></h3>
                 <p>eCommerce storefront with SvelteKit, Houdini, Tailwind, and Crystallize. It’s easier than you think.</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/23/10/25/10/headless-commerce-stats-2024.png" alt="Headless Commerce Statistics" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/headless-commerce-statistics" target="_blank">Headless Commerce Statistics</a></h3>
                 <p>Headless Commerce statistics that you need to know in case you are planning to adopt the approach in 2024.</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/23/10/19/1/pim-platforms.jpg" alt="PIM Platforms" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/pim-platforms" target="_blank">PIM Platforms</a></h3>
-                <p>Choosing the right Product Information Management platform (PIM) is pivotal for decision-makers who prioritize adaptability and the future readiness of their tech stack.</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/23/10/19/1/pim-platforms.jpg" alt="PIM Platforms" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/pim-platforms" target="_blank">PIM Platforms</a></h3>
+                    <p>Choosing the right Product Information Management platform (PIM) is pivotal for decision-makers who prioritize adaptability and the future readiness of their tech stack.</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/23/1/17/1/ecommerce-business-models.jpg" alt="eCommerce Business Model" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/ecommerce-business-model" target="_blank">eCommerce Business Model</a></h3>
                     <p>While it all starts with your idea/product, the business model you choose serves as the bedrock of your eCommerce venture, dictating the operational dynamics, the value proposition to your customers, and the revenue streams that will fuel your growth.</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/23/9/13/2/benefits-of-graphql.jpg" alt="Benefits of Using GraphQL" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/benefits-of-using-graphql" target="_blank">Benefits of Using GraphQL</a></h3>
                     <p>Whether you’re designing a new eCommerce platform or looking to upgrade an existing monolith application, it’s worth evaluating GraphQL and the benefits it provides over similar technologies like REST.</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/23/9/6/1/structured-content.jpg" alt="Structured Content" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/structured-content" target="_blank">Structured Content</a></h3>
-                    <p>Structured content is the backbone of a successful website that allows you to do MORE with content, so it’s kind of surprising that it is still a bit too rare out in the wild🤔</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -55,7 +55,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/22/11/11/1/crystallize_strip_talkin_qwerty_206.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/22/11/11/1/crystallize_strip_talkin_qwerty_206.jpg" height="250" alt="Talkin&#39; Qwerty"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/23/7/7/1/crystallize_strip_hard_twerk_228.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/23/7/7/1/crystallize_strip_hard_twerk_228.jpg" height="250" alt="Hard Twerk"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -91,6 +91,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2023--11--08 01:01:52-green?style=flat-square&labelColor=black' alt='Generated on 2023--11--08 01:01:52'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2023--11--09 01:02:10-green?style=flat-square&labelColor=black' alt='Generated on 2023--11--09 01:02:10'/>
 
 
