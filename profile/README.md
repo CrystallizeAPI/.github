@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/23/11/15/1/sweef-case-study.jpg" alt="Sweef Case Study" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/sweef-case-study" target="_blank">Sweef Case Study</a></h3>
+                <p>Enriching online shopping experience amidst a challenging furniture market with Next.js and Crystallize.</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/23/11/8/1/next-js-vs-remix-run.png" alt="NextJS vs. Remix" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/nextjs-vs-remix" target="_blank">NextJS vs. Remix</a></h3>
                 <p>At the forefront of modern web development are Next.js and Remix.run, two formidable frameworks intricately built on the React library, embodying a convergence of innovation and ease of use.</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/21/10/20/4/frontend-performance-kpis.jpg" alt="Frontend Performance - Measuring & KPIs" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/frontend-performance-measuring-and-kpis" target="_blank">Frontend Performance - Measuring &amp; KPIs</a></h3>
                 <p>Frontend performance matters for user experience, conversion, ad placements, and good old SEO. To build fast websites, you need to have the performance metrics and KPIs defined, monitor, understand, and act upon them.</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/23/10/25/10/headless-commerce-stats-2024.png" alt="Headless Commerce Statistics" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/headless-commerce-statistics" target="_blank">Headless Commerce Statistics</a></h3>
-                <p>Headless Commerce statistics that you need to know in case you are planning to adopt the approach in 2024.</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/23/10/25/10/headless-commerce-stats-2024.png" alt="Headless Commerce Statistics" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/headless-commerce-statistics" target="_blank">Headless Commerce Statistics</a></h3>
+                    <p>Headless Commerce statistics that you need to know in case you are planning to adopt the approach in 2024.</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/23/10/19/1/pim-platforms.jpg" alt="PIM Platforms" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/pim-platforms" target="_blank">PIM Platforms</a></h3>
                     <p>Choosing the right Product Information Management platform (PIM) is pivotal for decision-makers who prioritize adaptability and the future readiness of their tech stack.</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/23/9/21/1/order-orchestration.jpg" alt="Order Orchestration" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/order-orchestration" target="_blank">Order Orchestration</a></h3>
                     <p>In the dynamic world of eCommerce, satisfying customer demands while managing operations efficiently is a juggling act. Ever wonder how successful online retailers manage it all? The secret sauce is <strong>order orchestration</strong>.</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/23/9/13/2/benefits-of-graphql.jpg" alt="Benefits of Using GraphQL" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/benefits-of-using-graphql" target="_blank">Benefits of Using GraphQL</a></h3>
-                    <p>Whether you’re designing a new eCommerce platform or looking to upgrade an existing monolith application, it’s worth evaluating GraphQL and the benefits it provides over similar technologies like REST.</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -55,7 +55,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/19/9/13/3/developer_comics_orange_is_the_new_yuck.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/19/9/13/3/developer_comics_orange_is_the_new_yuck.jpg" height="250" alt="Can&#39;t Touch This"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/20/1/17/3/developer_comics_the_professional.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/20/1/17/3/developer_comics_the_professional.jpg" height="250" alt="The Professional"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -91,6 +91,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2023--11--15 01:02:06-green?style=flat-square&labelColor=black' alt='Generated on 2023--11--15 01:02:06'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2023--11--16 01:02:02-green?style=flat-square&labelColor=black' alt='Generated on 2023--11--16 01:02:02'/>
 
 
