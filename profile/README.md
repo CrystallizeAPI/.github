@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/23/11/24/1/brand-loyaltists.jpg" alt="How to Turn Shoppers into Brand Loyalists?" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/how-to-turn-shoppers-into-brand-loyalists" target="_blank">How to Turn Shoppers into Brand Loyalists?</a></h3>
+                <p>Turning shoppers into loyalists is all about building genuine connections, delivering kick-ass quality, and standing out in a way that resonates with them. Easier said than done, right?</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/23/11/15/1/sweef-case-study.jpg" alt="Sweef Case Study" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/sweef-case-study" target="_blank">Sweef Case Study</a></h3>
                 <p>Enriching online shopping experience amidst a challenging furniture market with Next.js and Crystallize.</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/23/10/31/3/dounut-sveltekit-boilerplate.png" alt="Building eCommerce with SvelteKit" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/building-ecommerce-with-sveltekit" target="_blank">Building eCommerce with SvelteKit</a></h3>
                 <p>eCommerce storefront with SvelteKit, Houdini, Tailwind, and Crystallize. It’s easier than you think.</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/21/10/20/4/frontend-performance-kpis.jpg" alt="Frontend Performance - Measuring & KPIs" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/frontend-performance-measuring-and-kpis" target="_blank">Frontend Performance - Measuring &amp; KPIs</a></h3>
-                <p>Frontend performance matters for user experience, conversion, ad placements, and good old SEO. To build fast websites, you need to have the performance metrics and KPIs defined, monitor, understand, and act upon them.</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/21/10/20/4/frontend-performance-kpis.jpg" alt="Frontend Performance - Measuring & KPIs" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/frontend-performance-measuring-and-kpis" target="_blank">Frontend Performance - Measuring &amp; KPIs</a></h3>
+                    <p>Frontend performance matters for user experience, conversion, ad placements, and good old SEO. To build fast websites, you need to have the performance metrics and KPIs defined, monitor, understand, and act upon them.</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/23/10/25/10/headless-commerce-stats-2024.png" alt="Headless Commerce Statistics" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/headless-commerce-statistics" target="_blank">Headless Commerce Statistics</a></h3>
                     <p>Headless Commerce statistics that you need to know in case you are planning to adopt the approach in 2024.</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/23/9/27/2/product-storytelling.jpg" alt="Product Storytelling" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/product-storytelling" target="_blank">Product Storytelling</a></h3>
                     <p>At its core, product storytelling is the art of weaving a compelling narrative around a product or service. Instead of just listing features or benefits, you&#039;re engaging customers on a deeper, emotional level, offering them a story they can connect with.</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/23/9/21/1/order-orchestration.jpg" alt="Order Orchestration" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/order-orchestration" target="_blank">Order Orchestration</a></h3>
-                    <p>In the dynamic world of eCommerce, satisfying customer demands while managing operations efficiently is a juggling act. Ever wonder how successful online retailers manage it all? The secret sauce is <strong>order orchestration</strong>.</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -55,7 +55,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/images/603_developer_comics_server_timings.png" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/images/603_developer_comics_server_timings.png" height="250" alt="Server Timings"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/20/1/31/1/developer_comics_forewarned_is_forearmed.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/20/1/31/1/developer_comics_forewarned_is_forearmed.jpg" height="250" alt="Forewarned Is Forearmed"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -91,6 +91,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2023--11--24 01:01:54-green?style=flat-square&labelColor=black' alt='Generated on 2023--11--24 01:01:54'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2023--11--25 01:01:53-green?style=flat-square&labelColor=black' alt='Generated on 2023--11--25 01:01:53'/>
 
 
