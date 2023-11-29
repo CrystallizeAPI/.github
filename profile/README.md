@@ -9,20 +9,26 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/21/10/19/9/headless-commerce.jpg" alt="Headless Commerce" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/headless-commerce" target="_blank">Headless Commerce</a></h3>
+                <p>Headless commerce is transforming the eCommerce landscape. It&#039;s a paradigm shift that offers unprecedented flexibility, scalability, and customization for businesses while improving the customer experience.</p>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/23/11/28/1/next-js-vs-gatsby.png" alt="Gatsby Vs Next" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/gatsby-vs-next" target="_blank">Gatsby Vs Next</a></h3>
+                <p>Next.js vs Gatsby, what to choose? A couple of years back, this was the main question for many developers. What about today?</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/23/11/24/1/brand-loyaltists.jpg" alt="How to Turn Shoppers into Brand Loyalists?" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/how-to-turn-shoppers-into-brand-loyalists" target="_blank">How to Turn Shoppers into Brand Loyalists?</a></h3>
                 <p>Turning shoppers into loyalists is all about building genuine connections, delivering kick-ass quality, and standing out in a way that resonates with them. Easier said than done, right?</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/23/11/15/1/sweef-case-study.jpg" alt="Sweef Case Study" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/sweef-case-study" target="_blank">Sweef Case Study</a></h3>
                 <p>Enriching online shopping experience amidst a challenging furniture market with Next.js and Crystallize.</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/23/11/8/1/next-js-vs-remix-run.png" alt="NextJS vs. Remix" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/nextjs-vs-remix" target="_blank">NextJS vs. Remix</a></h3>
-                <p>At the forefront of modern web development are Next.js and Remix.run, two formidable frameworks intricately built on the React library, embodying a convergence of innovation and ease of use.</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/23/10/31/3/dounut-sveltekit-boilerplate.png" alt="Building eCommerce with SvelteKit" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/building-ecommerce-with-sveltekit" target="_blank">Building eCommerce with SvelteKit</a></h3>
-                <p>eCommerce storefront with SvelteKit, Houdini, Tailwind, and Crystallize. It’s easier than you think.</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/23/11/8/1/next-js-vs-remix-run.png" alt="NextJS vs. Remix" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/nextjs-vs-remix" target="_blank">NextJS vs. Remix</a></h3>
+                    <p>At the forefront of modern web development are Next.js and Remix.run, two formidable frameworks intricately built on the React library, embodying a convergence of innovation and ease of use.</p>
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/23/10/31/3/dounut-sveltekit-boilerplate.png" alt="Building eCommerce with SvelteKit" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/building-ecommerce-with-sveltekit" target="_blank">Building eCommerce with SvelteKit</a></h3>
+                    <p>eCommerce storefront with SvelteKit, Houdini, Tailwind, and Crystallize. It’s easier than you think.</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/21/10/20/4/frontend-performance-kpis.jpg" alt="Frontend Performance - Measuring & KPIs" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/frontend-performance-measuring-and-kpis" target="_blank">Frontend Performance - Measuring &amp; KPIs</a></h3>
                     <p>Frontend performance matters for user experience, conversion, ad placements, and good old SEO. To build fast websites, you need to have the performance metrics and KPIs defined, monitor, understand, and act upon them.</p>
@@ -38,12 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/23/10/11/1/next-js-starter-install.jpg" alt="NextJS Starter Install" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/nextjs-starter-install" target="_blank">NextJS Starter Install</a></h3>
                     <p>Let&#039;s look at the many ways the NextJS eCommerce starter can be customized once installed. It&#039;s easier than you think.</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/23/10/5/6/fast-web-fonts.jpg" alt="Fast Web Fonts" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/fast-web-fonts" target="_blank">Fast Web Fonts</a></h3>
-                    <p>Fonts are a crucial part of every app or website, and they play a significant role in <a href="https://crystallize.com/blog/frontend-performance-measuring-kpis">front-end performance</a>. However, making sure you have a fast web font is a practice usually overlooked.</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/23/9/27/2/product-storytelling.jpg" alt="Product Storytelling" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/product-storytelling" target="_blank">Product Storytelling</a></h3>
-                    <p>At its core, product storytelling is the art of weaving a compelling narrative around a product or service. Instead of just listing features or benefits, you&#039;re engaging customers on a deeper, emotional level, offering them a story they can connect with.</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -55,7 +55,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/images/410_crystallize_strip_08.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/images/410_crystallize_strip_08.jpg" height="250" alt="Home Office"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/21/12/17/1/developer_comics_taking_a_break_162.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/21/12/17/1/developer_comics_taking_a_break_162.jpg" height="250" alt="Taking a Break"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -91,6 +91,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2023--11--28 01:02:03-green?style=flat-square&labelColor=black' alt='Generated on 2023--11--28 01:02:03'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2023--11--29 01:02:04-green?style=flat-square&labelColor=black' alt='Generated on 2023--11--29 01:02:04'/>
 
 
