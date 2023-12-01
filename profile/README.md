@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/23/11/30/1/ai-powered-translation-app.jpg" alt="ChatGPT Translation App" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/chatgpt-translation-app" target="_blank">ChatGPT Translation App</a></h3>
+                <p>Crystallize has just launched an AI-powered translation app that will make your website look and read flawlessly in any language, ensuring your customers have a delightful eCommerce experience.</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/21/10/19/9/headless-commerce.jpg" alt="Headless Commerce" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/headless-commerce" target="_blank">Headless Commerce</a></h3>
                 <p>Headless commerce is transforming the eCommerce landscape. It&#039;s a paradigm shift that offers unprecedented flexibility, scalability, and customization for businesses while improving the customer experience.</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/23/11/24/1/brand-loyaltists.jpg" alt="How to Turn Shoppers into Brand Loyalists?" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/how-to-turn-shoppers-into-brand-loyalists" target="_blank">How to Turn Shoppers into Brand Loyalists?</a></h3>
                 <p>Turning shoppers into loyalists is all about building genuine connections, delivering kick-ass quality, and standing out in a way that resonates with them. Easier said than done, right?</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/23/11/15/1/sweef-case-study.jpg" alt="Sweef Case Study" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/sweef-case-study" target="_blank">Sweef Case Study</a></h3>
-                <p>Enriching online shopping experience amidst a challenging furniture market with Next.js and Crystallize.</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/23/11/15/1/sweef-case-study.jpg" alt="Sweef Case Study" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/sweef-case-study" target="_blank">Sweef Case Study</a></h3>
+                    <p>Enriching online shopping experience amidst a challenging furniture market with Next.js and Crystallize.</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/23/11/8/1/next-js-vs-remix-run.png" alt="NextJS vs. Remix" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/nextjs-vs-remix" target="_blank">NextJS vs. Remix</a></h3>
                     <p>At the forefront of modern web development are Next.js and Remix.run, two formidable frameworks intricately built on the React library, embodying a convergence of innovation and ease of use.</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/23/1/17/1/ecommerce-business-models.jpg" alt="eCommerce Business Model" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/ecommerce-business-model" target="_blank">eCommerce Business Model</a></h3>
                     <p>While it all starts with your idea/product, the business model you choose serves as the bedrock of your eCommerce venture, dictating the operational dynamics, the value proposition to your customers, and the revenue streams that will fuel your growth.</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/23/10/11/1/next-js-starter-install.jpg" alt="NextJS Starter Install" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/nextjs-starter-install" target="_blank">NextJS Starter Install</a></h3>
-                    <p>Let&#039;s look at the many ways the NextJS eCommerce starter can be customized once installed. It&#039;s easier than you think.</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -55,7 +55,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/21/11/5/1/developer_comics_online_recrutation_is_fun.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/21/11/5/1/developer_comics_online_recrutation_is_fun.jpg" height="250" alt="Online Recrutation Experience"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/22/4/8/1/crystallize_strip_rendering_options_with_react_177.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/22/4/8/1/crystallize_strip_rendering_options_with_react_177.jpg" height="250" alt="Rendering Options"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -91,6 +91,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2023--11--30 01:02:03-green?style=flat-square&labelColor=black' alt='Generated on 2023--11--30 01:02:03'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2023--12--01 01:02:25-green?style=flat-square&labelColor=black' alt='Generated on 2023--12--01 01:02:25'/>
 
 
