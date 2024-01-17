@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/22/4/5/1/composable-commerce.png" alt="Composable Commerce" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/composable-commerce" target="_blank">Composable Commerce</a></h3>
+                <p>Composable Commerce represents a paradigm shift in eCommerce architecture, fundamentally redefining how businesses approach their online shopping experiences. </p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/23/12/6/1/topic-maps-101.jpg" alt="Topic Maps 101" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/topic-maps-101" target="_blank">Topic Maps 101</a></h3>
                 <p>Topic maps are an ISO standard in the information management space to bundle data and the meaning of that data together. Wait, what does that even mean? Let&#039;s explain it.</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/21/10/19/9/headless-commerce.jpg" alt="Headless Commerce" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/headless-commerce" target="_blank">Headless Commerce</a></h3>
                 <p>Headless commerce is transforming the eCommerce landscape. It&#039;s a paradigm shift that offers unprecedented flexibility, scalability, and customization for businesses while improving the customer experience.</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/23/11/28/1/next-js-vs-gatsby.png" alt="Gatsby Vs Next" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/gatsby-vs-next" target="_blank">Gatsby Vs Next</a></h3>
-                <p>Next.js vs Gatsby, what to choose? A couple of years back, this was the main question for many developers. What about today?</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/23/11/28/1/next-js-vs-gatsby.png" alt="Gatsby Vs Next" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/gatsby-vs-next" target="_blank">Gatsby Vs Next</a></h3>
+                    <p>Next.js vs Gatsby, what to choose? A couple of years back, this was the main question for many developers. What about today?</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/23/11/24/1/brand-loyaltists.jpg" alt="How to Turn Shoppers into Brand Loyalists?" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/how-to-turn-shoppers-into-brand-loyalists" target="_blank">How to Turn Shoppers into Brand Loyalists?</a></h3>
                     <p>Turning shoppers into loyalists is all about building genuine connections, delivering kick-ass quality, and standing out in a way that resonates with them. Easier said than done, right?</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/23/10/25/10/headless-commerce-stats-2024.png" alt="Headless Commerce Statistics" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/headless-commerce-statistics" target="_blank">Headless Commerce Statistics</a></h3>
                     <p>Headless Commerce statistics that you need to know in case you are planning to adopt the approach in 2024.</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/23/10/19/1/pim-platforms.jpg" alt="PIM Platforms" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/pim-platforms" target="_blank">PIM Platforms</a></h3>
-                    <p>Choosing the right Product Information Management platform (PIM) is pivotal for decision-makers who prioritize adaptability and the future readiness of their tech stack.</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -55,7 +55,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/20/7/1/1/developer_comics_thinking_outside_the_box.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/20/7/1/1/developer_comics_thinking_outside_the_box.jpg" height="250" alt="Outside The Box"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/21/12/3/1/developer_comics_developers_date.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/21/12/3/1/developer_comics_developers_date.jpg" height="250" alt="Developers Date"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -91,6 +91,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2024--01--16 01:02:10-green?style=flat-square&labelColor=black' alt='Generated on 2024--01--16 01:02:10'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2024--01--17 01:02:07-green?style=flat-square&labelColor=black' alt='Generated on 2024--01--17 01:02:07'/>
 
 
