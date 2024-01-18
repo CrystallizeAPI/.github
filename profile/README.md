@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/24/1/17/1/3d-ecommerce-product-configurator.png" alt="3D eCommerce Product Configurator" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/3d-ecommerce-product-configurator" target="_blank">3D eCommerce Product Configurator</a></h3>
+                <p>Enabling customers to view products and customize them based on their preferences is no longer a fancy tool in your online store; it is a necessity that boosts customer engagement and drives sales. And we have a perfect solution for you.</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/4/5/1/composable-commerce.png" alt="Composable Commerce" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/composable-commerce" target="_blank">Composable Commerce</a></h3>
                 <p>Composable Commerce represents a paradigm shift in eCommerce architecture, fundamentally redefining how businesses approach their online shopping experiences. </p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/23/11/30/1/ai-powered-translation-app.jpg" alt="ChatGPT Translation App" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/chatgpt-translation-app" target="_blank">ChatGPT Translation App</a></h3>
                 <p>Crystallize has just launched an AI-powered translation app that will make your website look and read flawlessly in any language, ensuring your customers have a delightful eCommerce experience.</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/21/10/19/9/headless-commerce.jpg" alt="Headless Commerce" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/headless-commerce" target="_blank">Headless Commerce</a></h3>
-                <p>Headless commerce is transforming the eCommerce landscape. It&#039;s a paradigm shift that offers unprecedented flexibility, scalability, and customization for businesses while improving the customer experience.</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/21/10/19/9/headless-commerce.jpg" alt="Headless Commerce" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/headless-commerce" target="_blank">Headless Commerce</a></h3>
+                    <p>Headless commerce is transforming the eCommerce landscape. It&#039;s a paradigm shift that offers unprecedented flexibility, scalability, and customization for businesses while improving the customer experience.</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/23/11/28/1/next-js-vs-gatsby.png" alt="Gatsby Vs Next" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/gatsby-vs-next" target="_blank">Gatsby Vs Next</a></h3>
                     <p>Next.js vs Gatsby, what to choose? A couple of years back, this was the main question for many developers. What about today?</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/21/10/20/4/frontend-performance-kpis.jpg" alt="Frontend Performance - Measuring & KPIs" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/frontend-performance-measuring-and-kpis" target="_blank">Frontend Performance - Measuring &amp; KPIs</a></h3>
                     <p>Frontend performance matters for user experience, conversion, ad placements, and good old SEO. To build fast websites, you need to have the performance metrics and KPIs defined, monitor, understand, and act upon them.</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/23/10/25/10/headless-commerce-stats-2024.png" alt="Headless Commerce Statistics" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/headless-commerce-statistics" target="_blank">Headless Commerce Statistics</a></h3>
-                    <p>Headless Commerce statistics that you need to know in case you are planning to adopt the approach in 2024.</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -55,7 +55,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/21/12/3/1/developer_comics_developers_date.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/21/12/3/1/developer_comics_developers_date.jpg" height="250" alt="Developers Date"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/20/5/8/6/developer_comics_right_in_the_spot.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/20/5/8/6/developer_comics_right_in_the_spot.jpg" height="250" alt="Right In The Spot"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -91,6 +91,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2024--01--17 01:02:07-green?style=flat-square&labelColor=black' alt='Generated on 2024--01--17 01:02:07'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2024--01--18 01:02:03-green?style=flat-square&labelColor=black' alt='Generated on 2024--01--18 01:02:03'/>
 
 
