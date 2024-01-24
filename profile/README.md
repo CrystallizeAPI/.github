@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/22/6/8/1/api-vs-microservices.png" alt="APIs vs Microservices" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/apis-vs-microservices" target="_blank">APIs vs Microservices</a></h3>
+                <p>You&#039;ve probably heard the terms APIs, and Microservices used when talking about web development. What are they? How do you use them, and what is the difference between them?</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/24/1/17/1/3d-ecommerce-product-configurator.png" alt="3D eCommerce Product Configurator" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/3d-ecommerce-product-configurator" target="_blank">3D eCommerce Product Configurator</a></h3>
                 <p>Enabling customers to view products and customize them based on their preferences is no longer a fancy tool in your online store; it is a necessity that boosts customer engagement and drives sales. And we have a perfect solution for you.</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/23/12/6/1/topic-maps-101.jpg" alt="Topic Maps 101" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/topic-maps-101" target="_blank">Topic Maps 101</a></h3>
                 <p>Topic maps are an ISO standard in the information management space to bundle data and the meaning of that data together. Wait, what does that even mean? Let&#039;s explain it.</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/23/11/30/1/ai-powered-translation-app.jpg" alt="ChatGPT Translation App" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/chatgpt-translation-app" target="_blank">ChatGPT Translation App</a></h3>
-                <p>Crystallize has just launched an AI-powered translation app that will make your website look and read flawlessly in any language, ensuring your customers have a delightful eCommerce experience.</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/23/11/30/1/ai-powered-translation-app.jpg" alt="ChatGPT Translation App" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/chatgpt-translation-app" target="_blank">ChatGPT Translation App</a></h3>
+                    <p>Crystallize has just launched an AI-powered translation app that will make your website look and read flawlessly in any language, ensuring your customers have a delightful eCommerce experience.</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/21/10/19/9/headless-commerce.jpg" alt="Headless Commerce" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/headless-commerce" target="_blank">Headless Commerce</a></h3>
                     <p>Headless commerce is transforming the eCommerce landscape. It&#039;s a paradigm shift that offers unprecedented flexibility, scalability, and customization for businesses while improving the customer experience.</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/23/10/31/3/dounut-sveltekit-boilerplate.png" alt="Building eCommerce with SvelteKit" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/building-ecommerce-with-sveltekit" target="_blank">Building eCommerce with SvelteKit</a></h3>
                     <p>eCommerce storefront with SvelteKit, Houdini, Tailwind, and Crystallize. It’s easier than you think.</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/21/10/20/4/frontend-performance-kpis.jpg" alt="Frontend Performance - Measuring & KPIs" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/frontend-performance-measuring-and-kpis" target="_blank">Frontend Performance - Measuring &amp; KPIs</a></h3>
-                    <p>Frontend performance matters for user experience, conversion, ad placements, and good old SEO. To build fast websites, you need to have the performance metrics and KPIs defined, monitor, understand, and act upon them.</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -55,7 +55,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/22/6/3/1/crystallize_strip_test_commit_messages_185.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/22/6/3/1/crystallize_strip_test_commit_messages_185.jpg" height="250" alt="Test Commit Messages"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/20/10/30/1/developer_comics_we_need_to_talk.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/20/10/30/1/developer_comics_we_need_to_talk.jpg" height="250" alt="We Need To Talk"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -91,6 +91,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2024--01--23 01:02:12-green?style=flat-square&labelColor=black' alt='Generated on 2024--01--23 01:02:12'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2024--01--24 01:02:21-green?style=flat-square&labelColor=black' alt='Generated on 2024--01--24 01:02:21'/>
 
 
