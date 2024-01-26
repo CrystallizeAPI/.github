@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/24/1/25/1/react_server_components.jpg" alt="React Server Components" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/react-server-components" target="_blank">React Server Components</a></h3>
+                <p>The announcement of React Server Components was a paradigm shift in the world of React. But what exactly is a React Server Component?</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/6/8/1/api-vs-microservices.png" alt="APIs vs Microservices" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/apis-vs-microservices" target="_blank">APIs vs Microservices</a></h3>
                 <p>You&#039;ve probably heard the terms APIs, and Microservices used when talking about web development. What are they? How do you use them, and what is the difference between them?</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/4/5/1/composable-commerce.png" alt="Composable Commerce" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/composable-commerce" target="_blank">Composable Commerce</a></h3>
                 <p>Composable Commerce represents a paradigm shift in eCommerce architecture, fundamentally redefining how businesses approach their online shopping experiences. </p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/23/12/6/1/topic-maps-101.jpg" alt="Topic Maps 101" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/topic-maps-101" target="_blank">Topic Maps 101</a></h3>
-                <p>Topic maps are an ISO standard in the information management space to bundle data and the meaning of that data together. Wait, what does that even mean? Let&#039;s explain it.</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/23/12/6/1/topic-maps-101.jpg" alt="Topic Maps 101" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/topic-maps-101" target="_blank">Topic Maps 101</a></h3>
+                    <p>Topic maps are an ISO standard in the information management space to bundle data and the meaning of that data together. Wait, what does that even mean? Let&#039;s explain it.</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/23/11/30/1/ai-powered-translation-app.jpg" alt="ChatGPT Translation App" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/chatgpt-translation-app" target="_blank">ChatGPT Translation App</a></h3>
                     <p>Crystallize has just launched an AI-powered translation app that will make your website look and read flawlessly in any language, ensuring your customers have a delightful eCommerce experience.</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/23/11/8/1/next-js-vs-remix-run.png" alt="NextJS vs. Remix" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/nextjs-vs-remix" target="_blank">NextJS vs. Remix</a></h3>
                     <p>At the forefront of modern web development are Next.js and Remix.run, two formidable frameworks intricately built on the React library, embodying a convergence of innovation and ease of use.</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/23/10/31/3/dounut-sveltekit-boilerplate.png" alt="Building eCommerce with SvelteKit" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/building-ecommerce-with-sveltekit" target="_blank">Building eCommerce with SvelteKit</a></h3>
-                    <p>eCommerce storefront with SvelteKit, Houdini, Tailwind, and Crystallize. It’s easier than you think.</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -55,7 +55,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/22/4/22/1/crystallize_strip_so_simple_179.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/22/4/22/1/crystallize_strip_so_simple_179.jpg" height="250" alt="So Simple!"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/22/4/29/3/crystallize_strip_developer_downtime_180.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/22/4/29/3/crystallize_strip_developer_downtime_180.jpg" height="250" alt="Developer Downtime"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -91,6 +91,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2024--01--25 01:02:12-green?style=flat-square&labelColor=black' alt='Generated on 2024--01--25 01:02:12'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2024--01--26 01:01:53-green?style=flat-square&labelColor=black' alt='Generated on 2024--01--26 01:01:53'/>
 
 
