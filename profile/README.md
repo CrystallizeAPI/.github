@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/24/1/30/1/get_started_with_crystallize.jpg" alt="Devs Get Started With Crystallize" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/devs-get-started-with-crystallize" target="_blank">Devs Get Started With Crystallize</a></h3>
+                <p>Whether you&#039;re a seasoned pro or a beginner developer, let&#039;s review the basic requirements for working with Crystallize.</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/24/1/25/1/react_server_components.jpg" alt="React Server Components" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/react-server-components" target="_blank">React Server Components</a></h3>
                 <p>The announcement of React Server Components was a paradigm shift in the world of React. But what exactly is a React Server Component?</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/24/1/17/1/3d-ecommerce-product-configurator.png" alt="3D eCommerce Product Configurator" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/3d-ecommerce-product-configurator" target="_blank">3D eCommerce Product Configurator</a></h3>
                 <p>Enabling customers to view products and customize them based on their preferences is no longer a fancy tool in your online store; it is a necessity that boosts customer engagement and drives sales. And we have a perfect solution for you.</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/22/4/5/1/composable-commerce.png" alt="Composable Commerce" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/composable-commerce" target="_blank">Composable Commerce</a></h3>
-                <p>Composable Commerce represents a paradigm shift in eCommerce architecture, fundamentally redefining how businesses approach their online shopping experiences. </p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/4/5/1/composable-commerce.png" alt="Composable Commerce" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/composable-commerce" target="_blank">Composable Commerce</a></h3>
+                    <p>Composable Commerce represents a paradigm shift in eCommerce architecture, fundamentally redefining how businesses approach their online shopping experiences. </p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/23/12/6/1/topic-maps-101.jpg" alt="Topic Maps 101" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/topic-maps-101" target="_blank">Topic Maps 101</a></h3>
                     <p>Topic maps are an ISO standard in the information management space to bundle data and the meaning of that data together. Wait, what does that even mean? Let&#039;s explain it.</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/23/11/15/1/sweef-case-study.jpg" alt="Sweef Case Study" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/sweef-case-study" target="_blank">Sweef Case Study</a></h3>
                     <p>Enriching online shopping experience amidst a challenging furniture market with Next.js and Crystallize.</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/23/11/8/1/next-js-vs-remix-run.png" alt="NextJS vs. Remix" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/nextjs-vs-remix" target="_blank">NextJS vs. Remix</a></h3>
-                    <p>At the forefront of modern web development are Next.js and Remix.run, two formidable frameworks intricately built on the React library, embodying a convergence of innovation and ease of use.</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -55,7 +55,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/19/9/13/6/developer_comics_breaking_the_ice.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/19/9/13/6/developer_comics_breaking_the_ice.jpg" height="250" alt="Breaking The Ice"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/21/12/24/1/developer_comics_can_you_estimate_this_163.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/21/12/24/1/developer_comics_can_you_estimate_this_163.jpg" height="250" alt="Can You Estimate This"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -91,6 +91,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2024--01--30 01:01:42-green?style=flat-square&labelColor=black' alt='Generated on 2024--01--30 01:01:42'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2024--01--31 01:01:51-green?style=flat-square&labelColor=black' alt='Generated on 2024--01--31 01:01:51'/>
 
 
