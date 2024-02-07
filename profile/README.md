@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/22/9/7/1/b2b-ecommerce.png" alt="B2B eCommerce" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/b2b-ecommerce" target="_blank">B2B eCommerce</a></h3>
+                <p>B2B commerce (business-to-business commerce) marks the online sale of services and/or goods between businesses, and it is nowhere near as talked about as B2C, which is strange considering that the B2B eCommerce market is over five times (5X) more valuable.</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/24/1/30/1/get_started_with_crystallize.jpg" alt="Devs Get Started With Crystallize" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/devs-get-started-with-crystallize" target="_blank">Devs Get Started With Crystallize</a></h3>
                 <p>Whether you&#039;re a seasoned pro or a beginner developer, let&#039;s review the basic requirements for working with Crystallize.</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/6/8/1/api-vs-microservices.png" alt="APIs vs Microservices" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/apis-vs-microservices" target="_blank">APIs vs Microservices</a></h3>
                 <p>You&#039;ve probably heard the terms APIs, and Microservices used when talking about web development. What are they? How do you use them, and what is the difference between them?</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/24/1/17/1/3d-ecommerce-product-configurator.png" alt="3D eCommerce Product Configurator" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/3d-ecommerce-product-configurator" target="_blank">3D eCommerce Product Configurator</a></h3>
-                <p>Enabling customers to view products and customize them based on their preferences is no longer a fancy tool in your online store; it is a necessity that boosts customer engagement and drives sales. And we have a perfect solution for you.</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/24/1/17/1/3d-ecommerce-product-configurator.png" alt="3D eCommerce Product Configurator" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/3d-ecommerce-product-configurator" target="_blank">3D eCommerce Product Configurator</a></h3>
+                    <p>Enabling customers to view products and customize them based on their preferences is no longer a fancy tool in your online store; it is a necessity that boosts customer engagement and drives sales. And we have a perfect solution for you.</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/4/5/1/composable-commerce.png" alt="Composable Commerce" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/composable-commerce" target="_blank">Composable Commerce</a></h3>
                     <p>Composable Commerce represents a paradigm shift in eCommerce architecture, fundamentally redefining how businesses approach their online shopping experiences. </p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/23/11/24/1/brand-loyaltists.jpg" alt="How to Turn Shoppers into Brand Loyalists?" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/how-to-turn-shoppers-into-brand-loyalists" target="_blank">How to Turn Shoppers into Brand Loyalists?</a></h3>
                     <p>Turning shoppers into loyalists is all about building genuine connections, delivering kick-ass quality, and standing out in a way that resonates with them. Easier said than done, right?</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/23/11/15/1/sweef-case-study.jpg" alt="Sweef Case Study" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/sweef-case-study" target="_blank">Sweef Case Study</a></h3>
-                    <p>Enriching online shopping experience amidst a challenging furniture market with Next.js and Crystallize.</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -55,7 +55,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/images/638_developer_comics_lazy_vs_lazy_loading.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/images/638_developer_comics_lazy_vs_lazy_loading.jpg" height="250" alt="Image, Please!"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/20/8/10/2/developer_comics_the_legacy_monster_a.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/20/8/10/2/developer_comics_the_legacy_monster_a.jpg" height="250" alt="The Legacy Monster"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -91,6 +91,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2024--02--06 01:01:45-green?style=flat-square&labelColor=black' alt='Generated on 2024--02--06 01:01:45'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2024--02--07 01:01:39-green?style=flat-square&labelColor=black' alt='Generated on 2024--02--07 01:01:39'/>
 
 
