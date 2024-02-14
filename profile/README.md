@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/24/2/13/3/checkout-flow.jpg" alt="Checkout Flow" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/checkout-flow" target="_blank">Checkout Flow</a></h3>
+                <p>With Crystallize APIs, you can simplify your workflows and improve user experience.</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/9/7/1/b2b-ecommerce.png" alt="B2B eCommerce" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/b2b-ecommerce" target="_blank">B2B eCommerce</a></h3>
                 <p>B2B commerce (business-to-business commerce) marks the online sale of services and/or goods between businesses, and it is nowhere near as talked about as B2C, which is strange considering that the B2B eCommerce market is over five times (5X) more valuable.</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/24/1/25/1/react_server_components.jpg" alt="React Server Components" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/react-server-components" target="_blank">React Server Components</a></h3>
                 <p>The announcement of React Server Components was a paradigm shift in the world of React. But what exactly is a React Server Component?</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/22/6/8/1/api-vs-microservices.png" alt="APIs vs Microservices" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/apis-vs-microservices" target="_blank">APIs vs Microservices</a></h3>
-                <p>You&#039;ve probably heard the terms APIs, and Microservices used when talking about web development. What are they? How do you use them, and what is the difference between them?</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/6/8/1/api-vs-microservices.png" alt="APIs vs Microservices" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/apis-vs-microservices" target="_blank">APIs vs Microservices</a></h3>
+                    <p>You&#039;ve probably heard the terms APIs, and Microservices used when talking about web development. What are they? How do you use them, and what is the difference between them?</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/24/1/17/1/3d-ecommerce-product-configurator.png" alt="3D eCommerce Product Configurator" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/3d-ecommerce-product-configurator" target="_blank">3D eCommerce Product Configurator</a></h3>
                     <p>Enabling customers to view products and customize them based on their preferences is no longer a fancy tool in your online store; it is a necessity that boosts customer engagement and drives sales. And we have a perfect solution for you.</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/23/11/28/1/next-js-vs-gatsby.png" alt="Gatsby Vs Next" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/gatsby-vs-next" target="_blank">Gatsby Vs Next</a></h3>
                     <p>Next.js vs Gatsby, what to choose? A couple of years back, this was the main question for many developers. What about today?</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/23/11/24/1/brand-loyaltists.jpg" alt="How to Turn Shoppers into Brand Loyalists?" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/how-to-turn-shoppers-into-brand-loyalists" target="_blank">How to Turn Shoppers into Brand Loyalists?</a></h3>
-                    <p>Turning shoppers into loyalists is all about building genuine connections, delivering kick-ass quality, and standing out in a way that resonates with them. Easier said than done, right?</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -55,7 +55,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/23/1/27/1/crystallize_strip_h_is_for_happiness_213.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/23/1/27/1/crystallize_strip_h_is_for_happiness_213.jpg" height="250" alt="H is for Happiness"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/20/6/19/2/developer_comics_the_one_with_the_jam_stack.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/20/6/19/2/developer_comics_the_one_with_the_jam_stack.jpg" height="250" alt="The One With The Jamstack"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -91,6 +91,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2024--02--13 01:01:46-green?style=flat-square&labelColor=black' alt='Generated on 2024--02--13 01:01:46'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2024--02--14 01:01:52-green?style=flat-square&labelColor=black' alt='Generated on 2024--02--14 01:01:52'/>
 
 
