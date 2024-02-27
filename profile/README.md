@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/24/2/26/1/dounut-astro-build-boilerplate.png" alt="Building eCommerce with Astro" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/building-ecommerce-with-astro" target="_blank">Building eCommerce with Astro</a></h3>
+                <p>Astro🚀 has been a hot topic since its release in June 2022, especially because it is extremely fast. So it was a no-brainer to choose which framework we should go with next for our series of minimal eCommerce boilerplates titled ‘<em>dounut</em>’.</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/24/2/20/1/drive-sales-boost-revenue.jpg" alt="eCommerce Marketing Strategies" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/ecommerce-marketing-strategies" target="_blank">eCommerce Marketing Strategies</a></h3>
                 <p>Having a reliable eCommerce marketing strategy helps drive success from the beginning of understanding your target audience to the nooks and crannies, such as the tech behind your storefront.</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/9/7/1/b2b-ecommerce.png" alt="B2B eCommerce" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/b2b-ecommerce" target="_blank">B2B eCommerce</a></h3>
                 <p>B2B commerce (business-to-business commerce) marks the online sale of services and/or goods between businesses, and it is nowhere near as talked about as B2C, which is strange considering that the B2B eCommerce market is over five times (5X) more valuable.</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/24/1/30/1/get_started_with_crystallize.jpg" alt="Devs Get Started With Crystallize" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/devs-get-started-with-crystallize" target="_blank">Devs Get Started With Crystallize</a></h3>
-                <p>Whether you&#039;re a seasoned pro or a beginner developer, let&#039;s review the basic requirements for working with Crystallize.</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/24/1/30/1/get_started_with_crystallize.jpg" alt="Devs Get Started With Crystallize" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/devs-get-started-with-crystallize" target="_blank">Devs Get Started With Crystallize</a></h3>
+                    <p>Whether you&#039;re a seasoned pro or a beginner developer, let&#039;s review the basic requirements for working with Crystallize.</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/24/1/25/1/react_server_components.jpg" alt="React Server Components" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/react-server-components" target="_blank">React Server Components</a></h3>
                     <p>The announcement of React Server Components was a paradigm shift in the world of React. But what exactly is a React Server Component?</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/23/11/30/1/ai-powered-translation-app.jpg" alt="ChatGPT Translation App" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/chatgpt-translation-app" target="_blank">ChatGPT Translation App</a></h3>
                     <p>Crystallize has just launched an AI-powered translation app that will make your website look and read flawlessly in any language, ensuring your customers have a delightful eCommerce experience.</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/21/10/19/9/headless-commerce.jpg" alt="Headless Commerce" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/headless-commerce" target="_blank">Headless Commerce</a></h3>
-                    <p>Headless commerce is transforming the eCommerce landscape. It&#039;s a paradigm shift that offers unprecedented flexibility, scalability, and customization for businesses while improving the customer experience.</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -55,7 +55,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/21/9/17/3/developer_comics_hello_world.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/21/9/17/3/developer_comics_hello_world.jpg" height="250" alt="Hello, World!"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/23/9/8/1/crystallize_strip__perfect__for_the_job_234.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/23/9/8/1/crystallize_strip__perfect__for_the_job_234.jpg" height="250" alt="Perfect for the Job"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -91,6 +91,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2024--02--26 01:02:21-green?style=flat-square&labelColor=black' alt='Generated on 2024--02--26 01:02:21'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2024--02--27 01:01:48-green?style=flat-square&labelColor=black' alt='Generated on 2024--02--27 01:01:48'/>
 
 
