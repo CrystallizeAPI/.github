@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/22/3/16/11/ecommerce-seo-utimate-guide-for-2022-crystallize.jpg" alt="eCommerce SEO Guide" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/ecommerce-seo-guide" target="_blank">eCommerce SEO Guide</a></h3>
+                <p>With Google having a clear bias towards big media publishers (<em>trustworthy, authority sites</em>) and thousands of mediocre AI content published daily, how do you fight for the top spots in search engine results in 2024?</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/24/3/5/1/serverless-ecommerce.jpg" alt="Serverless eCommerce" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/serverless-ecommerce" target="_blank">Serverless eCommerce</a></h3>
                 <p>Serverless computing is not a new concept; it is a paradigm that has redefined how eCommerce platforms are hosted and managed.</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/24/2/20/1/drive-sales-boost-revenue.jpg" alt="eCommerce Marketing Strategies" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/ecommerce-marketing-strategies" target="_blank">eCommerce Marketing Strategies</a></h3>
                 <p>Having a reliable eCommerce marketing strategy helps drive success from the beginning of understanding your target audience to the nooks and crannies, such as the tech behind your storefront.</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/24/2/13/3/checkout-flow.jpg" alt="Checkout Flow" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/checkout-flow" target="_blank">Checkout Flow</a></h3>
-                <p>With Crystallize APIs, you can simplify your workflows and improve user experience.</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/24/2/13/3/checkout-flow.jpg" alt="Checkout Flow" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/checkout-flow" target="_blank">Checkout Flow</a></h3>
+                    <p>With Crystallize APIs, you can simplify your workflows and improve user experience.</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/9/7/1/b2b-ecommerce.png" alt="B2B eCommerce" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/b2b-ecommerce" target="_blank">B2B eCommerce</a></h3>
                     <p>B2B commerce (business-to-business commerce) marks the online sale of services and/or goods between businesses, and it is nowhere near as talked about as B2C, which is strange considering that the B2B eCommerce market is over five times (5X) more valuable.</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/4/5/1/composable-commerce.png" alt="Composable Commerce" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/composable-commerce" target="_blank">Composable Commerce</a></h3>
                     <p>Composable Commerce represents a paradigm shift in eCommerce architecture, fundamentally redefining how businesses approach their online shopping experiences. </p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/23/12/6/1/topic-maps-101.jpg" alt="Topic Maps 101" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/topic-maps-101" target="_blank">Topic Maps 101</a></h3>
-                    <p>Topic maps are an ISO standard in the information management space to bundle data and the meaning of that data together. Wait, what does that even mean? Let&#039;s explain it.</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -55,7 +55,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/23/1/27/1/crystallize_strip_h_is_for_happiness_213.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/23/1/27/1/crystallize_strip_h_is_for_happiness_213.jpg" height="250" alt="H is for Happiness"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/20/9/28/1/developer_comics_its_not_just_a_phase.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/20/9/28/1/developer_comics_its_not_just_a_phase.jpg" height="250" alt="It&#39;s Not A Phase!"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -91,6 +91,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2024--03--07 01:00:46-green?style=flat-square&labelColor=black' alt='Generated on 2024--03--07 01:00:46'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2024--03--08 01:02:50-green?style=flat-square&labelColor=black' alt='Generated on 2024--03--08 01:02:50'/>
 
 
