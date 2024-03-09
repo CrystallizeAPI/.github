@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/21/10/20/4/frontend-performance-kpis.jpg" alt="Frontend Performance - Measuring & KPIs" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/frontend-performance-measuring-and-kpis" target="_blank">Frontend Performance - Measuring &amp; KPIs</a></h3>
+                <p>Frontend performance matters for user experience, conversion, ad placements, and good old SEO. To build fast websites, you need to have the performance metrics and KPIs defined, monitor, understand, and act upon them.</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/3/16/11/ecommerce-seo-utimate-guide-for-2022-crystallize.jpg" alt="eCommerce SEO Guide" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/ecommerce-seo-guide" target="_blank">eCommerce SEO Guide</a></h3>
                 <p>With Google having a clear bias towards big media publishers (<em>trustworthy, authority sites</em>) and thousands of mediocre AI content published daily, how do you fight for the top spots in search engine results in 2024?</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/24/2/26/1/dounut-astro-build-boilerplate.png" alt="Building eCommerce with Astro" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/building-ecommerce-with-astro" target="_blank">Building eCommerce with Astro</a></h3>
                 <p>Astro🚀 has been a hot topic since its release in June 2022, especially because it is extremely fast. So it was a no-brainer to choose which framework we should go with next for our series of minimal eCommerce boilerplates titled ‘<em>dounut</em>’.</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/24/2/20/1/drive-sales-boost-revenue.jpg" alt="eCommerce Marketing Strategies" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/ecommerce-marketing-strategies" target="_blank">eCommerce Marketing Strategies</a></h3>
-                <p>Having a reliable eCommerce marketing strategy helps drive success from the beginning of understanding your target audience to the nooks and crannies, such as the tech behind your storefront.</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/24/2/20/1/drive-sales-boost-revenue.jpg" alt="eCommerce Marketing Strategies" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/ecommerce-marketing-strategies" target="_blank">eCommerce Marketing Strategies</a></h3>
+                    <p>Having a reliable eCommerce marketing strategy helps drive success from the beginning of understanding your target audience to the nooks and crannies, such as the tech behind your storefront.</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/24/2/13/3/checkout-flow.jpg" alt="Checkout Flow" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/checkout-flow" target="_blank">Checkout Flow</a></h3>
                     <p>With Crystallize APIs, you can simplify your workflows and improve user experience.</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/24/1/17/1/3d-ecommerce-product-configurator.png" alt="3D eCommerce Product Configurator" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/3d-ecommerce-product-configurator" target="_blank">3D eCommerce Product Configurator</a></h3>
                     <p>Enabling customers to view products and customize them based on their preferences is no longer a fancy tool in your online store; it is a necessity that boosts customer engagement and drives sales. And we have a perfect solution for you.</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/4/5/1/composable-commerce.png" alt="Composable Commerce" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/composable-commerce" target="_blank">Composable Commerce</a></h3>
-                    <p>Composable Commerce represents a paradigm shift in eCommerce architecture, fundamentally redefining how businesses approach their online shopping experiences. </p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -55,7 +55,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/20/9/28/1/developer_comics_its_not_just_a_phase.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/20/9/28/1/developer_comics_its_not_just_a_phase.jpg" height="250" alt="It&#39;s Not A Phase!"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/23/2/17/1/crystallize_strip_exceptional_216.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/23/2/17/1/crystallize_strip_exceptional_216.jpg" height="250" alt="Exceptional"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -91,6 +91,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2024--03--08 01:02:50-green?style=flat-square&labelColor=black' alt='Generated on 2024--03--08 01:02:50'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2024--03--09 01:01:37-green?style=flat-square&labelColor=black' alt='Generated on 2024--03--09 01:01:37'/>
 
 
