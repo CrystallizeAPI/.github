@@ -11,7 +11,7 @@
             <h2>📕 Blog Posts</h2>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/21/10/20/4/frontend-performance-kpis.jpg" alt="Frontend Performance - Measuring & KPIs" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/frontend-performance-measuring-and-kpis" target="_blank">Frontend Performance - Measuring &amp; KPIs</a></h3>
-                <p>Frontend performance matters for user experience, conversion, ad placements, and good old SEO. To build fast websites, you need to have the performance metrics and KPIs defined, monitor, understand, and act upon them.</p>
+                <p>Frontend performance matters for user experience, conversion, ad placements, and good old SEO. To build fast websites, you must define performance metrics and KPIs and monitor, understand, and act on them.</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/3/16/11/ecommerce-seo-utimate-guide-for-2022-crystallize.jpg" alt="eCommerce SEO Guide" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/ecommerce-seo-guide" target="_blank">eCommerce SEO Guide</a></h3>
                 <p>With Google having a clear bias towards big media publishers (<em>trustworthy, authority sites</em>) and thousands of mediocre AI content published daily, how do you fight for the top spots in search engine results in 2024?</p>
@@ -55,7 +55,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/22/8/19/1/crystallize_strip_partially_hydrate_194.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/22/8/19/1/crystallize_strip_partially_hydrate_194.jpg" height="250" alt="Partially Hydrate"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/21/1/8/2/developer_comics_necessary_evil.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/21/1/8/2/developer_comics_necessary_evil.jpg" height="250" alt="Necessary Evil"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -91,6 +91,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2024--03--12 01:01:42-green?style=flat-square&labelColor=black' alt='Generated on 2024--03--12 01:01:42'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2024--03--13 01:01:52-green?style=flat-square&labelColor=black' alt='Generated on 2024--03--13 01:01:52'/>
 
 
