@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/24/3/12/9/best-cms-headless-ecommerce.jpg" alt="Best CMS for Headless eCommerce" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/best-cms-for-headless-ecommerce" target="_blank">Best CMS for Headless eCommerce</a></h3>
+                <p>Today, we discuss the top headless CMS for your eCommerce website because eCommerce content and sales pitches go beyond product pages.</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/21/10/20/4/frontend-performance-kpis.jpg" alt="Frontend Performance - Measuring & KPIs" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/frontend-performance-measuring-and-kpis" target="_blank">Frontend Performance - Measuring &amp; KPIs</a></h3>
                 <p>Frontend performance matters for user experience, conversion, ad placements, and good old SEO. To build fast websites, you must define performance metrics and KPIs and monitor, understand, and act on them.</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/24/3/5/1/serverless-ecommerce.jpg" alt="Serverless eCommerce" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/serverless-ecommerce" target="_blank">Serverless eCommerce</a></h3>
                 <p>Serverless computing is not a new concept; it is a paradigm that has redefined how eCommerce platforms are hosted and managed.</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/24/2/26/1/dounut-astro-build-boilerplate.png" alt="Building eCommerce with Astro" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/building-ecommerce-with-astro" target="_blank">Building eCommerce with Astro</a></h3>
-                <p>Astro🚀 has been a hot topic since its release in June 2022, especially because it is extremely fast. So it was a no-brainer to choose which framework we should go with next for our series of minimal eCommerce boilerplates titled ‘<em>dounut</em>’.</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/24/2/26/1/dounut-astro-build-boilerplate.png" alt="Building eCommerce with Astro" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/building-ecommerce-with-astro" target="_blank">Building eCommerce with Astro</a></h3>
+                    <p>Astro🚀 has been a hot topic since its release in June 2022, especially because it is extremely fast. So it was a no-brainer to choose which framework we should go with next for our series of minimal eCommerce boilerplates titled ‘<em>dounut</em>’.</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/24/2/20/1/drive-sales-boost-revenue.jpg" alt="eCommerce Marketing Strategies" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/ecommerce-marketing-strategies" target="_blank">eCommerce Marketing Strategies</a></h3>
                     <p>Having a reliable eCommerce marketing strategy helps drive success from the beginning of understanding your target audience to the nooks and crannies, such as the tech behind your storefront.</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/6/8/1/api-vs-microservices.png" alt="APIs vs Microservices" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/apis-vs-microservices" target="_blank">APIs vs Microservices</a></h3>
                     <p>You&#039;ve probably heard the terms APIs, and Microservices used when talking about web development. What are they? How do you use them, and what is the difference between them?</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/24/1/17/1/3d-ecommerce-product-configurator.png" alt="3D eCommerce Product Configurator" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/3d-ecommerce-product-configurator" target="_blank">3D eCommerce Product Configurator</a></h3>
-                    <p>Enabling customers to view products and customize them based on their preferences is no longer a fancy tool in your online store; it is a necessity that boosts customer engagement and drives sales. And we have a perfect solution for you.</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -55,7 +55,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/21/1/8/2/developer_comics_necessary_evil.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/21/1/8/2/developer_comics_necessary_evil.jpg" height="250" alt="Necessary Evil"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/21/12/3/1/developer_comics_developers_date.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/21/12/3/1/developer_comics_developers_date.jpg" height="250" alt="Developers Date"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -91,6 +91,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2024--03--13 01:01:52-green?style=flat-square&labelColor=black' alt='Generated on 2024--03--13 01:01:52'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2024--03--14 01:01:47-green?style=flat-square&labelColor=black' alt='Generated on 2024--03--14 01:01:47'/>
 
 
