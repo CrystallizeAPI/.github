@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/24/4/2/1/best-ecommerce-dev-design-tips.jpg" alt="eCommerce Website Design" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/ecommerce-website-design" target="_blank">eCommerce Website Design</a></h3>
+                <p>Ensuring your eCommerce website&#039;s design captures attention today goes beyond aesthetics. Design is just one piece of the puzzle of online business success, and it all starts with your product/service and brand.</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/24/3/19/4/guide-to-replatforming-to-headless.jpg" alt="Replatforming to Headless in 2024" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/replatforming-to-headless-in-2024" target="_blank">Replatforming to Headless in 2024</a></h3>
                 <p>Replatforming to a headless architecture is becoming increasingly important for businesses that aim to stay competitive in the dynamic digital marketplace.</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/21/10/20/4/frontend-performance-kpis.jpg" alt="Frontend Performance - Measuring & KPIs" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/frontend-performance-measuring-and-kpis" target="_blank">Frontend Performance - Measuring &amp; KPIs</a></h3>
                 <p>Frontend performance matters for user experience, conversion, ad placements, and good old SEO. To build fast websites, you must define performance metrics and KPIs and monitor, understand, and act on them.</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/22/3/16/11/ecommerce-seo-utimate-guide-for-2022-crystallize.jpg" alt="eCommerce SEO Guide" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/ecommerce-seo-guide" target="_blank">eCommerce SEO Guide</a></h3>
-                <p>With Google having a clear bias towards big media publishers (<em>trustworthy, authority sites</em>) and thousands of mediocre AI content published daily, how do you fight for the top spots in search engine results in 2024?</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/3/16/11/ecommerce-seo-utimate-guide-for-2022-crystallize.jpg" alt="eCommerce SEO Guide" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/ecommerce-seo-guide" target="_blank">eCommerce SEO Guide</a></h3>
+                    <p>With Google having a clear bias towards big media publishers (<em>trustworthy, authority sites</em>) and thousands of mediocre AI content published daily, how do you fight for the top spots in search engine results in 2024?</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/24/3/5/1/serverless-ecommerce.jpg" alt="Serverless eCommerce" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/serverless-ecommerce" target="_blank">Serverless eCommerce</a></h3>
                     <p>Serverless computing is not a new concept; it is a paradigm that has redefined how eCommerce platforms are hosted and managed.</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/24/1/30/1/get_started_with_crystallize.jpg" alt="Devs Get Started With Crystallize" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/devs-get-started-with-crystallize" target="_blank">Devs Get Started With Crystallize</a></h3>
                     <p>Whether you&#039;re a seasoned pro or a beginner developer, let&#039;s review the basic requirements for working with Crystallize.</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/24/1/25/1/react_server_components.jpg" alt="React Server Components" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/react-server-components" target="_blank">React Server Components</a></h3>
-                    <p>The announcement of React Server Components was a paradigm shift in the world of React. But what exactly is a React Server Component?</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -55,7 +55,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/23/8/18/1/crystallize_strip_phone_issues_231.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/23/8/18/1/crystallize_strip_phone_issues_231.jpg" height="250" alt="Phone Issues"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/20/11/13/1/developer_comics_guilty_pleasure.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/20/11/13/1/developer_comics_guilty_pleasure.jpg" height="250" alt="Guilty Pleasure"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -91,6 +91,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2024--04--02 01:02:04-green?style=flat-square&labelColor=black' alt='Generated on 2024--04--02 01:02:04'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2024--04--03 01:01:49-green?style=flat-square&labelColor=black' alt='Generated on 2024--04--03 01:01:49'/>
 
 
