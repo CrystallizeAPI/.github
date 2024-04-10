@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/24/4/9/1/react-static-site-generators.jpg" alt="React Static Site Generators" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/react-static-site-generators" target="_blank">React Static Site Generators</a></h3>
+                <p>Gatsby might be out of the picture for many developers, but React and static site generators (SSGs) built on top of it are still gaining traction with front-end developers worldwide.</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/24/4/2/1/best-ecommerce-dev-design-tips.jpg" alt="eCommerce Website Design" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/ecommerce-website-design" target="_blank">eCommerce Website Design</a></h3>
                 <p>Ensuring your eCommerce website&#039;s design captures attention today goes beyond aesthetics. Design is just one piece of the puzzle of online business success, and it all starts with your product/service and brand.</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/24/3/12/9/best-cms-headless-ecommerce.jpg" alt="Best CMS for Headless eCommerce" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/best-cms-for-headless-ecommerce" target="_blank">Best CMS for Headless eCommerce</a></h3>
                 <p>Today, we discuss the top headless CMS for your eCommerce website because eCommerce content and sales pitches go beyond product pages.</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/21/10/20/4/frontend-performance-kpis.jpg" alt="Frontend Performance - Measuring & KPIs" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/frontend-performance-measuring-and-kpis" target="_blank">Frontend Performance - Measuring &amp; KPIs</a></h3>
-                <p>Frontend performance matters for user experience, conversion, ad placements, and good old SEO. To build fast websites, you must define performance metrics and KPIs and monitor, understand, and act on them.</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/21/10/20/4/frontend-performance-kpis.jpg" alt="Frontend Performance - Measuring & KPIs" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/frontend-performance-measuring-and-kpis" target="_blank">Frontend Performance - Measuring &amp; KPIs</a></h3>
+                    <p>Frontend performance matters for user experience, conversion, ad placements, and good old SEO. To build fast websites, you must define performance metrics and KPIs and monitor, understand, and act on them.</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/3/16/11/ecommerce-seo-utimate-guide-for-2022-crystallize.jpg" alt="eCommerce SEO Guide" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/ecommerce-seo-guide" target="_blank">eCommerce SEO Guide</a></h3>
                     <p>With Google having a clear bias towards big media publishers (<em>trustworthy, authority sites</em>) and thousands of mediocre AI content published daily, how do you fight for the top spots in search engine results in 2024?</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/9/7/1/b2b-ecommerce.png" alt="B2B eCommerce" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/b2b-ecommerce" target="_blank">B2B eCommerce</a></h3>
                     <p>B2B commerce (business-to-business commerce) marks the online sale of services and/or goods between businesses, and it is nowhere near as talked about as B2C, which is strange considering that the B2B eCommerce market is over five times (5X) more valuable.</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/24/1/30/1/get_started_with_crystallize.jpg" alt="Devs Get Started With Crystallize" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/devs-get-started-with-crystallize" target="_blank">Devs Get Started With Crystallize</a></h3>
-                    <p>Whether you&#039;re a seasoned pro or a beginner developer, let&#039;s review the basic requirements for working with Crystallize.</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -55,7 +55,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/19/9/13/3/developer_comics_orange_is_the_new_yuck.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/19/9/13/3/developer_comics_orange_is_the_new_yuck.jpg" height="250" alt="Can&#39;t Touch This"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/images/455_developer_comics_frontend_performance_visualized.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/images/455_developer_comics_frontend_performance_visualized.jpg" height="250" alt="Frontend Performance Visualized"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -91,6 +91,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2024--04--09 01:01:51-green?style=flat-square&labelColor=black' alt='Generated on 2024--04--09 01:01:51'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2024--04--10 01:01:51-green?style=flat-square&labelColor=black' alt='Generated on 2024--04--10 01:01:51'/>
 
 
