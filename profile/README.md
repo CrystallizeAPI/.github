@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/22/4/5/1/composable-commerce.png" alt="Composable Commerce" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/composable-commerce" target="_blank">Composable Commerce</a></h3>
+                <p>Composable Commerce represents a paradigm shift in eCommerce architecture, fundamentally redefining how businesses approach their online shopping experiences. </p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/24/4/9/1/react-static-site-generators.jpg" alt="React Static Site Generators" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/react-static-site-generators" target="_blank">React Static Site Generators</a></h3>
                 <p>Gatsby might be out of the picture for many developers, but React and static site generators (SSGs) built on top of it are still gaining traction with front-end developers worldwide.</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/24/3/19/4/guide-to-replatforming-to-headless.jpg" alt="Replatforming to Headless in 2024" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/replatforming-to-headless-in-2024" target="_blank">Replatforming to Headless in 2024</a></h3>
                 <p>Replatforming to a headless architecture is becoming increasingly important for businesses that aim to stay competitive in the dynamic digital marketplace.</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/24/3/12/9/best-cms-headless-ecommerce.jpg" alt="Best CMS for Headless eCommerce" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/best-cms-for-headless-ecommerce" target="_blank">Best CMS for Headless eCommerce</a></h3>
-                <p>Today, we discuss the top headless CMS for your eCommerce website because eCommerce content and sales pitches go beyond product pages.</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/24/3/12/9/best-cms-headless-ecommerce.jpg" alt="Best CMS for Headless eCommerce" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/best-cms-for-headless-ecommerce" target="_blank">Best CMS for Headless eCommerce</a></h3>
+                    <p>Today, we discuss the top headless CMS for your eCommerce website because eCommerce content and sales pitches go beyond product pages.</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/21/10/20/4/frontend-performance-kpis.jpg" alt="Frontend Performance - Measuring & KPIs" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/frontend-performance-measuring-and-kpis" target="_blank">Frontend Performance - Measuring &amp; KPIs</a></h3>
                     <p>Frontend performance matters for user experience, conversion, ad placements, and good old SEO. To build fast websites, you must define performance metrics and KPIs and monitor, understand, and act on them.</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/24/2/13/3/checkout-flow.jpg" alt="Checkout Flow" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/checkout-flow" target="_blank">Checkout Flow</a></h3>
                     <p>With Crystallize APIs, you can simplify your workflows and improve user experience.</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/9/7/1/b2b-ecommerce.png" alt="B2B eCommerce" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/b2b-ecommerce" target="_blank">B2B eCommerce</a></h3>
-                    <p>B2B commerce (business-to-business commerce) marks the online sale of services and/or goods between businesses, and it is nowhere near as talked about as B2C, which is strange considering that the B2B eCommerce market is over five times (5X) more valuable.</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -55,7 +55,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/24/4/5/1/crystallize_strip_tools_of_the_trade_259.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/24/4/5/1/crystallize_strip_tools_of_the_trade_259.jpg" height="250" alt="Tools of the Trade"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/21/3/5/1/developer_comics_back_in_the_office.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/21/3/5/1/developer_comics_back_in_the_office.jpg" height="250" alt="Back In The Office"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -91,6 +91,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2024--04--17 01:01:54-green?style=flat-square&labelColor=black' alt='Generated on 2024--04--17 01:01:54'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2024--04--18 01:02:02-green?style=flat-square&labelColor=black' alt='Generated on 2024--04--18 01:02:02'/>
 
 
