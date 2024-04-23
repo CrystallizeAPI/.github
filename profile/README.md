@@ -9,9 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/22/4/5/1/composable-commerce.png" alt="Composable Commerce" width="100" align="left"></p>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/24/4/17/2/composable-commerce.png" alt="Composable Commerce" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/composable-commerce" target="_blank">Composable Commerce</a></h3>
-                <p>Composable Commerce represents a paradigm shift in eCommerce architecture, fundamentally redefining how businesses approach their online shopping experiences. </p>
+                <p>Composable commerce is a business strategy that enables an organization to rapidly adapt to market changes using modular, best-of-breed technology components.</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/24/4/9/1/react-static-site-generators.jpg" alt="React Static Site Generators" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/react-static-site-generators" target="_blank">React Static Site Generators</a></h3>
                 <p>Gatsby might be out of the picture for many developers, but React and static site generators (SSGs) built on top of it are still gaining traction with front-end developers worldwide.</p>
@@ -55,7 +55,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/22/7/22/1/crystallize_strip_i_like_cheese_190.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/22/7/22/1/crystallize_strip_i_like_cheese_190.jpg" height="250" alt="I Like Cheese"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/21/4/17/1/developer_comics_reality_check.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/21/4/17/1/developer_comics_reality_check.jpg" height="250" alt="Reality Check"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -91,6 +91,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2024--04--22 01:02:04-green?style=flat-square&labelColor=black' alt='Generated on 2024--04--22 01:02:04'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2024--04--23 01:01:57-green?style=flat-square&labelColor=black' alt='Generated on 2024--04--23 01:01:57'/>
 
 
