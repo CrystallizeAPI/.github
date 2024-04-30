@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/23/6/14/1/product-page-seo.jpg" alt="Product Page SEO" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/product-page-seo" target="_blank">Product Page SEO</a></h3>
+                <p>Great product pages are vital to a successful online store, so how do you optimize your product pages for SEO and high conversions?</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/24/4/17/2/composable-commerce.png" alt="Composable Commerce" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/composable-commerce" target="_blank">Composable Commerce</a></h3>
                 <p>Composable commerce is a business strategy that enables an organization to rapidly adapt to market changes using modular, best-of-breed technology components.</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/24/4/2/1/best-ecommerce-dev-design-tips.jpg" alt="eCommerce Website Design" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/ecommerce-website-design" target="_blank">eCommerce Website Design</a></h3>
                 <p>Ensuring your eCommerce website&#039;s design captures attention today goes beyond aesthetics. Design is just one piece of the puzzle of online business success, and it all starts with your product/service and brand.</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/24/3/19/4/guide-to-replatforming-to-headless.jpg" alt="Replatforming to Headless in 2024" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/replatforming-to-headless-in-2024" target="_blank">Replatforming to Headless in 2024</a></h3>
-                <p>Replatforming to a headless architecture is becoming increasingly important for businesses that aim to stay competitive in the dynamic digital marketplace.</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/24/3/19/4/guide-to-replatforming-to-headless.jpg" alt="Replatforming to Headless in 2024" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/replatforming-to-headless-in-2024" target="_blank">Replatforming to Headless in 2024</a></h3>
+                    <p>Replatforming to a headless architecture is becoming increasingly important for businesses that aim to stay competitive in the dynamic digital marketplace.</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/24/3/12/9/best-cms-headless-ecommerce.jpg" alt="Best CMS for Headless eCommerce" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/best-cms-for-headless-ecommerce" target="_blank">Best CMS for Headless eCommerce</a></h3>
                     <p>Today, we discuss the top headless CMS for your eCommerce website because eCommerce content and sales pitches go beyond product pages.</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/24/2/20/1/drive-sales-boost-revenue.jpg" alt="eCommerce Marketing Strategies" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/ecommerce-marketing-strategies" target="_blank">eCommerce Marketing Strategies</a></h3>
                     <p>Having a reliable eCommerce marketing strategy helps drive success from the beginning of understanding your target audience to the nooks and crannies, such as the tech behind your storefront.</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/24/2/13/3/checkout-flow.jpg" alt="Checkout Flow" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/checkout-flow" target="_blank">Checkout Flow</a></h3>
-                    <p>With Crystallize APIs, you can simplify your workflows and improve user experience.</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -55,7 +55,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/images/518_developer_comics_exposed.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/images/518_developer_comics_exposed.jpg" height="250" alt="Exposed"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/images/455_developer_comics_frontend_performance_visualized.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/images/455_developer_comics_frontend_performance_visualized.jpg" height="250" alt="Frontend Performance Visualized"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -91,6 +91,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2024--04--29 01:01:57-green?style=flat-square&labelColor=black' alt='Generated on 2024--04--29 01:01:57'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2024--04--30 01:01:58-green?style=flat-square&labelColor=black' alt='Generated on 2024--04--30 01:01:58'/>
 
 
