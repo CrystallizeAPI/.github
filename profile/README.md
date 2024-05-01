@@ -11,7 +11,7 @@
             <h2>📕 Blog Posts</h2>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/23/6/14/1/product-page-seo.jpg" alt="Product Page SEO" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/product-page-seo" target="_blank">Product Page SEO</a></h3>
-                <p>Great product pages are vital to a successful online store, so how do you optimize your product pages for SEO and high conversions?</p>
+                <p>Great product pages are vital to a successful online store and should be optimized for SEO and high conversions. Let’s look at the best practices for doing that.</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/24/4/17/2/composable-commerce.png" alt="Composable Commerce" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/composable-commerce" target="_blank">Composable Commerce</a></h3>
                 <p>Composable commerce is a business strategy that enables an organization to rapidly adapt to market changes using modular, best-of-breed technology components.</p>
@@ -55,7 +55,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/images/455_developer_comics_frontend_performance_visualized.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/images/455_developer_comics_frontend_performance_visualized.jpg" height="250" alt="Frontend Performance Visualized"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/24/2/23/2/crystallize_strip_sneakers_253.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/24/2/23/2/crystallize_strip_sneakers_253.jpg" height="250" alt="Sneakers"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -91,6 +91,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2024--04--30 01:01:58-green?style=flat-square&labelColor=black' alt='Generated on 2024--04--30 01:01:58'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2024--05--01 01:02:14-green?style=flat-square&labelColor=black' alt='Generated on 2024--05--01 01:02:14'/>
 
 
