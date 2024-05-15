@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/24/5/14/1/multilingual_ecommerce_blog_illustration.jpg" alt="Building Multilingual eCommerce" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/building-multilingual-ecommerce" target="_blank">Building Multilingual eCommerce</a></h3>
+                <p>In today&#039;s global economy, multilingual eCommerce is not just an option; it&#039;s a strategic imperative.</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/23/6/14/1/product-page-seo.jpg" alt="Product Page SEO" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/product-page-seo" target="_blank">Product Page SEO</a></h3>
                 <p>Great product pages are vital to a successful online store and should be optimized for SEO and high conversions. Let’s look at the best practices for doing that.</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/24/4/9/1/react-static-site-generators.jpg" alt="React Static Site Generators" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/react-static-site-generators" target="_blank">React Static Site Generators</a></h3>
                 <p>Gatsby might be out of the picture for many developers, but React and static site generators (SSGs) built on top of it are still gaining traction with front-end developers worldwide.</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/24/4/2/1/best-ecommerce-dev-design-tips.jpg" alt="eCommerce Website Design" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/ecommerce-website-design" target="_blank">eCommerce Website Design</a></h3>
-                <p>Ensuring your eCommerce website&#039;s design captures attention today goes beyond aesthetics. Design is just one piece of the puzzle of online business success, and it all starts with your product/service and brand.</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/24/4/2/1/best-ecommerce-dev-design-tips.jpg" alt="eCommerce Website Design" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/ecommerce-website-design" target="_blank">eCommerce Website Design</a></h3>
+                    <p>Ensuring your eCommerce website&#039;s design captures attention today goes beyond aesthetics. Design is just one piece of the puzzle of online business success, and it all starts with your product/service and brand.</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/24/3/19/4/guide-to-replatforming-to-headless.jpg" alt="Replatforming to Headless in 2024" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/replatforming-to-headless-in-2024" target="_blank">Replatforming to Headless in 2024</a></h3>
                     <p>Replatforming to a headless architecture is becoming increasingly important for businesses that aim to stay competitive in the dynamic digital marketplace.</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/24/2/26/1/dounut-astro-build-boilerplate.png" alt="Building eCommerce with Astro" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/building-ecommerce-with-astro" target="_blank">Building eCommerce with Astro</a></h3>
                     <p>Astro🚀 has been a hot topic since its release in June 2022, especially because it is extremely fast. So it was a no-brainer to choose which framework we should go with next for our series of minimal eCommerce boilerplates titled ‘<em>dounut</em>’.</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/24/2/20/1/drive-sales-boost-revenue.jpg" alt="eCommerce Marketing Strategies" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/ecommerce-marketing-strategies" target="_blank">eCommerce Marketing Strategies</a></h3>
-                    <p>Having a reliable eCommerce marketing strategy helps drive success from the beginning of understanding your target audience to the nooks and crannies, such as the tech behind your storefront.</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -55,7 +55,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/23/4/21/1/crystallize_strip_dns_joke_222.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/23/4/21/1/crystallize_strip_dns_joke_222.jpg" height="250" alt="DNS Joke"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/20/11/13/1/developer_comics_guilty_pleasure.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/20/11/13/1/developer_comics_guilty_pleasure.jpg" height="250" alt="Guilty Pleasure"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -91,6 +91,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2024--05--14 01:02:05-green?style=flat-square&labelColor=black' alt='Generated on 2024--05--14 01:02:05'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2024--05--15 01:02:24-green?style=flat-square&labelColor=black' alt='Generated on 2024--05--15 01:02:24'/>
 
 
