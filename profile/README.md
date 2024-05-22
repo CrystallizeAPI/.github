@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/24/5/21/1/headless-pim.png" alt="Headless PIM" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/headless-pim" target="_blank">Headless PIM</a></h3>
+                <p>A headless approach to PIM means having a service ready to manage product information in seconds. Product information and content are delivered via an API. No templates, no web pages, only structured content. Pure developer bliss.</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/24/5/14/1/multilingual_ecommerce_blog_illustration.jpg" alt="Building Multilingual eCommerce" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/building-multilingual-ecommerce" target="_blank">Building Multilingual eCommerce</a></h3>
                 <p>In today&#039;s global economy, multilingual eCommerce is not just an option; it&#039;s a strategic imperative.</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/24/4/17/2/composable-commerce.png" alt="Composable Commerce" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/composable-commerce" target="_blank">Composable Commerce</a></h3>
                 <p>Composable commerce is a business strategy that enables an organization to rapidly adapt to market changes using modular, best-of-breed technology components.</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/24/4/9/1/react-static-site-generators.jpg" alt="React Static Site Generators" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/react-static-site-generators" target="_blank">React Static Site Generators</a></h3>
-                <p>Gatsby might be out of the picture for many developers, but React and static site generators (SSGs) built on top of it are still gaining traction with front-end developers worldwide.</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/24/4/9/1/react-static-site-generators.jpg" alt="React Static Site Generators" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/react-static-site-generators" target="_blank">React Static Site Generators</a></h3>
+                    <p>Gatsby might be out of the picture for many developers, but React and static site generators (SSGs) built on top of it are still gaining traction with front-end developers worldwide.</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/24/4/2/1/best-ecommerce-dev-design-tips.jpg" alt="eCommerce Website Design" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/ecommerce-website-design" target="_blank">eCommerce Website Design</a></h3>
                     <p>Ensuring your eCommerce website&#039;s design captures attention today goes beyond aesthetics. Design is just one piece of the puzzle of online business success, and it all starts with your product/service and brand.</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/24/3/5/1/serverless-ecommerce.jpg" alt="Serverless eCommerce" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/serverless-ecommerce" target="_blank">Serverless eCommerce</a></h3>
                     <p>Serverless computing is not a new concept; it is a paradigm that has redefined how eCommerce platforms are hosted and managed.</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/24/2/26/1/dounut-astro-build-boilerplate.png" alt="Building eCommerce with Astro" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/building-ecommerce-with-astro" target="_blank">Building eCommerce with Astro</a></h3>
-                    <p>Astro🚀 has been a hot topic since its release in June 2022, especially because it is extremely fast. So it was a no-brainer to choose which framework we should go with next for our series of minimal eCommerce boilerplates titled ‘<em>dounut</em>’.</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -55,7 +55,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/20/7/3/1/developer_comics_multilingual_shop_a.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/20/7/3/1/developer_comics_multilingual_shop_a.jpg" height="250" alt="Multilingual Shop"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/23/10/6/1/crystallize_strip_clienting_237.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/23/10/6/1/crystallize_strip_clienting_237.jpg" height="250" alt="Clienting"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -91,6 +91,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2024--05--21 01:02:07-green?style=flat-square&labelColor=black' alt='Generated on 2024--05--21 01:02:07'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2024--05--22 01:02:07-green?style=flat-square&labelColor=black' alt='Generated on 2024--05--22 01:02:07'/>
 
 
