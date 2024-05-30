@@ -11,7 +11,7 @@
             <h2>📕 Blog Posts</h2>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/3/16/11/ecommerce-seo-utimate-guide-for-2022-crystallize.jpg" alt="eCommerce SEO Guide" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/ecommerce-seo-guide" target="_blank">eCommerce SEO Guide</a></h3>
-                <p>With Google having a clear bias towards big media publishers (<em>trustworthy, authority sites</em>) and thousands of mediocre AI content published daily, how do you fight for the top spots in search engine results in 2024?</p>
+                <p>With Google having a clear bias towards big media publishers (<em>trustworthy, authority sites</em>) and thousands of mediocre AI content published daily, how do you fight for those top places in search engine results in 2024?</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/24/5/21/1/headless-pim.png" alt="Headless PIM" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/headless-pim" target="_blank">Headless PIM</a></h3>
                 <p>A headless approach to PIM means having a service ready to manage product information in seconds. Product information and content are delivered via an API. No templates, no web pages, only structured content. Pure developer bliss.</p>
@@ -55,7 +55,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/19/9/13/2/developer_comics_romantic_by_design.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/19/9/13/2/developer_comics_romantic_by_design.jpg" height="250" alt="Romantic By Design"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/20/7/1/1/developer_comics_thinking_outside_the_box.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/20/7/1/1/developer_comics_thinking_outside_the_box.jpg" height="250" alt="Outside The Box"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -91,6 +91,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2024--05--29 01:02:34-green?style=flat-square&labelColor=black' alt='Generated on 2024--05--29 01:02:34'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2024--05--30 01:02:07-green?style=flat-square&labelColor=black' alt='Generated on 2024--05--30 01:02:07'/>
 
 
