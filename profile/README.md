@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/24/6/4/1/frontend_frameworks_2024_blog_illustration.jpg" alt="Best Frontend Frameworks" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/best-frontend-frameworks" target="_blank">Best Frontend Frameworks</a></h3>
+                <p>Two years ago, we observed that the frontend frameworks ecosystem was expanding so rapidly that choosing the perfect one for your online business or store was becoming increasingly difficult. What&#039;s new/changed since then? </p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/3/16/11/ecommerce-seo-utimate-guide-for-2022-crystallize.jpg" alt="eCommerce SEO Guide" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/ecommerce-seo-guide" target="_blank">eCommerce SEO Guide</a></h3>
                 <p>With Google having a clear bias towards big media publishers (<em>trustworthy, authority sites</em>) and thousands of mediocre AI content published daily, how do you fight for those top places in search engine results in 2024?</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/24/5/14/1/multilingual_ecommerce_blog_illustration.jpg" alt="Building Multilingual eCommerce" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/building-multilingual-ecommerce" target="_blank">Building Multilingual eCommerce</a></h3>
                 <p>In today&#039;s global economy, multilingual eCommerce is not just an option; it&#039;s a strategic imperative.</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/23/6/14/1/product-page-seo.jpg" alt="Product Page SEO" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/product-page-seo" target="_blank">Product Page SEO</a></h3>
-                <p>Great product pages are vital to a successful online store and should be optimized for SEO and high conversions. Let’s look at the best practices for doing that.</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/23/6/14/1/product-page-seo.jpg" alt="Product Page SEO" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/product-page-seo" target="_blank">Product Page SEO</a></h3>
+                    <p>Great product pages are vital to a successful online store and should be optimized for SEO and high conversions. Let’s look at the best practices for doing that.</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/24/4/17/2/composable-commerce.png" alt="Composable Commerce" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/composable-commerce" target="_blank">Composable Commerce</a></h3>
                     <p>Composable commerce is a business strategy that enables an organization to rapidly adapt to market changes using modular, best-of-breed technology components.</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/21/10/20/4/frontend-performance-kpis.jpg" alt="Frontend Performance - Measuring & KPIs" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/frontend-performance-measuring-and-kpis" target="_blank">Frontend Performance - Measuring &amp; KPIs</a></h3>
                     <p>Frontend performance matters for user experience, conversion, ad placements, and good old SEO. To build fast websites, you must define performance metrics and KPIs and monitor, understand, and act on them.</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/24/3/5/1/serverless-ecommerce.jpg" alt="Serverless eCommerce" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/serverless-ecommerce" target="_blank">Serverless eCommerce</a></h3>
-                    <p>Serverless computing is not a new concept; it is a paradigm that has redefined how eCommerce platforms are hosted and managed.</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -55,7 +55,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/23/4/21/1/crystallize_strip_dns_joke_222.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/23/4/21/1/crystallize_strip_dns_joke_222.jpg" height="250" alt="DNS Joke"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/21/1/29/3/developer_comics_time_tracking.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/21/1/29/3/developer_comics_time_tracking.jpg" height="250" alt="Time Tracking"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -91,6 +91,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2024--06--04 01:02:13-green?style=flat-square&labelColor=black' alt='Generated on 2024--06--04 01:02:13'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2024--06--05 01:02:17-green?style=flat-square&labelColor=black' alt='Generated on 2024--06--05 01:02:17'/>
 
 
