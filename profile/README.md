@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/24/5/21/1/headless-pim.png" alt="Headless PIM" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/headless-pim" target="_blank">Headless PIM</a></h3>
+                <p>A headless approach to PIM is the future of commerce, and it is already here. It means having a service ready to manage product information in seconds. Product information and content are delivered via an API. There are no templates, no web pages, only structured content—pure developer bliss.</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/24/7/16/1/hosting_ecommerce_frontend_blog_illustration.jpg" alt="eCommerce Frontend" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/ecommerce-frontend" target="_blank">eCommerce Frontend</a></h3>
                 <p>You’ve spent a lot of time and effort developing an awesome eCommerce front end. Now, it’s time to make it publicly available. The question is: where are you going to host it?</p>
@@ -18,9 +21,6 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/3/16/11/ecommerce-seo-utimate-guide-for-2022-crystallize.jpg" alt="eCommerce SEO Guide" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/ecommerce-seo-guide" target="_blank">eCommerce SEO Guide</a></h3>
                 <p>With Google having a clear bias towards big media publishers (<em>trustworthy, authority sites</em>) and thousands of mediocre AI content published daily, how do you fight for those top places in search engine results in 2024?</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/24/5/21/1/headless-pim.png" alt="Headless PIM" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/headless-pim" target="_blank">Headless PIM</a></h3>
-                <p>A headless approach to PIM means having a service ready to manage product information in seconds. Product information and content are delivered via an API. No templates, no web pages, only structured content. Pure developer bliss.</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
                     <p><img src="https://media.crystallize.com/crystallize_marketing/24/5/14/1/multilingual_ecommerce_blog_illustration.jpg" alt="Building Multilingual eCommerce" width="100" align="left"></p>
@@ -55,7 +55,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/24/2/9/1/crystallize_strip_bluetooth_speaker_252.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/24/2/9/1/crystallize_strip_bluetooth_speaker_252.jpg" height="250" alt="Bluetooth Speaker"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/images/631_developer_comics_make_some_noise.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/images/631_developer_comics_make_some_noise.jpg" height="250" alt="MAKE SOME NOISE"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -91,6 +91,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2024--07--24 01:02:29-green?style=flat-square&labelColor=black' alt='Generated on 2024--07--24 01:02:29'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2024--07--25 01:02:26-green?style=flat-square&labelColor=black' alt='Generated on 2024--07--25 01:02:26'/>
 
 
