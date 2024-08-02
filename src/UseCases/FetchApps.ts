@@ -21,6 +21,16 @@ export function fetchApps(): App[] {
             github: 'https://github.com/CrystallizeAPI/crystallize-subscription-contract-app',
             doc: 'https://github.com/CrystallizeAPI/crystallize-subscription-contract-app',
         },
+        {
+            name: 'Translation App',
+            github: 'https://github.com/CrystallizeAPI/translation-app',
+            doc: 'https://github.com/CrystallizeAPI/translation-app'
+        }, 
+        {
+            name: 'Generative AI App',
+            github: 'https://github.com/CrystallizeAPI/generative-ai-app',
+            doc: 'https://github.com/CrystallizeAPI/generative-ai-app'
+        }
     ];
 }
 
