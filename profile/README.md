@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/24/9/4/1/pull_requests_best_practices.jpg" alt="Pull Request Best Practices" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/pull-request-best-practices" target="_blank">Pull Request Best Practices</a></h3>
+                <p>A pull request is not just a mere step in the development process; it&#039;s a vital mechanism that allows teams to review, discuss, and improve code before it becomes part of the main codebase.</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/24/8/13/1/optimizing_react_ecommerce_spa_blog_illustration.jpg" alt="SEO for React eCommerce SPA" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/seo-for-react-ecommerce-spa" target="_blank">SEO for React eCommerce SPA</a></h3>
                 <p>Single Page Applications (SPAs) offer a seamless, dynamic user experience, but they pose unique challenges for search engine optimization (SEO).</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/24/5/21/1/headless-pim.png" alt="Headless PIM" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/headless-pim" target="_blank">Headless PIM</a></h3>
                 <p>A headless approach to PIM is the future of commerce, and it is already here. It means having a service ready to manage product information in seconds. Product information and content are delivered via an API. There are no templates, no web pages, only structured content—pure developer bliss.</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/24/7/16/1/hosting_ecommerce_frontend_blog_illustration.jpg" alt="eCommerce Frontend" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/ecommerce-frontend" target="_blank">eCommerce Frontend</a></h3>
-                <p>You’ve spent a lot of time and effort developing an awesome eCommerce front end. Now, it’s time to make it publicly available. The question is: where are you going to host it?</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/24/7/16/1/hosting_ecommerce_frontend_blog_illustration.jpg" alt="eCommerce Frontend" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/ecommerce-frontend" target="_blank">eCommerce Frontend</a></h3>
+                    <p>You’ve spent a lot of time and effort developing an awesome eCommerce front end. Now, it’s time to make it publicly available. The question is: where are you going to host it?</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/24/6/4/1/frontend_frameworks_2024_blog_illustration.jpg" alt="Best Frontend Frameworks" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/best-frontend-frameworks" target="_blank">Best Frontend Frameworks</a></h3>
                     <p>Two years ago, we observed that the frontend frameworks ecosystem was expanding so rapidly that choosing the perfect one for your online business or store was becoming increasingly difficult. What&#039;s new/changed since then? </p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/24/4/9/1/react-static-site-generators.jpg" alt="React Static Site Generators" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/react-static-site-generators" target="_blank">React Static Site Generators</a></h3>
                     <p>Gatsby might be out of the picture for many developers, but React and static site generators (SSGs) built on top of it are still gaining traction with front-end developers worldwide.</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/24/4/2/1/best-ecommerce-dev-design-tips.jpg" alt="eCommerce Website Design" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/ecommerce-website-design" target="_blank">eCommerce Website Design</a></h3>
-                    <p>Ensuring your eCommerce website&#039;s design captures attention today goes beyond aesthetics. Design is just one piece of the puzzle of online business success, and it all starts with your product/service and brand.</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -55,7 +55,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/images/329_developer_comics_estimate_time.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/images/329_developer_comics_estimate_time.jpg" height="250" alt="Time to Estimate"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/20/9/15/1/developer_comics_things_change.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/20/9/15/1/developer_comics_things_change.jpg" height="250" alt="Things Change"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -93,6 +93,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2024--09--04 01:02:43-green?style=flat-square&labelColor=black' alt='Generated on 2024--09--04 01:02:43'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2024--09--05 01:02:43-green?style=flat-square&labelColor=black' alt='Generated on 2024--09--05 01:02:43'/>
 
 
