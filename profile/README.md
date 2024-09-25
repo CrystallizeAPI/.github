@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/24/9/24/2/using_video_to_turbocharge_black_friday_sales.jpg" alt="Using Video to Turbocharge Black Friday Sales" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/using-video-to-turbocharge-black-friday-sales" target="_blank">Using Video to Turbocharge Black Friday Sales</a></h3>
+                <p>Black Friday and Cyber Monday have always been about more than just boosting sales—they’re about creating lasting customer relationships. The best way to do this? <strong>Videos</strong>. Let me explain.</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/6/21/1/subscription-business-model.png" alt="Subscription Business Model" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/subscription-business-model" target="_blank">Subscription Business Model</a></h3>
                 <p>A regular, monthly influx of revenue from faithful customers? Who wouldn’t want to get in on that?! But how do you know if a subscription is the right approach for you?</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/24/8/13/1/optimizing_react_ecommerce_spa_blog_illustration.jpg" alt="SEO for React eCommerce SPA" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/seo-for-react-ecommerce-spa" target="_blank">SEO for React eCommerce SPA</a></h3>
                 <p>Single Page Applications (SPAs) offer a seamless, dynamic user experience, but they pose unique challenges for search engine optimization (SEO).</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/24/8/5/1/leveraging_global_cdn_blog_illustration.jpg" alt="Leveraging Global CDN" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/leveraging-global-cdn" target="_blank">Leveraging Global CDN</a></h3>
-                <p>Using a global CDN enhances eCommerce delivery speed by distributing content across geographically dispersed servers, reducing latency, and improving load times for users worldwide.</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/24/8/5/1/leveraging_global_cdn_blog_illustration.jpg" alt="Leveraging Global CDN" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/leveraging-global-cdn" target="_blank">Leveraging Global CDN</a></h3>
+                    <p>Using a global CDN enhances eCommerce delivery speed by distributing content across geographically dispersed servers, reducing latency, and improving load times for users worldwide.</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/24/5/21/1/headless-pim.png" alt="Headless PIM" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/headless-pim" target="_blank">Headless PIM</a></h3>
                     <p>A headless approach to PIM is the future of commerce, and it is already here. It means having a service ready to manage product information in seconds. Product information and content are delivered via an API. There are no templates, no web pages, only structured content—pure developer bliss.</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/23/6/14/1/product-page-seo.jpg" alt="Product Page SEO" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/product-page-seo" target="_blank">Product Page SEO</a></h3>
                     <p>Great product pages are vital to a successful online store and should be optimized for SEO and high conversions. Let’s look at the best practices for doing that.</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/24/4/17/2/composable-commerce.png" alt="Composable Commerce" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/composable-commerce" target="_blank">Composable Commerce</a></h3>
-                    <p>Composable commerce is a business strategy that enables an organization to rapidly adapt to market changes using modular, best-of-breed technology components.</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -55,7 +55,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/20/8/20/2/developer_comics_two_pursuits_of_remote_happiness.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/20/8/20/2/developer_comics_two_pursuits_of_remote_happiness.jpg" height="250" alt="Two Pursuits Of Remote Happiness"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/20/3/27/1/developer_comics_quarantined.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/20/3/27/1/developer_comics_quarantined.jpg" height="250" alt="Quarantined"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -93,6 +93,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2024--09--24 01:02:56-green?style=flat-square&labelColor=black' alt='Generated on 2024--09--24 01:02:56'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2024--09--25 01:02:55-green?style=flat-square&labelColor=black' alt='Generated on 2024--09--25 01:02:55'/>
 
 
