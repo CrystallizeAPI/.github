@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/24/10/1/2/headless-commerce-trends.png" alt="Headless Commerce Trends Innovations" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/headless-commerce-trends-innovations" target="_blank">Headless Commerce Trends Innovations</a></h3>
+                <p>A short overview of what is (probably) coming in the world of headless commerce.</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/24/9/24/2/using_video_to_turbocharge_black_friday_sales.jpg" alt="Using Video to Turbocharge Black Friday Sales" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/using-video-to-turbocharge-black-friday-sales" target="_blank">Using Video to Turbocharge Black Friday Sales</a></h3>
                 <p>Black Friday and Cyber Monday have always been about more than just boosting sales—they’re about creating lasting customer relationships. The best way to do this? <strong>Videos</strong>. Let me explain.</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/24/9/4/1/pull_requests_best_practices.jpg" alt="Pull Request Best Practices" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/pull-request-best-practices" target="_blank">Pull Request Best Practices</a></h3>
                 <p>A pull request is not just a mere step in the development process; it&#039;s a vital mechanism that allows teams to review, discuss, and improve code before it becomes part of the main codebase.</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/24/8/13/1/optimizing_react_ecommerce_spa_blog_illustration.jpg" alt="SEO for React eCommerce SPA" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/seo-for-react-ecommerce-spa" target="_blank">SEO for React eCommerce SPA</a></h3>
-                <p>Single Page Applications (SPAs) offer a seamless, dynamic user experience, but they pose unique challenges for search engine optimization (SEO).</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/24/8/13/1/optimizing_react_ecommerce_spa_blog_illustration.jpg" alt="SEO for React eCommerce SPA" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/seo-for-react-ecommerce-spa" target="_blank">SEO for React eCommerce SPA</a></h3>
+                    <p>Single Page Applications (SPAs) offer a seamless, dynamic user experience, but they pose unique challenges for search engine optimization (SEO).</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/24/8/5/1/leveraging_global_cdn_blog_illustration.jpg" alt="Leveraging Global CDN" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/leveraging-global-cdn" target="_blank">Leveraging Global CDN</a></h3>
                     <p>Using a global CDN enhances eCommerce delivery speed by distributing content across geographically dispersed servers, reducing latency, and improving load times for users worldwide.</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/24/5/14/1/multilingual_ecommerce_blog_illustration.jpg" alt="Building Multilingual eCommerce" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/building-multilingual-ecommerce" target="_blank">Building Multilingual eCommerce</a></h3>
                     <p>In today&#039;s global economy, multilingual eCommerce is not just an option; it&#039;s a strategic imperative.</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/23/6/14/1/product-page-seo.jpg" alt="Product Page SEO" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/product-page-seo" target="_blank">Product Page SEO</a></h3>
-                    <p>Great product pages are vital to a successful online store and should be optimized for SEO and high conversions. Let’s look at the best practices for doing that.</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -55,7 +55,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/23/3/17/2/crystallize_strip_runaway_developer_219.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/23/3/17/2/crystallize_strip_runaway_developer_219.jpg" height="250" alt="Runaway Developer"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/19/9/20/1/developer_comics_under_pressure.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/19/9/20/1/developer_comics_under_pressure.jpg" height="250" alt="Under Pressure"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -93,6 +93,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2024--10--01 01:03:15-green?style=flat-square&labelColor=black' alt='Generated on 2024--10--01 01:03:15'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2024--10--02 01:02:52-green?style=flat-square&labelColor=black' alt='Generated on 2024--10--02 01:02:52'/>
 
 
