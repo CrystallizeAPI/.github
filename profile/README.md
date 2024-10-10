@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/24/10/9/3/how-to-sell-subscriptions.jpg" alt="How to Sell Subscriptions?" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/how-to-sell-subscriptions" target="_blank">How to Sell Subscriptions?</a></h3>
+                <p>Nope, we won’t tell you how to run your business. We&#039;ll share best practices we&#039;ve found most of our clients follow.</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/24/10/1/2/headless-commerce-trends.png" alt="Headless Commerce Trends Innovations" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/headless-commerce-trends-innovations" target="_blank">Headless Commerce Trends Innovations</a></h3>
                 <p>A short overview of what is (probably) coming in the world of headless commerce.</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/6/21/1/subscription-business-model.png" alt="Subscription Business Model" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/subscription-business-model" target="_blank">Subscription Business Model</a></h3>
                 <p>A regular, monthly influx of revenue from faithful customers? Who wouldn’t want to get in on that?! But how do you know if a subscription is the right approach for you?</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/24/9/4/1/pull_requests_best_practices.jpg" alt="Pull Request Best Practices" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/pull-request-best-practices" target="_blank">Pull Request Best Practices</a></h3>
-                <p>A pull request is not just a mere step in the development process; it&#039;s a vital mechanism that allows teams to review, discuss, and improve code before it becomes part of the main codebase.</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/24/9/4/1/pull_requests_best_practices.jpg" alt="Pull Request Best Practices" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/pull-request-best-practices" target="_blank">Pull Request Best Practices</a></h3>
+                    <p>A pull request is not just a mere step in the development process; it&#039;s a vital mechanism that allows teams to review, discuss, and improve code before it becomes part of the main codebase.</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/24/8/13/1/optimizing_react_ecommerce_spa_blog_illustration.jpg" alt="SEO for React eCommerce SPA" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/seo-for-react-ecommerce-spa" target="_blank">SEO for React eCommerce SPA</a></h3>
                     <p>Single Page Applications (SPAs) offer a seamless, dynamic user experience, but they pose unique challenges for search engine optimization (SEO).</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/3/16/11/ecommerce-seo-utimate-guide-for-2022-crystallize.jpg" alt="eCommerce SEO Guide" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/ecommerce-seo-guide" target="_blank">eCommerce SEO Guide</a></h3>
                     <p>With Google having a clear bias towards big media publishers (<em>trustworthy, authority sites</em>) and thousands of mediocre AI content published daily, how do you fight for those top places in search engine results in 2024?</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/24/5/14/1/multilingual_ecommerce_blog_illustration.jpg" alt="Building Multilingual eCommerce" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/building-multilingual-ecommerce" target="_blank">Building Multilingual eCommerce</a></h3>
-                    <p>In today&#039;s global economy, multilingual eCommerce is not just an option; it&#039;s a strategic imperative.</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -55,7 +55,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/22/10/28/2/crystallize_strip_fright_mode_204.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/22/10/28/2/crystallize_strip_fright_mode_204.jpg" height="250" alt="Fright Mode"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/24/7/5/1/crystallize_strip_reading_between_the_colors_269.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/24/7/5/1/crystallize_strip_reading_between_the_colors_269.jpg" height="250" alt="Reading Between the Colors"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -93,6 +93,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2024--10--09 01:02:49-green?style=flat-square&labelColor=black' alt='Generated on 2024--10--09 01:02:49'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2024--10--10 01:02:57-green?style=flat-square&labelColor=black' alt='Generated on 2024--10--10 01:02:57'/>
 
 
