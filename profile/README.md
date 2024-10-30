@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/24/10/29/20/sustainable-tech-stack.png" alt="Sustainable ecommerce Tech Stack" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/sustainable-ecommerce-tech-stack" target="_blank">Sustainable ecommerce Tech Stack</a></h3>
+                <p>A sustainable eCommerce tech stack isn’t just about cutting emissions—it’s about smarter resource usage, future-proofing your platform, and aligning with the eco-conscious market.</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/24/10/16/9/pim-ecommerce-graphql-api.jpg" alt="Maximizing PIM Efficiency with GraphQL APIs" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/maximizing-pim-efficiency-with-graphql-apis" target="_blank">Maximizing PIM Efficiency with GraphQL APIs</a></h3>
                 <p>Product catalogs are rapidly expanding, and customer expectations for seamless, dynamic experiences are sky-high, making efficient <strong>Product Information Management (PIM)</strong> a necessity rather than a nice-to-have feature.</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/24/10/1/2/headless-commerce-trends.png" alt="Headless Commerce Trends Innovations" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/headless-commerce-trends-innovations" target="_blank">Headless Commerce Trends Innovations</a></h3>
                 <p>A short overview of what is (probably) coming in the world of headless commerce.</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/24/9/24/2/using_video_to_turbocharge_black_friday_sales.jpg" alt="Using Video to Turbocharge Black Friday Sales" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/using-video-to-turbocharge-black-friday-sales" target="_blank">Using Video to Turbocharge Black Friday Sales</a></h3>
-                <p>Black Friday and Cyber Monday have always been about more than just boosting sales—they’re about creating lasting customer relationships. The best way to do this? <strong>Videos</strong>. Let me explain.</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/24/9/24/2/using_video_to_turbocharge_black_friday_sales.jpg" alt="Using Video to Turbocharge Black Friday Sales" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/using-video-to-turbocharge-black-friday-sales" target="_blank">Using Video to Turbocharge Black Friday Sales</a></h3>
+                    <p>Black Friday and Cyber Monday have always been about more than just boosting sales—they’re about creating lasting customer relationships. The best way to do this? <strong>Videos</strong>. Let me explain.</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/6/21/1/subscription-business-model.png" alt="Subscription Business Model" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/subscription-business-model" target="_blank">Subscription Business Model</a></h3>
                     <p>A regular, monthly influx of revenue from faithful customers? Who wouldn’t want to get in on that?! But how do you know if a subscription is the right approach for you?</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/24/7/16/1/hosting_ecommerce_frontend_blog_illustration.jpg" alt="eCommerce Frontend" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/ecommerce-frontend" target="_blank">eCommerce Frontend</a></h3>
                     <p>You’ve spent a lot of time and effort developing an awesome eCommerce front end. Now, it’s time to make it publicly available. The question is: where are you going to host it?</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/24/6/4/1/frontend_frameworks_2024_blog_illustration.jpg" alt="Best Frontend Frameworks" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/best-frontend-frameworks" target="_blank">Best Frontend Frameworks</a></h3>
-                    <p>Two years ago, we observed that the frontend frameworks ecosystem was expanding so rapidly that choosing the perfect one for your online business or store was becoming increasingly difficult. What&#039;s new/changed since then? </p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -56,7 +56,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/23/9/29/1/crystallize_strip_the_wonder_wall_236.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/23/9/29/1/crystallize_strip_the_wonder_wall_236.jpg" height="250" alt="The Wonder Wall"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/images/638_developer_comics_lazy_vs_lazy_loading.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/images/638_developer_comics_lazy_vs_lazy_loading.jpg" height="250" alt="Image, Please!"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -94,6 +94,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2024--10--29 01:02:59-green?style=flat-square&labelColor=black' alt='Generated on 2024--10--29 01:02:59'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2024--10--30 01:02:59-green?style=flat-square&labelColor=black' alt='Generated on 2024--10--30 01:02:59'/>
 
 
