@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/23/8/15/1/authentication-vs-authorization.jpg" alt="Authentication vs. Authorization" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/authentication-vs-authorization" target="_blank">Authentication vs. Authorization</a></h3>
+                <p>Dive into the intricacies of authentication vs. authorization and learn how these security measures work in tandem to safeguard systems.</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/24/10/29/20/sustainable-tech-stack.png" alt="Sustainable ecommerce Tech Stack" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/sustainable-ecommerce-tech-stack" target="_blank">Sustainable ecommerce Tech Stack</a></h3>
                 <p>A sustainable eCommerce tech stack isn’t just about cutting emissions—it’s about smarter resource usage, future-proofing your platform, and aligning with the eco-conscious market.</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/24/10/9/3/how-to-sell-subscriptions.jpg" alt="How to Sell Subscriptions?" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/how-to-sell-subscriptions" target="_blank">How to Sell Subscriptions?</a></h3>
                 <p>Nope, we won’t tell you how to run your business. We&#039;ll share best practices we&#039;ve found most of our clients follow.</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/24/10/1/2/headless-commerce-trends.png" alt="Headless Commerce Trends Innovations" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/headless-commerce-trends-innovations" target="_blank">Headless Commerce Trends Innovations</a></h3>
-                <p>A short overview of what is (probably) coming in the world of headless commerce.</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/24/10/1/2/headless-commerce-trends.png" alt="Headless Commerce Trends Innovations" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/headless-commerce-trends-innovations" target="_blank">Headless Commerce Trends Innovations</a></h3>
+                    <p>A short overview of what is (probably) coming in the world of headless commerce.</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/24/9/24/2/using_video_to_turbocharge_black_friday_sales.jpg" alt="Using Video to Turbocharge Black Friday Sales" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/using-video-to-turbocharge-black-friday-sales" target="_blank">Using Video to Turbocharge Black Friday Sales</a></h3>
                     <p>Black Friday and Cyber Monday have always been about more than just boosting sales—they’re about creating lasting customer relationships. The best way to do this? <strong>Videos</strong>. Let me explain.</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/24/5/21/1/headless-pim.png" alt="Headless PIM" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/headless-pim" target="_blank">Headless PIM</a></h3>
                     <p>A headless approach to PIM is the future of commerce, and it is already here. It means having a service ready to manage product information in seconds. Product information and content are delivered via an API. There are no templates, no web pages, only structured content—pure developer bliss.</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/24/7/16/1/hosting_ecommerce_frontend_blog_illustration.jpg" alt="eCommerce Frontend" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/ecommerce-frontend" target="_blank">eCommerce Frontend</a></h3>
-                    <p>You’ve spent a lot of time and effort developing an awesome eCommerce front end. Now, it’s time to make it publicly available. The question is: where are you going to host it?</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -56,7 +56,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/20/5/1/1/developer_comics_it_runs_in_the_family.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/20/5/1/1/developer_comics_it_runs_in_the_family.jpg" height="250" alt="Chemistry By Design"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/23/8/25/1/crystallize_strip_sick_day_232.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/23/8/25/1/crystallize_strip_sick_day_232.jpg" height="250" alt="Sick Day"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -94,6 +94,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2024--11--01 01:03:14-green?style=flat-square&labelColor=black' alt='Generated on 2024--11--01 01:03:14'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2024--11--02 01:02:49-green?style=flat-square&labelColor=black' alt='Generated on 2024--11--02 01:02:49'/>
 
 
