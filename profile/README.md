@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/24/11/20/1/seamless-subscription-management.png" alt="Subscription Management" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/subscription-management" target="_blank">Subscription Management</a></h3>
+                <p>Why is subscription management a game-changer for eCommerce businesses, and how can you harness its power to maximize recurring revenue?</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/24/11/12/1/subscriptions-api.png" alt="Subscriptions (API) Overview" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/subscriptions-api-overview" target="_blank">Subscriptions (API) Overview</a></h3>
                 <p>Today, we will explore the Subscription API… how it works, and its benefits and differences from some competitors.</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/23/8/15/1/authentication-vs-authorization.jpg" alt="Authentication vs. Authorization" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/authentication-vs-authorization" target="_blank">Authentication vs. Authorization</a></h3>
                 <p>Dive into the intricacies of authentication vs. authorization and learn how these security measures work in tandem to safeguard systems.</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/24/10/29/20/sustainable-tech-stack.png" alt="Sustainable ecommerce Tech Stack" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/sustainable-ecommerce-tech-stack" target="_blank">Sustainable ecommerce Tech Stack</a></h3>
-                <p>A sustainable eCommerce tech stack isn’t just about cutting emissions—it’s about smarter resource usage, future-proofing your platform, and aligning with the eco-conscious market.</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/24/10/29/20/sustainable-tech-stack.png" alt="Sustainable ecommerce Tech Stack" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/sustainable-ecommerce-tech-stack" target="_blank">Sustainable ecommerce Tech Stack</a></h3>
+                    <p>A sustainable eCommerce tech stack isn’t just about cutting emissions—it’s about smarter resource usage, future-proofing your platform, and aligning with the eco-conscious market.</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/24/10/16/9/pim-ecommerce-graphql-api.jpg" alt="Maximizing PIM Efficiency with GraphQL APIs" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/maximizing-pim-efficiency-with-graphql-apis" target="_blank">Maximizing PIM Efficiency with GraphQL APIs</a></h3>
                     <p>Product catalogs are rapidly expanding, and customer expectations for seamless, dynamic experiences are sky-high, making efficient <strong>Product Information Management (PIM)</strong> a necessity rather than a nice-to-have feature.</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/24/9/4/1/pull_requests_best_practices.jpg" alt="Pull Request Best Practices" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/pull-request-best-practices" target="_blank">Pull Request Best Practices</a></h3>
                     <p>A pull request is not just a mere step in the development process; it&#039;s a vital mechanism that allows teams to review, discuss, and improve code before it becomes part of the main codebase.</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/24/8/13/1/optimizing_react_ecommerce_spa_blog_illustration.jpg" alt="SEO for React eCommerce SPA" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/seo-for-react-ecommerce-spa" target="_blank">SEO for React eCommerce SPA</a></h3>
-                    <p>Single Page Applications (SPAs) offer a seamless, dynamic user experience, but they pose unique challenges for search engine optimization (SEO).</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -56,7 +56,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/20/7/1/1/developer_comics_thinking_outside_the_box.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/20/7/1/1/developer_comics_thinking_outside_the_box.jpg" height="250" alt="Outside The Box"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/20/1/17/3/developer_comics_the_professional.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/20/1/17/3/developer_comics_the_professional.jpg" height="250" alt="The Professional"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -94,6 +94,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2024--11--20 01:03:05-green?style=flat-square&labelColor=black' alt='Generated on 2024--11--20 01:03:05'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2024--11--21 01:03:02-green?style=flat-square&labelColor=black' alt='Generated on 2024--11--21 01:03:02'/>
 
 
