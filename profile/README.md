@@ -15,14 +15,17 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/24/11/27/1/advanced-graphql-api-usage.jpg" alt="Advanced GraphQL API Usage" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/advanced-graphql-api-usage" target="_blank">Advanced GraphQL API Usage</a></h3>
                 <p>GraphQL has been known as a query language that allows you to fetch the data you need, thus reducing the payload size and improving performance. Today, we will cover a few advanced GraphQL queries that will help you enhance your eCommerce functionality.</p>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/24/12/11/2/seo-with-crystallize.png" alt="Optimizing Product Information for SEO" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/optimizing-product-information-for-seo" target="_blank">Optimizing Product Information for SEO</a></h3>
+                <p>Crystallize’s flexible product universe, clean URL structure, and API-first architecture give you all the tools you need to build an SEO-friendly store.</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/24/11/12/1/subscriptions-api.png" alt="Subscriptions (API) Overview" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/subscriptions-api-overview" target="_blank">Subscriptions (API) Overview</a></h3>
                 <p>Today, we will explore the Subscription API… how it works, and its benefits and differences from some competitors.</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/22/10/26/1/what-is-product_taxonomy.jpg" alt="What Is Product Taxonomy?" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/what-is-product-taxonomy" target="_blank">What Is Product Taxonomy?</a></h3>
-                <p>A great product taxonomy improves your customer&#039;s user experience and helps them find the right product more easily and quickly.</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/10/26/1/what-is-product_taxonomy.jpg" alt="What Is Product Taxonomy?" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/what-is-product-taxonomy" target="_blank">What Is Product Taxonomy?</a></h3>
+                    <p>A great product taxonomy improves your customer&#039;s user experience and helps them find the right product more easily and quickly.</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/23/8/15/1/authentication-vs-authorization.jpg" alt="Authentication vs. Authorization" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/authentication-vs-authorization" target="_blank">Authentication vs. Authorization</a></h3>
                     <p>Dive into the intricacies of authentication vs. authorization and learn how these security measures work in tandem to safeguard systems.</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/24/9/24/2/using_video_to_turbocharge_black_friday_sales.jpg" alt="Using Video to Turbocharge Black Friday Sales" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/using-video-to-turbocharge-black-friday-sales" target="_blank">Using Video to Turbocharge Black Friday Sales</a></h3>
                     <p>Black Friday and Cyber Monday have always been about more than just boosting sales—they’re about creating lasting customer relationships. The best way to do this? <strong>Videos</strong>. Let me explain.</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/6/21/1/subscription-business-model.png" alt="Subscription Business Model" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/subscription-business-model" target="_blank">Subscription Business Model</a></h3>
-                    <p>A regular, monthly influx of revenue from faithful customers? Who wouldn’t want to get in on that?! But how do you know if a subscription is the right approach for you?</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -56,7 +56,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/images/543_developer_comics_the_monster_piece.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/images/543_developer_comics_the_monster_piece.jpg" height="250" alt="The Monster Piece"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/images/387_developer_comics_adjusting_table_to_the_rescue.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/images/387_developer_comics_adjusting_table_to_the_rescue.jpg" height="250" alt="Adjustment Table To The Rescue!"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -94,6 +94,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2024--12--12 01:03:13-green?style=flat-square&labelColor=black' alt='Generated on 2024--12--12 01:03:13'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2024--12--13 01:03:20-green?style=flat-square&labelColor=black' alt='Generated on 2024--12--13 01:03:20'/>
 
 
