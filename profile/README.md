@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/24/12/17/1/ecommerce-personalization-2025.png" alt="eCommerce Personalization" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/ecommerce-personalization" target="_blank">eCommerce Personalization</a></h3>
+                <p>Discover how your business can leverage e-commerce personalization to deliver tailored shopping experiences that boost customer loyalty and drive sales in 2025.</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/24/11/20/1/seamless-subscription-management.png" alt="Subscription Management" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/subscription-management" target="_blank">Subscription Management</a></h3>
                 <p>Why is subscription management a game-changer for eCommerce businesses, and how can you harness its power to maximize recurring revenue?</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/24/12/11/2/seo-with-crystallize.png" alt="Optimizing Product Information for SEO" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/optimizing-product-information-for-seo" target="_blank">Optimizing Product Information for SEO</a></h3>
                 <p>Crystallize’s flexible product universe, clean URL structure, and API-first architecture give you all the tools you need to build an SEO-friendly store.</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/24/11/12/1/subscriptions-api.png" alt="Subscriptions (API) Overview" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/subscriptions-api-overview" target="_blank">Subscriptions (API) Overview</a></h3>
-                <p>Today, we will explore the Subscription API… how it works, and its benefits and differences from some competitors.</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/24/11/12/1/subscriptions-api.png" alt="Subscriptions (API) Overview" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/subscriptions-api-overview" target="_blank">Subscriptions (API) Overview</a></h3>
+                    <p>Today, we will explore the Subscription API… how it works, and its benefits and differences from some competitors.</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/22/10/26/1/what-is-product_taxonomy.jpg" alt="What Is Product Taxonomy?" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/what-is-product-taxonomy" target="_blank">What Is Product Taxonomy?</a></h3>
                     <p>A great product taxonomy improves your customer&#039;s user experience and helps them find the right product more easily and quickly.</p>
@@ -41,13 +44,11 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/24/10/1/2/headless-commerce-trends.png" alt="Headless Commerce Trends Innovations" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/headless-commerce-trends-innovations" target="_blank">Headless Commerce Trends Innovations</a></h3>
                     <p>A short overview of what is (probably) coming in the world of headless commerce.</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/24/9/24/2/using_video_to_turbocharge_black_friday_sales.jpg" alt="Using Video to Turbocharge Black Friday Sales" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/using-video-to-turbocharge-black-friday-sales" target="_blank">Using Video to Turbocharge Black Friday Sales</a></h3>
-                    <p>Black Friday and Cyber Monday have always been about more than just boosting sales—they’re about creating lasting customer relationships. The best way to do this? <strong>Videos</strong>. Let me explain.</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
                 <li><a href="https://crystallize.com//careers/senior-devops-backend-engineer" target="_blank">Remote Senior DevOps &#x2F; Backend Engineer</a></li>
+                <li><a href="https://crystallize.com//careers/global-partner-sales" target="_blank">Global Partner Sales - Remote</a></li>
                 <li><a href="https://crystallize.com//careers/developer-experience-engineer" target="_blank">Developer Experience Engineer</a></li>
                 <li><a href="https://crystallize.com//careers/frontend-developer" target="_blank">Frontend Developer</a></li>
                 <li><a href="https://crystallize.com//careers/backend-developer" target="_blank">Backend Developer</a></li>
@@ -56,7 +57,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/20/2/7/2/developer_comics_a_matter_of_life_and_death_a.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/20/2/7/2/developer_comics_a_matter_of_life_and_death_a.jpg" height="250" alt="A Matter Of Life And Death"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/24/2/9/1/crystallize_strip_bluetooth_speaker_252.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/24/2/9/1/crystallize_strip_bluetooth_speaker_252.jpg" height="250" alt="Bluetooth Speaker"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -94,6 +95,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2024--12--17 01:03:17-green?style=flat-square&labelColor=black' alt='Generated on 2024--12--17 01:03:17'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2024--12--18 01:03:06-green?style=flat-square&labelColor=black' alt='Generated on 2024--12--18 01:03:06'/>
 
 
