@@ -23,6 +23,9 @@
                 <p>Crystallize’s flexible product universe, clean URL structure, and API-first architecture give you all the tools you need to build an SEO-friendly store.</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/24/12/27/1/dpp.png" alt="Introduction Digital Product Passport" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/introduction-digital-product-passport" target="_blank">Introduction Digital Product Passport</a></h3>
+                    <p>The Digital Product Passport (DPP) is new legislation changing how Europe and the world make, buy, and sell products. Let’s talk about what it is, how it will affect your business, and how to do it in Crystallize.</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/24/11/12/1/subscriptions-api.png" alt="Subscriptions (API) Overview" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/subscriptions-api-overview" target="_blank">Subscriptions (API) Overview</a></h3>
                     <p>Today, we will explore the Subscription API… how it works, and its benefits and differences from some competitors.</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/24/10/9/3/how-to-sell-subscriptions.jpg" alt="How to Sell Subscriptions?" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/how-to-sell-subscriptions" target="_blank">How to Sell Subscriptions?</a></h3>
                     <p>Nope, we won’t tell you how to run your business. We&#039;ll share best practices we&#039;ve found most of our clients follow.</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/24/10/1/2/headless-commerce-trends.png" alt="Headless Commerce Trends Innovations" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/headless-commerce-trends-innovations" target="_blank">Headless Commerce Trends Innovations</a></h3>
-                    <p>A short overview of what is (probably) coming in the world of headless commerce.</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -57,7 +57,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/22/3/4/1/crystallize_strip_hr_recruiter_flubs_the_lingo_172.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/22/3/4/1/crystallize_strip_hr_recruiter_flubs_the_lingo_172.jpg" height="250" alt="HR Recruiter Flubs the Lingo"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/24/3/8/1/crystallize_strip_lost_in_translation_part_2_255.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/24/3/8/1/crystallize_strip_lost_in_translation_part_2_255.jpg" height="250" alt="Lost in Translation (Part 2)"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -95,6 +95,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2024--12--27 01:02:56-green?style=flat-square&labelColor=black' alt='Generated on 2024--12--27 01:02:56'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2024--12--28 01:02:53-green?style=flat-square&labelColor=black' alt='Generated on 2024--12--28 01:02:53'/>
 
 
