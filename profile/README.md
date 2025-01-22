@@ -26,6 +26,9 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/24/12/27/1/dpp.png" alt="Introduction Digital Product Passport" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/introduction-digital-product-passport" target="_blank">Introduction Digital Product Passport</a></h3>
                     <p>The Digital Product Passport (DPP) is new legislation changing how Europe and the world make, buy, and sell products. Let’s talk about what it is, how it will affect your business, and how to do it in Crystallize.</p>
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/25/1/21/1/build_high_converting_ecommerce_website.jpg" alt="Optimizing eCommerce Success" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/optimizing-ecommerce-success" target="_blank">Optimizing eCommerce Success</a></h3>
+                    <p>Unlock the potential of your online store with modern frameworks and eCommerce web development best practices for building a fast, user-friendly, and high-converting site.</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/24/11/12/1/subscriptions-api.png" alt="Subscriptions (API) Overview" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/subscriptions-api-overview" target="_blank">Subscriptions (API) Overview</a></h3>
                     <p>Today, we will explore the Subscription API… how it works, and its benefits and differences from some competitors.</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/24/10/16/9/pim-ecommerce-graphql-api.jpg" alt="Maximizing PIM Efficiency with GraphQL APIs" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/maximizing-pim-efficiency-with-graphql-apis" target="_blank">Maximizing PIM Efficiency with GraphQL APIs</a></h3>
                     <p>Product catalogs are rapidly expanding, and customer expectations for seamless, dynamic experiences are sky-high, making efficient <strong>Product Information Management (PIM)</strong> a necessity rather than a nice-to-have feature.</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/24/10/9/3/how-to-sell-subscriptions.jpg" alt="How to Sell Subscriptions?" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/how-to-sell-subscriptions" target="_blank">How to Sell Subscriptions?</a></h3>
-                    <p>Nope, we won’t tell you how to run your business. We&#039;ll share best practices we&#039;ve found most of our clients follow.</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -57,7 +57,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/23/9/8/1/crystallize_strip__perfect__for_the_job_234.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/23/9/8/1/crystallize_strip__perfect__for_the_job_234.jpg" height="250" alt="Perfect for the Job"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/images/638_developer_comics_lazy_vs_lazy_loading.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/images/638_developer_comics_lazy_vs_lazy_loading.jpg" height="250" alt="Image, Please!"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -95,6 +95,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2025--01--21 01:02:49-green?style=flat-square&labelColor=black' alt='Generated on 2025--01--21 01:02:49'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2025--01--22 01:02:55-green?style=flat-square&labelColor=black' alt='Generated on 2025--01--22 01:02:55'/>
 
 
