@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/22/1/24/2/web-rendering.jpg" alt="Web Rendering" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/web-rendering" target="_blank">Web Rendering</a></h3>
+                <p>Server-side Rendering, Static Site Generation, Client-side Rendering. CSR with Prerendering, Progressive Hydration, Partial Pre rendering, etc. The differences, trade-offs, and similarities between most common web rendering solutions and why you should care about them as a developer.</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/24/12/17/1/ecommerce-personalization-2025.png" alt="eCommerce Personalization" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/ecommerce-personalization" target="_blank">eCommerce Personalization</a></h3>
                 <p>Discover how your business can leverage e-commerce personalization to deliver tailored shopping experiences that boost customer loyalty and drive sales in 2025.</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/24/11/27/1/advanced-graphql-api-usage.jpg" alt="Advanced GraphQL API Usage" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/advanced-graphql-api-usage" target="_blank">Advanced GraphQL API Usage</a></h3>
                 <p>GraphQL has been known as a query language that allows you to fetch the data you need, thus reducing the payload size and improving performance. Today, we will cover a few advanced GraphQL queries that will help you enhance your eCommerce functionality.</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/24/12/11/2/seo-with-crystallize.png" alt="Optimizing Product Information for SEO" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/optimizing-product-information-for-seo" target="_blank">Optimizing Product Information for SEO</a></h3>
-                <p>Crystallize’s flexible product universe, clean URL structure, and API-first architecture give you all the tools you need to build an SEO-friendly store.</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/24/12/11/2/seo-with-crystallize.png" alt="Optimizing Product Information for SEO" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/optimizing-product-information-for-seo" target="_blank">Optimizing Product Information for SEO</a></h3>
+                    <p>Crystallize’s flexible product universe, clean URL structure, and API-first architecture give you all the tools you need to build an SEO-friendly store.</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/24/12/27/1/dpp.png" alt="Introduction Digital Product Passport" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/introduction-digital-product-passport" target="_blank">Introduction Digital Product Passport</a></h3>
                     <p>The Digital Product Passport (DPP) is new legislation changing how Europe and the world make, buy, and sell products. Let’s talk about what it is, how it will affect your business, and how to do it in Crystallize.</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/24/10/29/20/sustainable-tech-stack.png" alt="Sustainable ecommerce Tech Stack" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/sustainable-ecommerce-tech-stack" target="_blank">Sustainable ecommerce Tech Stack</a></h3>
                     <p>A sustainable eCommerce tech stack isn’t just about cutting emissions—it’s about smarter resource usage, future-proofing your platform, and aligning with the eco-conscious market.</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/24/10/16/9/pim-ecommerce-graphql-api.jpg" alt="Maximizing PIM Efficiency with GraphQL APIs" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/maximizing-pim-efficiency-with-graphql-apis" target="_blank">Maximizing PIM Efficiency with GraphQL APIs</a></h3>
-                    <p>Product catalogs are rapidly expanding, and customer expectations for seamless, dynamic experiences are sky-high, making efficient <strong>Product Information Management (PIM)</strong> a necessity rather than a nice-to-have feature.</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -57,7 +57,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/23/11/10/1/crystallize_strip_overweight_computer_241.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/23/11/10/1/crystallize_strip_overweight_computer_241.jpg" height="250" alt="Overweight Computer"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/images/402_crystallize_strip_04.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/images/402_crystallize_strip_04.jpg" height="250" alt="No Verify"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -95,6 +95,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2025--01--23 01:02:51-green?style=flat-square&labelColor=black' alt='Generated on 2025--01--23 01:02:51'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2025--01--24 01:02:54-green?style=flat-square&labelColor=black' alt='Generated on 2025--01--24 01:02:54'/>
 
 
