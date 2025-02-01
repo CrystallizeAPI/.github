@@ -15,14 +15,17 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/24/12/17/1/ecommerce-personalization-2025.png" alt="eCommerce Personalization" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/ecommerce-personalization" target="_blank">eCommerce Personalization</a></h3>
                 <p>Discover how your business can leverage e-commerce personalization to deliver tailored shopping experiences that boost customer loyalty and drive sales in 2025.</p>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/25/1/31/1/headless-commerce-2024.png" alt="Headless Commerce Statistics" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/headless-commerce-statistics" target="_blank">Headless Commerce Statistics</a></h3>
+                <p>Thinking about taking your project or business headless in 2025? Great move! I’m sure there are naysayers. To battle them, here are headless commerce statistics for 2025.</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/24/11/20/1/seamless-subscription-management.png" alt="Subscription Management" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/subscription-management" target="_blank">Subscription Management</a></h3>
                 <p>Why is subscription management a game-changer for eCommerce businesses, and how can you harness its power to maximize recurring revenue?</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/24/11/27/1/advanced-graphql-api-usage.jpg" alt="Advanced GraphQL API Usage" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/advanced-graphql-api-usage" target="_blank">Advanced GraphQL API Usage</a></h3>
-                <p>GraphQL has been known as a query language that allows you to fetch the data you need, thus reducing the payload size and improving performance. Today, we will cover a few advanced GraphQL queries that will help you enhance your eCommerce functionality.</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/24/11/27/1/advanced-graphql-api-usage.jpg" alt="Advanced GraphQL API Usage" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/advanced-graphql-api-usage" target="_blank">Advanced GraphQL API Usage</a></h3>
+                    <p>GraphQL has been known as a query language that allows you to fetch the data you need, thus reducing the payload size and improving performance. Today, we will cover a few advanced GraphQL queries that will help you enhance your eCommerce functionality.</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/24/12/11/2/seo-with-crystallize.png" alt="Optimizing Product Information for SEO" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/optimizing-product-information-for-seo" target="_blank">Optimizing Product Information for SEO</a></h3>
                     <p>Crystallize’s flexible product universe, clean URL structure, and API-first architecture give you all the tools you need to build an SEO-friendly store.</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/23/8/15/1/authentication-vs-authorization.jpg" alt="Authentication vs. Authorization" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/authentication-vs-authorization" target="_blank">Authentication vs. Authorization</a></h3>
                     <p>Dive into the intricacies of authentication vs. authorization and learn how these security measures work in tandem to safeguard systems.</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/24/10/29/20/sustainable-tech-stack.png" alt="Sustainable ecommerce Tech Stack" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/sustainable-ecommerce-tech-stack" target="_blank">Sustainable ecommerce Tech Stack</a></h3>
-                    <p>A sustainable eCommerce tech stack isn’t just about cutting emissions—it’s about smarter resource usage, future-proofing your platform, and aligning with the eco-conscious market.</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -57,7 +57,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/23/10/20/1/crystallize_strip_introducing_threads_239.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/23/10/20/1/crystallize_strip_introducing_threads_239.jpg" height="250" alt="Introducing Threads"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/images/521_crystallize_strip_29.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/images/521_crystallize_strip_29.jpg" height="250" alt="Can&#39;t Be Unseen"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -95,6 +95,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2025--01--31 01:02:51-green?style=flat-square&labelColor=black' alt='Generated on 2025--01--31 01:02:51'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2025--02--01 01:03:05-green?style=flat-square&labelColor=black' alt='Generated on 2025--02--01 01:03:05'/>
 
 
