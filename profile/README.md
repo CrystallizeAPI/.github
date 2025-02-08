@@ -23,6 +23,9 @@
                 <p>Thinking about taking your project or business headless in 2025? Great move! I’m sure there are naysayers. To battle them, here are headless commerce statistics for 2025.</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/24/10/9/3/how-to-sell-subscriptions.jpg" alt="How to Sell Subscriptions?" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/how-to-sell-subscriptions" target="_blank">How to Sell Subscriptions?</a></h3>
+                    <p>No, we won’t tell you how to run your business. We&#039;ll share best practices that we&#039;ve found most of our clients follow when selling subscriptions.</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/24/11/20/1/seamless-subscription-management.png" alt="Subscription Management" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/subscription-management" target="_blank">Subscription Management</a></h3>
                     <p>Why is subscription management a game-changer for eCommerce businesses, and how can you harness its power to maximize recurring revenue?</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/24/11/12/1/subscriptions-api.png" alt="Subscriptions (API) Overview" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/subscriptions-api-overview" target="_blank">Subscriptions (API) Overview</a></h3>
                     <p>Today, we will explore the Subscription API… how it works, and its benefits and differences from some competitors.</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/22/10/26/1/what-is-product_taxonomy.jpg" alt="What Is Product Taxonomy?" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/what-is-product-taxonomy" target="_blank">What Is Product Taxonomy?</a></h3>
-                    <p>A great product taxonomy improves your customer&#039;s user experience and helps them find the right product more easily and quickly.</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -57,7 +57,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/images/530_developercomicsjustaroughsketch.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/images/530_developercomicsjustaroughsketch.jpg" height="250" alt="It&#39;s Just A Rough Sketch"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/22/9/2/1/crystallize_strip_favorite_color_196.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/22/9/2/1/crystallize_strip_favorite_color_196.jpg" height="250" alt="Favorite Color"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -95,6 +95,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2025--02--07 01:02:58-green?style=flat-square&labelColor=black' alt='Generated on 2025--02--07 01:02:58'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2025--02--08 01:02:49-green?style=flat-square&labelColor=black' alt='Generated on 2025--02--08 01:02:49'/>
 
 
