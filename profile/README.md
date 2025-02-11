@@ -41,9 +41,9 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/25/1/21/1/build_high_converting_ecommerce_website.jpg" alt="Optimizing eCommerce Success" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/optimizing-ecommerce-success" target="_blank">Optimizing eCommerce Success</a></h3>
                     <p>Unlock the potential of your online store with modern frameworks and eCommerce web development best practices for building a fast, user-friendly, and high-converting site.</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/24/11/12/1/subscriptions-api.png" alt="Subscriptions (API) Overview" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/subscriptions-api-overview" target="_blank">Subscriptions (API) Overview</a></h3>
-                    <p>Today, we will explore the Subscription API… how it works, and its benefits and differences from some competitors.</p>
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/25/2/10/1/frntr_nextjs_blog_illustration.png" alt="New Next.js eCommerce Boilerplate" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/new-nextjs-ecommerce-boilerplate" target="_blank">New Next.js eCommerce Boilerplate</a></h3>
+                    <p>The Crystallize open-source starter kit provides developers with a robust boilerplate to quickly build modern, scalable eCommerce storefronts using the latest front-end technologies and best practices in performance, content modeling, and user experience. </p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -57,7 +57,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/20/11/19/4/developer_comics_clean_design.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/20/11/19/4/developer_comics_clean_design.jpg" height="250" alt="Clean Design"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/images/578_developer_comics_the_usual_price.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/images/578_developer_comics_the_usual_price.jpg" height="250" alt="High Hopes"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -95,6 +95,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2025--02--10 01:02:57-green?style=flat-square&labelColor=black' alt='Generated on 2025--02--10 01:02:57'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2025--02--11 01:02:56-green?style=flat-square&labelColor=black' alt='Generated on 2025--02--11 01:02:56'/>
 
 
