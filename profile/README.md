@@ -12,17 +12,20 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/1/24/2/web-rendering.jpg" alt="Web Rendering" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/web-rendering" target="_blank">Web Rendering</a></h3>
                 <p>Server-side Rendering, Static Site Generation, Client-side Rendering. CSR with Prerendering, Progressive Hydration, Partial Pre rendering, etc. The differences, trade-offs, and similarities between most common web rendering solutions and why you should care about them as a developer.</p>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/22/2/24/2/static-website-hosting-platforms.jpg" alt="Static Hosting" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/static-hosting" target="_blank">Static Hosting</a></h3>
+                <p>The static website hosting landscape has changed significantly in the past few years and is improving. Let’s talk about the fastest and most secure platforms in 2025.</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/4/26/1/dam.png" alt="Digital Asset Management" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/digital-asset-management" target="_blank">Digital Asset Management</a></h3>
                 <p>Discover how Digital Asset Management streamlines workflows, boosts brand consistency and enhances ROI in our comprehensive 2025 guide.</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/24/12/17/1/ecommerce-personalization-2025.png" alt="eCommerce Personalization" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/ecommerce-personalization" target="_blank">eCommerce Personalization</a></h3>
                 <p>Discover how your business can leverage e-commerce personalization to deliver tailored shopping experiences that boost customer loyalty and drive sales in 2025.</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/25/1/31/1/headless-commerce-2024.png" alt="Headless Commerce Statistics" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/headless-commerce-statistics" target="_blank">Headless Commerce Statistics</a></h3>
-                <p>Thinking about taking your project or business headless in 2025? Great move! I’m sure there are naysayers. To battle them, here are headless commerce statistics for 2025.</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/25/1/31/1/headless-commerce-2024.png" alt="Headless Commerce Statistics" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/headless-commerce-statistics" target="_blank">Headless Commerce Statistics</a></h3>
+                    <p>Thinking about taking your project or business headless in 2025? Great move! I’m sure there are naysayers. To battle them, here are headless commerce statistics for 2025.</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/24/10/9/3/how-to-sell-subscriptions.jpg" alt="How to Sell Subscriptions?" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/how-to-sell-subscriptions" target="_blank">How to Sell Subscriptions?</a></h3>
                     <p>No, we won’t tell you how to run your business. We&#039;ll share best practices that we&#039;ve found most of our clients follow when selling subscriptions.</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/25/1/21/1/build_high_converting_ecommerce_website.jpg" alt="Optimizing eCommerce Success" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/optimizing-ecommerce-success" target="_blank">Optimizing eCommerce Success</a></h3>
                     <p>Unlock the potential of your online store with modern frameworks and eCommerce web development best practices for building a fast, user-friendly, and high-converting site.</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/25/2/10/1/frntr_nextjs_blog_illustration.png" alt="New Next.js eCommerce Boilerplate" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/new-nextjs-ecommerce-boilerplate" target="_blank">New Next.js eCommerce Boilerplate</a></h3>
-                    <p>The Crystallize open-source starter kit provides developers with a robust boilerplate to quickly build modern, scalable eCommerce storefronts using the latest front-end technologies and best practices in performance, content modeling, and user experience. </p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -57,7 +57,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/23/2/3/1/crystallize_strip_quitting_developer_214.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/23/2/3/1/crystallize_strip_quitting_developer_214.jpg" height="250" alt="Quitting Developer"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/21/7/9/3/developer_comics_the_desperation.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/21/7/9/3/developer_comics_the_desperation.jpg" height="250" alt="The Desperation"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -95,6 +95,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2025--02--12 01:02:51-green?style=flat-square&labelColor=black' alt='Generated on 2025--02--12 01:02:51'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2025--02--13 01:02:55-green?style=flat-square&labelColor=black' alt='Generated on 2025--02--13 01:02:55'/>
 
 
