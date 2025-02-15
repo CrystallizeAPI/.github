@@ -18,11 +18,14 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/4/26/1/dam.png" alt="Digital Asset Management" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/digital-asset-management" target="_blank">Digital Asset Management</a></h3>
                 <p>Discover how Digital Asset Management streamlines workflows, boosts brand consistency and enhances ROI in our comprehensive 2025 guide.</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/24/12/17/1/ecommerce-personalization-2025.png" alt="eCommerce Personalization" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/ecommerce-personalization" target="_blank">eCommerce Personalization</a></h3>
-                <p>Discover how your business can leverage e-commerce personalization to deliver tailored shopping experiences that boost customer loyalty and drive sales in 2025.</p>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/23/1/17/1/ecommerce-business-models.jpg" alt="eCommerce Business Model" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/ecommerce-business-model" target="_blank">eCommerce Business Model</a></h3>
+                <p>Explore the different eCommerce business models—B2B, B2C, DTC, B2G, and more. Learn how to choose the right model for your online business and scale with modern strategies.</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/24/12/17/1/ecommerce-personalization-2025.png" alt="eCommerce Personalization" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/ecommerce-personalization" target="_blank">eCommerce Personalization</a></h3>
+                    <p>Discover how your business can leverage e-commerce personalization to deliver tailored shopping experiences that boost customer loyalty and drive sales in 2025.</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/25/1/31/1/headless-commerce-2024.png" alt="Headless Commerce Statistics" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/headless-commerce-statistics" target="_blank">Headless Commerce Statistics</a></h3>
                     <p>Thinking about taking your project or business headless in 2025? Great move! I’m sure there are naysayers. To battle them, here are headless commerce statistics for 2025.</p>
@@ -40,10 +43,7 @@
                     <p>Crystallize’s flexible product universe, clean URL structure, and API-first architecture give you all the tools you need to build an SEO-friendly store.</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/24/12/27/1/dpp.png" alt="Introduction Digital Product Passport" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/introduction-digital-product-passport" target="_blank">Introduction Digital Product Passport</a></h3>
-                    <p>The Digital Product Passport (DPP) is new legislation changing how Europe and the world make, buy, and sell products. Let’s talk about what it is, how it will affect your business, and how to do it in Crystallize.</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/25/1/21/1/build_high_converting_ecommerce_website.jpg" alt="Optimizing eCommerce Success" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/optimizing-ecommerce-success" target="_blank">Optimizing eCommerce Success</a></h3>
-                    <p>Unlock the potential of your online store with modern frameworks and eCommerce web development best practices for building a fast, user-friendly, and high-converting site.</p>
+                    <p>The Digital Product Passport (DPP) is new legislation changing how Europe and the world make, buy, and sell products. Let’s talk about what it is, how it will affect your business, and how to do it in Crystallize headless commerce.</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -57,7 +57,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/24/7/26/1/crystallize_strip_are_you_css_271.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/24/7/26/1/crystallize_strip_are_you_css_271.jpg" height="250" alt="Are you CSS?"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/21/6/3/3/developer_comics_the_embodiment_of_evil.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/21/6/3/3/developer_comics_the_embodiment_of_evil.jpg" height="250" alt="The Embodiment Of Evil"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -95,6 +95,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2025--02--14 01:02:54-green?style=flat-square&labelColor=black' alt='Generated on 2025--02--14 01:02:54'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2025--02--15 01:02:52-green?style=flat-square&labelColor=black' alt='Generated on 2025--02--15 01:02:52'/>
 
 
