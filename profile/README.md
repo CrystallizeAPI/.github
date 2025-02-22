@@ -9,6 +9,9 @@
     <tr>
         <td width="50%" valign="top">
             <h2>📕 Blog Posts</h2>
+                <p><img src="https://media.crystallize.com/crystallize_marketing/21/10/19/9/headless-commerce.jpg" alt="Headless Commerce" width="100" align="left"></p>
+                <h3><a href="https://crystallize.com//blog/headless-commerce" target="_blank">Headless Commerce</a></h3>
+                <p>Headless commerce is transforming the eCommerce landscape. It&#039;s a paradigm shift that offers unprecedented flexibility, scalability, and customization for businesses while improving the customer experience.</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/1/24/2/web-rendering.jpg" alt="Web Rendering" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/web-rendering" target="_blank">Web Rendering</a></h3>
                 <p>Server-side Rendering, Static Site Generation, Client-side Rendering. CSR with Prerendering, Progressive Hydration, Partial Pre rendering, etc. The differences, trade-offs, and similarities between most common web rendering solutions and why you should care about them as a developer.</p>
@@ -18,11 +21,11 @@
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/4/26/1/dam.png" alt="Digital Asset Management" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/digital-asset-management" target="_blank">Digital Asset Management</a></h3>
                 <p>Discover how Digital Asset Management streamlines workflows, boosts brand consistency and enhances ROI in our comprehensive 2025 guide.</p>
-                <p><img src="https://media.crystallize.com/crystallize_marketing/23/1/17/1/ecommerce-business-models.jpg" alt="eCommerce Business Model" width="100" align="left"></p>
-                <h3><a href="https://crystallize.com//blog/ecommerce-business-model" target="_blank">eCommerce Business Model</a></h3>
-                <p>Explore the different eCommerce business models—B2B, B2C, DTC, B2G, and more. Learn how to choose the right model for your online business and scale with modern strategies.</p>
             <details>
                 <summary>💡 More blog posts</summary><br />
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/23/1/17/1/ecommerce-business-models.jpg" alt="eCommerce Business Model" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/ecommerce-business-model" target="_blank">eCommerce Business Model</a></h3>
+                    <p>Explore the different eCommerce business models—B2B, B2C, DTC, B2G, and more. Learn how to choose the right model for your online business and scale with modern strategies.</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/24/12/17/1/ecommerce-personalization-2025.png" alt="eCommerce Personalization" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/ecommerce-personalization" target="_blank">eCommerce Personalization</a></h3>
                     <p>Discover how your business can leverage e-commerce personalization to deliver tailored shopping experiences that boost customer loyalty and drive sales in 2025.</p>
@@ -41,9 +44,6 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/24/12/11/2/seo-with-crystallize.png" alt="Optimizing Product Information for SEO" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/optimizing-product-information-for-seo" target="_blank">Optimizing Product Information for SEO</a></h3>
                     <p>Crystallize’s flexible product universe, clean URL structure, and API-first architecture give you all the tools you need to build an SEO-friendly store.</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/24/12/27/1/dpp.png" alt="Introduction Digital Product Passport" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/introduction-digital-product-passport" target="_blank">Introduction Digital Product Passport</a></h3>
-                    <p>The Digital Product Passport (DPP) is new legislation changing how Europe and the world make, buy, and sell products. Let’s talk about what it is, how it will affect your business, and how to do it in Crystallize headless commerce.</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -57,7 +57,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/21/12/10/1/crystallize_strip_161_new_colors.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/21/12/10/1/crystallize_strip_161_new_colors.jpg" height="250" alt="Before and After COVID"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/19/9/27/1/developer_comics_i_want_to_understand.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/19/9/27/1/developer_comics_i_want_to_understand.jpg" height="250" alt="I Want To Understand"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -95,6 +95,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2025--02--21 01:02:58-green?style=flat-square&labelColor=black' alt='Generated on 2025--02--21 01:02:58'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2025--02--22 01:02:49-green?style=flat-square&labelColor=black' alt='Generated on 2025--02--22 01:02:49'/>
 
 
