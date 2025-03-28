@@ -38,12 +38,12 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/24/12/17/1/ecommerce-personalization-2025.png" alt="eCommerce Personalization" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/ecommerce-personalization" target="_blank">eCommerce Personalization</a></h3>
                     <p>Discover how your business can leverage e-commerce personalization to deliver tailored shopping experiences that boost customer loyalty and drive sales in 2025.</p>
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/23/10/19/1/pim-platforms.jpg" alt="PIM Platforms" width="100" align="left"></p>
+                    <h3><a href="https://crystallize.com//blog/pim-platforms" target="_blank">PIM Platforms</a></h3>
+                    <p>Discover the top 8 leading Product Information Management (PIM) platforms in 2025, their features, benefits, and how to choose the right solution for your business needs.</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/25/1/31/1/headless-commerce-2024.png" alt="Headless Commerce Statistics" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/headless-commerce-statistics" target="_blank">Headless Commerce Statistics</a></h3>
                     <p>Thinking about taking your project or business headless in 2025? Great move! I’m sure there are naysayers. To battle them, here are headless commerce statistics for 2025.</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/24/10/9/3/how-to-sell-subscriptions.jpg" alt="How to Sell Subscriptions?" width="100" align="left"></p>
-                    <h3><a href="https://crystallize.com//blog/how-to-sell-subscriptions" target="_blank">How to Sell Subscriptions?</a></h3>
-                    <p>No, we won’t tell you how to run your business. We&#039;ll share best practices that we&#039;ve found most of our clients follow when selling subscriptions.</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -57,7 +57,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/21/6/11/1/developer_comics_cant_have_everything.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/21/6/11/1/developer_comics_cant_have_everything.jpg" height="250" alt="Can&#39;t Have Everything"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/22/3/18/1/crystallize_strip_wordle_174.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/22/3/18/1/crystallize_strip_wordle_174.jpg" height="250" alt="Wordle"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -95,6 +95,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2025--03--27 01:03:06-green?style=flat-square&labelColor=black' alt='Generated on 2025--03--27 01:03:06'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2025--03--28 01:03:10-green?style=flat-square&labelColor=black' alt='Generated on 2025--03--28 01:03:10'/>
 
 
