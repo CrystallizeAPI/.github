@@ -48,7 +48,6 @@
             <h2>👀 Job Offers</h2>
             <ul>
                 <li><a href="https://crystallize.com//careers/senior-devops-backend-engineer" target="_blank">Remote Senior DevOps &#x2F; Backend Engineer</a></li>
-                <li><a href="https://crystallize.com//careers/global-partner-sales" target="_blank">Global Partner Sales - Remote</a></li>
                 <li><a href="https://crystallize.com//careers/developer-experience-engineer" target="_blank">Developer Experience Engineer</a></li>
                 <li><a href="https://crystallize.com//careers/frontend-developer" target="_blank">Frontend Developer</a></li>
                 <li><a href="https://crystallize.com//careers/backend-developer" target="_blank">Backend Developer</a></li>
@@ -57,7 +56,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/21/1/15/1/developer_comics_never_failing_test.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/21/1/15/1/developer_comics_never_failing_test.jpg" height="250" alt="Never Failing Test"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/images/638_developer_comics_lazy_vs_lazy_loading.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/images/638_developer_comics_lazy_vs_lazy_loading.jpg" height="250" alt="Image, Please!"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -95,6 +94,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2025--04--23 02:17:08-green?style=flat-square&labelColor=black' alt='Generated on 2025--04--23 02:17:08'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2025--04--24 02:18:05-green?style=flat-square&labelColor=black' alt='Generated on 2025--04--24 02:18:05'/>
 
 
