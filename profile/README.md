@@ -38,7 +38,7 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/24/12/17/1/ecommerce-personalization-2025.png" alt="eCommerce Personalization" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/ecommerce-personalization" target="_blank">eCommerce Personalization</a></h3>
                     <p>Discover how your business can leverage e-commerce personalization to deliver tailored shopping experiences that boost customer loyalty and drive sales in 2025.</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/23/10/19/1/pim-platforms.jpg" alt="PIM Platforms" width="100" align="left"></p>
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/25/10/30/2/best_pim_platforms_blog_illustration.png" alt="PIM Platforms" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/pim-platforms" target="_blank">PIM Platforms</a></h3>
                     <p>Discover the top 8 leading Product Information Management (PIM) platforms in 2025, their features, benefits, and how to choose the right solution for your business needs.</p>
                     <p><img src="https://media.crystallize.com/crystallize_marketing/25/1/31/1/headless-commerce-2024.png" alt="Headless Commerce Statistics" width="100" align="left"></p>
@@ -56,7 +56,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/22/3/25/1/crystallize_strip_two_rules_175.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/22/3/25/1/crystallize_strip_two_rules_175.jpg" height="250" alt="Two Rules"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/23/11/3/4/crystallize_strip_an_old_friend_240.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/23/11/3/4/crystallize_strip_an_old_friend_240.jpg" height="250" alt="An Old Friend"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -94,6 +94,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2025--11--04 01:03:20-green?style=flat-square&labelColor=black' alt='Generated on 2025--11--04 01:03:20'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2025--11--05 01:03:23-green?style=flat-square&labelColor=black' alt='Generated on 2025--11--05 01:03:23'/>
 
 
