@@ -17,7 +17,7 @@
                 <p>Headless commerce separates your storefront (front end) from back-end commerce logic, connected via APIs. It lets you ship faster, customize freely, and sell across web, apps, social, and in-store screens without back-end bottlenecks.</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/1/24/2/web-rendering.jpg" alt="Web Rendering" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/web-rendering" target="_blank">Web Rendering</a></h3>
-                <p>Server-side Rendering, Static Site Generation, Client-side Rendering. CSR with Prerendering, Progressive Hydration, Partial Pre rendering, etc. The differences, trade-offs, and similarities between most common web rendering solutions and why you should care about them as a developer.</p>
+                <p>Server-side Rendering, Static Site Generation, Client-side Rendering. CSR with Prerendering, Progressive Hydration, Partial Pre-rendering, etc. The differences, trade-offs, and similarities between the most common web rendering solutions, and why you should care about them as a developer.</p>
                 <p><img src="https://media.crystallize.com/crystallize_marketing/22/2/24/2/static-website-hosting-platforms.jpg" alt="Static Hosting" width="100" align="left"></p>
                 <h3><a href="https://crystallize.com//blog/static-hosting" target="_blank">Static Hosting</a></h3>
                 <p>The static website hosting landscape has changed significantly in the past few years and is improving. Let’s talk about the fastest and most secure platforms in 2025.</p>
@@ -56,7 +56,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/images/319_developer_comics_spaghetti_monster.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/images/319_developer_comics_spaghetti_monster.jpg" height="250" alt="Spaghetti Monster"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/23/5/26/1/crystallize_strip_usernames_225.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/23/5/26/1/crystallize_strip_usernames_225.jpg" height="250" alt="Usernames"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -94,6 +94,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2026--01--23 01:03:41-green?style=flat-square&labelColor=black' alt='Generated on 2026--01--23 01:03:41'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2026--01--24 01:03:42-green?style=flat-square&labelColor=black' alt='Generated on 2026--01--24 01:03:42'/>
 
 
