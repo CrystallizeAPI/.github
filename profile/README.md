@@ -48,7 +48,6 @@
             <h2>👀 Job Offers</h2>
             <ul>
                 <li><a href="https://crystallize.com//careers/senior-devops-backend-engineer" target="_blank">Remote Senior DevOps &#x2F; Backend Engineer</a></li>
-                <li><a href="https://crystallize.com//careers/product-experience-lead" target="_blank">Product Experience Lead</a></li>
                 <li><a href="https://crystallize.com//careers/frontend-developer" target="_blank">Frontend Developer</a></li>
                 <li><a href="https://crystallize.com//careers/backend-developer" target="_blank">Backend Developer</a></li>
                 <li><a href="https://crystallize.com//careers/unicorn-designer-developer" target="_blank">Unicorn (Designer + Developer)</a></li>
@@ -56,7 +55,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/20/8/10/2/developer_comics_the_legacy_monster_a.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/20/8/10/2/developer_comics_the_legacy_monster_a.jpg" height="250" alt="The Legacy Monster"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/20/9/28/1/developer_comics_its_not_just_a_phase.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/20/9/28/1/developer_comics_its_not_just_a_phase.jpg" height="250" alt="It&#39;s Not A Phase!"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -94,6 +93,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2026--02--27 01:04:07-green?style=flat-square&labelColor=black' alt='Generated on 2026--02--27 01:04:07'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2026--02--28 01:03:53-green?style=flat-square&labelColor=black' alt='Generated on 2026--02--28 01:03:53'/>
 
 
