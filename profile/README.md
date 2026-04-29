@@ -41,9 +41,9 @@
                     <p><img src="https://media.crystallize.com/crystallize_marketing/25/10/30/2/best_pim_platforms_blog_illustration.png" alt="PIM Platforms" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/pim-platforms" target="_blank">PIM Platforms</a></h3>
                     <p>Discover the top 8 leading Product Information Management (PIM) platforms in 2025, their features, benefits, and how to choose the right solution for your business needs.</p>
-                    <p><img src="https://media.crystallize.com/crystallize_marketing/25/1/31/1/headless-commerce-2024.png" alt="Headless Commerce Statistics" width="100" align="left"></p>
+                    <p><img src="https://media.crystallize.com/crystallize_marketing/26/3/28/20c93fb5/headless-commerce-stats-2026.png" alt="Headless Commerce Statistics" width="100" align="left"></p>
                     <h3><a href="https://crystallize.com//blog/headless-commerce-statistics" target="_blank">Headless Commerce Statistics</a></h3>
-                    <p>Thinking about taking your project or business headless in 2025? Great move! I’m sure there are naysayers. To battle them, here are headless commerce statistics for 2025.</p>
+                    <p>The transition from legacy monolithic systems to decoupled, composable stacks is no longer a matter of &quot;if&quot; but &quot;how fast&quot; an organization can adapt.</p>
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
@@ -52,7 +52,7 @@
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/22/9/2/1/crystallize_strip_favorite_color_196.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/22/9/2/1/crystallize_strip_favorite_color_196.jpg" height="250" alt="Favorite Color"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/images/666_developer_comics_showtime.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/images/666_developer_comics_showtime.jpg" height="250" alt="Showtime"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -90,6 +90,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2026--04--28 01:14:56-green?style=flat-square&labelColor=black' alt='Generated on 2026--04--28 01:14:56'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2026--04--29 01:16:02-green?style=flat-square&labelColor=black' alt='Generated on 2026--04--29 01:16:02'/>
 
 
