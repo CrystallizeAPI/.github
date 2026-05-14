@@ -47,12 +47,13 @@
             </details>
             <h2>👀 Job Offers</h2>
             <ul>
+                <li><a href="https://crystallize.com//careers/partner-sales-manager-norway" target="_blank">Partner Sales Manager Norway - remote</a></li>
                 <li><a href="https://crystallize.com//careers/unicorn-designer-developer" target="_blank">Unicorn (Designer + Developer)</a></li>
             </ul>
         </td>
         <td width="50%" valign="top" align="center">
             <h2>🤗 Random Comic</h2>
-            <a href="https://media.crystallize.com/crystallize_marketing/images/281_developer_comics_recurring_nightmare.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/images/281_developer_comics_recurring_nightmare.jpg" height="250" alt="Recurring Nightmare"/></a><br />
+            <a href="https://media.crystallize.com/crystallize_marketing/24/8/2/1/crystallize_strip_master_of_code_272.jpg" target="_blank"><img src="https://media.crystallize.com/crystallize_marketing/24/8/2/1/crystallize_strip_master_of_code_272.jpg" height="250" alt="Master of Code"/></a><br />
             <h2>🗿 Open Source Libraries</h2>
 
 |  |  |  |
@@ -90,6 +91,6 @@
         </td>
     </tr>
 </table>
-<img align="right" src='https://img.shields.io/badge/Updated on-2026--05--13 01:20:00-green?style=flat-square&labelColor=black' alt='Generated on 2026--05--13 01:20:00'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-2026--05--14 01:21:22-green?style=flat-square&labelColor=black' alt='Generated on 2026--05--14 01:21:22'/>
 
 
